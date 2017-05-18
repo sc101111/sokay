@@ -1,39 +1,4 @@
-application: hum-multi
-version: 1
-runtime: php56
-api_version: 1
-
-handlers:
-- url: .*
-  script: index.php
-
-env_variables:
- DEVELOPMENT_DB_HOST: ''
- DEVELOPMENT_DB_USERNAME: 'root'
- DEVELOPMENT_DB_PASSWORD: ''
- DEVELOPMENT_DB_NAME: 'hum-multi'
- PRODUCTION_CLOUD_SQL_INSTANCE: '/cloudsql/guestbook:my-cloudsql-instance'
- PRODUCTION_DB_USERNAME: ''
- PRODUCTION_DB_PASSWORD: ''
- PRODUCTION_DB_NAME: 'hum-multi'
- 
- TPLINK WDR7500
- kjh9&*&!iu07+
- eflystonecom
- %sTErNnyU2463#
- FSec%!*104EmerS
- noRThwesTErn47%#!
- emerDAX!#%76
- cARneGiEm53&!@
- EMERdax!#%76
- emerTECH&@99
- noRThwesTErn47%#!
- 
- Package Include:
- 
-http://www.eflystone.com/e-table/299-180-degrees-rotatable-desk-adjustable-computer-armrest-wrist-rest-fscp.html 
-http://www.eflystone.com/ipad-2-3-4-163 
-http://www.eflystone.com/keyboards/4-apple-ipad-mini-3-retina-display-magnetic-79-inch-ultra-slim-aluminum-bluetooth-30-keyboard.html 
-http://www.eflystone.com/adapter-8?p=2
- 
- 
+env: flex
+runtime: php
+runtime_config:
+  document_root: .
