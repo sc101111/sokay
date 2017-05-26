@@ -1,0 +1,122 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>GRID作品集模組</title>
+    <meta name="description" content="jQuery Plugin to create Justified Image Gallery">
+    <link rel="stylesheet" href="normalize.css">
+    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="prism/prism.css">
+    <link rel="stylesheet" href="../jquery.justified.css">
+    <link href='http://fonts.googleapis.com/css?family=Raleway:100,300' rel='stylesheet' type='text/css'>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+	
+</head>
+
+<body>
+
+    <script src="prism/prism.js"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.6.0/underscore-min.js"></script>
+
+    <script src="../jquery.justified.js"></script>
+    
+	<section  class="body demo">
+	   <div class="container">           
+            <div class="demo-container clearfix">
+			<form class="form-vertical" id="grid-form" role="form">
+			 <script type="text/javascript">
+			 
+        var template = _.template('<div order="<%=photo.order%>" class="photo-container" id="photo-<%=photo.id%>" style="margin-right:<%=photo.marginRight%>px;"> \
+            <div title="View fullscreen" class="tooltip photo-zoom image-button"><i class="fa fa-expand"></i></div>\
+            <div title="Split this Moment from photos here onward" class="tooltip split-moment image-button"><i class="fa fa-code"></i></div>\
+            <div title="Undo Delete" class="undo-button image-button tooltip"><i class="fa fa-undo"></i></div>\
+            <img alt="<%=photo.title%>" class="image-thumb lazy" src="<%=photo.src%>" style="width:<%=photo.displayWidth%>px;height:<%=photo.displayHeight%>px;">\
+        </div>');
+        $(document).ready(function(){
+            $('#grid-form').submit(function(e){
+                e.preventDefault();
+                $.ajax({
+                    url : 'https://api.flickr.com/services/rest/?jsoncallback=?',
+                    method: 'get',
+                    data : {
+                        method : 'flickr.photos.search',
+                        api_key : '2b76793b6787a09c14929811d2cef67e',
+                        text : 'Chinese People',
+                        sort : 'interestingness-desc',
+                        format : 'json',
+                        extras : 'url_t,url_s,url_q,url_m,url_n,url_z,url_c,url_l',
+                        per_page : $('#numPhotos').val()
+                    },
+                    dataType: 'json',
+                    success : function(data){
+                        showPhotos(data.photos.photo);
+                    }
+                })
+            });
+            $('#grid-form').submit();
+        });
+        var showPhotos = function(photos){
+            $('.image-container').empty().justifiedImages({
+                images : photos,
+                rowHeight: $('#minHeight').val(),
+                maxRowHeight: $('#maxHeight').val(),
+                thumbnailPath: function(photo, width, height){
+                    var purl = photo.url_s;
+                    if( photo.url_n && (width > photo.width_s * 1.2 || height > photo.height_s * 1.2) ) purl = photo.url_n;
+                    if( photo.url_m && (width > photo.width_n * 1.2 || height > photo.height_n * 1.2) ) purl = photo.url_m;
+                    if( photo.url_z && (width > photo.width_m * 1.2 || height > photo.height_m * 1.2) ) purl = photo.url_z;
+                    if( photo.url_l && (width > photo.width_z * 1.2 || height > photo.height_z * 1.2) ) purl = photo.url_l;
+                    return purl;
+                },
+                getSize: function(photo){
+                    return {width: photo.width_s, height: photo.height_s};
+                },
+                margin: $('#margin').val()/*,
+                appendBlocks: function(){
+                    return [{
+                        rowNum : 1,
+                        width : 150,
+                        html : '<a href="#">Add Photo</a>'
+                    },{
+                        rowNum : -1,
+                        width : 150,
+                        html : '<a href="#">Add Last Photo</a>'
+                    }]
+                }*/
+            });
+        }
+    </script> 
+			    <div style="visibility: hidden" class="form-group">
+                    
+                    <input type="number" min=1 max=30 step=1 value="25" class="form-control" id="numPhotos">
+                  </div>
+				  <div style="visibility: hidden" class="form-group">
+                    
+                    <input type="number" min=50 max=600 step=10 value="50" class="form-control" id="minWidth">
+                  </div>
+				   <div style="visibility: hidden" class="form-group">
+                    
+                    <input type="number" min=500 max=600 step=10 value="500" class="form-control" id="maxWidth">
+                  </div>
+                  <div style="visibility: hidden" class="form-group">
+                    
+                    <input type="number" min=50 max=600 step=10 value="50" class="form-control" id="minHeight">
+                  </div>
+                 
+                  <div style="visibility: hidden" class="form-group">
+                   
+                    <input type="number" min=0 max=5 step=1 value="3" class="form-control" id="margin">
+                  </div>
+                  <div style="visibility: hidden" class="form-group">
+
+                      <button type="submit" class="btn btn-default">重新整理</button>
+
+                  </div>
+                </form>
+                <div class="image-container"></div>
+            </div>
+            <div class="text-container">
+             </div>
+    </section>  
+</body>
+</html>
