@@ -176,6 +176,46 @@
                 "thumb": "@PROJECT_PATH@/assets/images/3660603871-ybwa2kgu-sin14251-2000x2546-800x1018.jpg",
                 "image": "@PROJECT_PATH@/assets/images/3660603871-ybwa2kgu-sin14251-2000x2546.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vda-2000x2999-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vda-2000x2999.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vda-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vda-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vda-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vda-2000x1334.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vda-1-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vda-1-2000x1334.jpg",
+                "caption": "Type caption here",
                 "active": true
               }
             ],
