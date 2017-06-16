@@ -64,7 +64,7 @@
             },
             ".mbr-section-lead SPAN": {
               "font-size": "25px",
-              "color": "#000000"
+              "color": "#ffffff"
             }
           },
           "_anchor": "header4-s",
@@ -90,7 +90,7 @@
             "showButtons": false
           },
           "title": "Everest Textile Co., Ltd.",
-          "text": "<b style=\"font-style: normal;\">Taiwan: +886-2-27171718 China: +86-21-68751111 Thailand: +66-2-2630671 ~ 4&nbsp;</b>",
+          "text": "<span style=\"font-style: normal;\"><b>Taiwan: +886-2-27171718 China: +86-21-68751111 Thailand: +66-2-2630671 ~ 4&nbsp;</b></span>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Art</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Product</a>"
         },
         {
@@ -248,7 +248,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\" http://www.123contactform.com/form-2764113/My-Form-2\">Suppliers Information Update</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\" http://www.123contactform.com/form-2764113/Suppliers-Info\">Suppliers Information Update</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     }
