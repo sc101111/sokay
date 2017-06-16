@@ -63,7 +63,7 @@
               "color": "#000000"
             },
             ".mbr-section-lead SPAN": {
-              "font-size": "25px",
+              "font-size": "18px",
               "color": "#ffffff"
             }
           },
@@ -86,12 +86,12 @@
             "overlayColor": "#000000",
             "contentAlign": "left",
             "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "showText": false,
+            "showButtons": true
           },
           "title": "Everest Textile Co., Ltd.",
-          "text": "<span style=\"font-style: normal;\"><b>Taiwan: +886-2-27171718 China: +86-21-68751111 Thailand: +66-2-2630671 ~ 4&nbsp;</b></span>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Art</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Product</a>"
+          "text": "",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Taiwan: +886-2-27171718 China: +86-21-68751111 Thailand: +66-2-2630671-4&nbsp;</a> "
         },
         {
           "_tags": [
