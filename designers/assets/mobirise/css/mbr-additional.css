@@ -415,6 +415,9 @@ h6,
 #msg-box8-1a p {
   color: #fff;
 }
+#msg-box8-1a .mbr-section-title {
+  color: #ffffff;
+}
 #gallery1-1b .mbr-gallery-item > div > span SPAN {
   font-size: 16px;
 }
@@ -443,11 +446,11 @@ h6,
   color: #ffffff;
 }
 #menu-q .link {
-  font-size: 1.4rem;
+  font-size: 1.3rem;
 }
 #menu-q .dropdown-item,
 #menu-q .nav-dropdown-sm .link {
-  font-size: 1.516rem;
+  font-size: 1.408rem;
 }
 #menu-q .link:hover,
 #menu-q .dropdown-item:hover,
