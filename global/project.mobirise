@@ -90,7 +90,7 @@
           "_anchor": "features1-1o",
           "_params": {
             "columnsColor": "#2e2e2e",
-            "paddingTop": "0",
+            "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -246,7 +246,7 @@
           "_anchor": "features1-1p",
           "_params": {
             "columnsColor": "#2e2e2e",
-            "paddingTop": "0",
+            "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -397,8 +397,8 @@
           "_anchor": "features1-1q",
           "_params": {
             "columnsColor": "#ffffff",
-            "paddingTop": "0",
-            "paddingBottom": "1",
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -552,7 +552,7 @@
           "_anchor": "features1-1r",
           "_params": {
             "columnsColor": "#2e2e2e",
-            "paddingTop": "0",
+            "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -693,7 +693,7 @@
           "_anchor": "features1-1s",
           "_params": {
             "columnsColor": "#ffffff",
-            "paddingTop": "0",
+            "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -844,7 +844,7 @@
           "_anchor": "features1-1t",
           "_params": {
             "columnsColor": "#2e2e2e",
-            "paddingTop": "0",
+            "paddingTop": "4",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
