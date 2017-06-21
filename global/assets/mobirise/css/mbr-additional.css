@@ -20,6 +20,12 @@
 
 
 
+
+
+
+
+
+
 body,
 input,
 textarea,
@@ -539,6 +545,36 @@ h6,
 #features1-1s .mbr-cards-col:nth-child(odd) .card-text SPAN {
   font-family: 'Lato', sans-serif;
 }
+#features1-1u .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #2e2e2e;
+}
+#features1-1u .mbr-cards-col:nth-child(odd) .card-text {
+  text-align: left;
+  font-family: 'Lato', sans-serif;
+}
+#features1-1u .mbr-cards-col:nth-child(even) .card-text {
+  text-align: left;
+  font-family: 'Lato', sans-serif;
+}
+#features1-1v .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #ffffff;
+}
+#features1-1v .mbr-cards-col:nth-child(odd) .card-text {
+  text-align: left;
+  font-family: 'Lato', sans-serif;
+  color: #000000;
+}
+#features1-1v .mbr-cards-col:nth-child(even) .card-text {
+  text-align: left;
+  font-family: 'Lato', sans-serif;
+  color: #ffffff;
+}
+#features1-1v .mbr-cards-col:nth-child(odd) .card-title {
+  color: #000000;
+}
+#features1-1v .mbr-cards-col:nth-child(even) .card-title {
+  color: #ffffff;
+}
 #features1-1t .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
@@ -547,6 +583,25 @@ h6,
 }
 #features1-1t .mbr-cards-col:nth-child(even) .card-text {
   text-align: left;
+}
+#features1-1w .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #ffffff;
+}
+#features1-1w .mbr-cards-col:nth-child(odd) .card-text {
+  text-align: left;
+  color: #000000;
+  font-family: 'Lato', sans-serif;
+}
+#features1-1w .mbr-cards-col:nth-child(even) .card-text {
+  text-align: left;
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
+}
+#features1-1w .mbr-cards-col:nth-child(odd) .card-title {
+  color: #000000;
+}
+#features1-1w .mbr-cards-col:nth-child(even) .card-title {
+  color: #ffffff;
 }
 #menu-q .hide-buttons .nav-btn {
   display: none !important;
