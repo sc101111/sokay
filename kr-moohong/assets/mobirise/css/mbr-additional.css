@@ -765,3 +765,7 @@ h6,
 #extCounters1-b .mbr-section-title {
   color: #fff;
 }
+#footer1-n .mbr-editable-content {
+  font-family: 'Noto Sans';
+  font-weight: bold;
+}

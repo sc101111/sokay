@@ -44,7 +44,7 @@
         "main": true,
         "title": "",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "<link href='https://fonts.googleapis.com/css?family=Noto+Sans:400,400italic,700,700italic' rel='stylesheet' type='text/css'>",
         "footer_custom": "",
         "html_before": ""
       },
@@ -628,12 +628,17 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Paypal Checkout",
+          "text": "Paypal Checkout 字型測試",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-n"
+          "_anchor": "footer1-n",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" data-rv-view=\"53\" style=\"background-color: rgb(50, 50, 50); padding-top: 0.875rem; padding-bottom: 0.875rem;\">\n    \n    <div class=\"container text-xs-center\">\n        <p class=\"mbr-editable-content\" code-editable-id=\"53\"><font face=\"Noto Sans\"><strong>字型測試</strong></font></p>\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-editable-content {\n    font-family: 'Noto Sans';\n    font-weight: bold;\n}",
+          "_customTemplate": true
         }
       ]
     }
