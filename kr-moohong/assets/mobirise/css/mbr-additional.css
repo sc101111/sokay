@@ -1,8 +1,10 @@
 @import url(../../../https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(../../..///fonts.googleapis.com/earlyaccess/notosanstc.css);
+
 
 
 
@@ -762,10 +764,10 @@ h6,
 #header4-3 .mbr-section-title {
   font-size: 48px;
 }
+#extForm3-p .btn {
+  font-size: 19px;
+  font-family: 'Oswald', sans-serif;
+}
 #extCounters1-b .mbr-section-title {
   color: #fff;
-}
-#footer1-n .mbr-editable-content {
-  font-family: 'Noto Sans';
-  font-weight: bold;
 }
