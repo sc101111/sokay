@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "kr-a.av",
+    "name": "My Site",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,13 +22,9 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 38,
-    "versionPublish": "4.0.9",
-    "path": "@PROJECT_PATH@",
-    "favicon": "",
-    "noImageResize": "",
-    "cookiesAlert": "",
-    "google-analytics": ""
+    "uniqCompNum": 36,
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -63,163 +59,29 @@
           },
           "_anchor": "header4-s",
           "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "showArrow": true,
-            "contentAlign": "left",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "bgColor": "#a07e49",
-            "bgVideoRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
               "width": 1280,
               "height": 720,
               "url": "https://www.youtube.com/embed/RGeJDqeMGOw?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
+            "bgVideoRadio": true,
             "overlay": true,
+            "overlayOpacity": "0.1",
             "overlayColor": "#000000",
-            "overlayOpacity": "0.1"
+            "contentAlign": "left",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
           },
           "title": "A.AV",
           "text": "<b>KwangHo Lee, Korea, Asia</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Art</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Product</a>"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showForm": true,
-            "inverse": false,
-            "imageSize": "27",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/1s9a1586-1250x833.png",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.1"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/3067944114-6j7tghxl-eca095eb9190ec9881-ec82aceca784-black-800x1200.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Events feeding for fans",
-          "text": "Full-screen intro with background image, subscribe form and a video section on the left side.",
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>",
-          "form": {
-            "action": "simonchang1108@gmail.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "email": {
-                "title": "Email",
-                "customTitle": "Enter Your Email"
-              }
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extForm2",
-          "_anchor": "extForm2-11"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showContacts": true,
-            "showSubtitle": false,
-            "showText": true,
-            "showForm": true,
-            "inverse": false,
-            "googleMap": {
-              "address": "서울시 강남구 언주로 147길 8; 초원빌딩 ",
-              "placeId": "ChIJARJ5lIyjfDURT7dqSSPBbpg",
-              "state": "ok",
-              "stateDetails": ""
-            },
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extForm1_bg.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#fafafa",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.1
-          },
-          "title": "DROP A MESSAGE",
-          "title1": "to Mr. KwangHo Lee",
-          "title2": "Visit our office",
-          "subTitle1": "Ready for offers &amp; cooperation",
-          "subTitle2": "Glad to meet new people",
-          "text1": "Phone:&nbsp;070-7730-6974<br>Fax:&nbsp;02-577-0542<br>서울시 강남구 언주로 147길 8; 초원빌딩 3층<br>",
-          "text2": "1234 Street Name </br> City AA 99999",
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND MESSAGE</a>",
-          "form": {
-            "action": "jsl@thestm.com",
-            "alerts": {
-              "success": "Thanks for filling out form!"
-            },
-            "fields": {
-              "name": {
-                "visible": true,
-                "title": "Name",
-                "customTitle": "Name*"
-              },
-              "email": {
-                "visible": true,
-                "title": "Email",
-                "customTitle": "Email*"
-              },
-              "phone": {
-                "visible": true,
-                "title": "Phone",
-                "customTitle": "Phone*"
-              },
-              "message": {
-                "visible": true,
-                "title": "Message",
-                "customTitle": "Message"
-              }
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extForm4",
-          "_anchor": "extForm4-10"
         },
         {
           "_tags": [
@@ -227,15 +89,8 @@
           ],
           "_name": "gallery1",
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": 0,
             "paddingTop": 0,
             "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#FFFFFF",
-            "showText": false,
-            "filter": false,
             "images": [
               {
                 "tags": "Awesome",
@@ -277,7 +132,14 @@
                 "caption": "Type caption here",
                 "active": true
               }
-            ]
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
           },
           "_anchor": "gallery1-z",
           "articleLayout": false,
@@ -338,17 +200,17 @@
           "_name": "menu",
           "_anchor": "menu-q",
           "_params": {
-            "logo": true,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": true,
-            "collapsed": false,
-            "transparent": true,
             "bgColor": "#282828",
             "fontSize": "1.4",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": false,
+            "collapsed": false,
+            "hideButtons": true
           },
           "logo": {
             "image": {
