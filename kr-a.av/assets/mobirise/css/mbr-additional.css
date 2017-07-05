@@ -682,6 +682,12 @@ h6,
 #header4-s .mbr-section-lead {
   font-family: 'Oswald', sans-serif;
 }
+#extForm4-10 H2 {
+  font-size: 32px;
+}
+#extForm4-10 P {
+  color: #28324e;
+}
 #menu-q .hide-buttons .nav-btn {
   display: none !important;
 }
