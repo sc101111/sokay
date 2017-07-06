@@ -29,9 +29,7 @@
     "noImageResize": "",
     "mcShopcart": {
       "email": "simonchang1108@gmail.com"
-    },
-    "publishType": "local",
-    "publishPath": "file:///D:/wamp/www/korea/kr-kiok"
+    }
   },
   "pages": {
     "index.html": {
@@ -58,7 +56,7 @@
             "showArrow": false,
             "imageSize": "30",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/tumblr_o65tmef7a21ryq2zfo6-1280x1920.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/tumblr-o65tmef7a21ryq2zfo6-1280x1920.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -74,7 +72,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/thumb-3067944114_f8l3hknj_ebb095ec8ab9eab1b4_300x442-300x442.png",
+              "src": "@PROJECT_PATH@/assets/images/thumb-3067944114-f8l3hknj-ebb095ec8ab9eab1b4-300x442-300x442.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -123,7 +121,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-373x560-373x560.png",
-                "image": "@PROJECT_PATH@/assets/images/162_pushbuttonfw17runway-373x560.png",
+                "image": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-373x560.png",
                 "caption": "",
                 "active": false
               },
@@ -133,7 +131,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-1-373x560-373x560.png",
-                "image": "@PROJECT_PATH@/assets/images/162_pushbuttonfw17runway-1-373x560.png",
+                "image": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-1-373x560.png",
                 "caption": "",
                 "active": false
               },
@@ -143,7 +141,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-2-373x560-373x560.png",
-                "image": "@PROJECT_PATH@/assets/images/162_pushbuttonfw17runway-2-373x560.png",
+                "image": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-2-373x560.png",
                 "caption": "",
                 "active": false
               },
@@ -153,7 +151,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-3-373x560-373x560.png",
-                "image": "@PROJECT_PATH@/assets/images/162_pushbuttonfw17runway-3-373x560.png",
+                "image": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-3-373x560.png",
                 "caption": "",
                 "active": false
               },
@@ -163,7 +161,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-4-373x560-373x560.png",
-                "image": "@PROJECT_PATH@/assets/images/162_pushbuttonfw17runway-4-373x560.png",
+                "image": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-4-373x560.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -173,7 +171,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-5-373x560-373x560.png",
-                "image": "@PROJECT_PATH@/assets/images/162_pushbuttonfw17runway-5-373x560.png",
+                "image": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-5-373x560.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -183,7 +181,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-6-373x560-373x560.png",
-                "image": "@PROJECT_PATH@/assets/images/162_pushbuttonfw17runway-6-373x560.png",
+                "image": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-6-373x560.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -193,7 +191,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-7-373x560-373x560.png",
-                "image": "@PROJECT_PATH@/assets/images/162_pushbuttonfw17runway-7-373x560.png",
+                "image": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-7-373x560.png",
                 "caption": "Type caption here",
                 "active": true
               }

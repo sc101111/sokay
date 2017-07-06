@@ -58,7 +58,7 @@
             "showArrow": false,
             "imageSize": "30",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/tumblr_o65tmef7a21ryq2zfo6-1280x1920.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/collection_13_47_o_1b1obtlb9lk2nn9sqrca0rs31i-667x1000.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -74,7 +74,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/thumb-3067944114_f8l3hknj_ebb095ec8ab9eab1b4_300x442-300x442.png",
+              "src": "@PROJECT_PATH@/assets/images/3543142170-xn0r4tuk-kiok-ed9484eba19ced9584ec9db4ebafb8eca780-1400x1256.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -92,7 +92,7 @@
               "size": 250
             }
           },
-          "title": "PushBUTTON&nbsp;<br>박승건 , Korea, Asia",
+          "title": "KIOK 2017<br>강기옥, Korea, Asia",
           "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
@@ -122,18 +122,18 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-373x560-373x560.png",
-                "image": "@PROJECT_PATH@/assets/images/162_pushbuttonfw17runway-373x560.png",
+                "thumb": "@PROJECT_PATH@/assets/images/bk1-1360x2048-800x1204.png",
+                "image": "@PROJECT_PATH@/assets/images/bk1-1360x2048.png",
                 "caption": "",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-1-373x560-373x560.png",
-                "image": "@PROJECT_PATH@/assets/images/162_pushbuttonfw17runway-1-373x560.png",
+                "thumb": "@PROJECT_PATH@/assets/images/bk1-1-1360x2048-800x1204.png",
+                "image": "@PROJECT_PATH@/assets/images/bk1-1-1360x2048.png",
                 "caption": "",
                 "active": false
               },
@@ -142,8 +142,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-2-373x560-373x560.png",
-                "image": "@PROJECT_PATH@/assets/images/162_pushbuttonfw17runway-2-373x560.png",
+                "thumb": "@PROJECT_PATH@/assets/images/bk1-2-1360x2048-800x1204.png",
+                "image": "@PROJECT_PATH@/assets/images/bk1-2-1360x2048.png",
                 "caption": "",
                 "active": false
               },
@@ -152,8 +152,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-3-373x560-373x560.png",
-                "image": "@PROJECT_PATH@/assets/images/162_pushbuttonfw17runway-3-373x560.png",
+                "thumb": "@PROJECT_PATH@/assets/images/bk1-3-1360x2048-800x1204.png",
+                "image": "@PROJECT_PATH@/assets/images/bk1-3-1360x2048.png",
                 "caption": "",
                 "active": false
               },
@@ -162,8 +162,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-4-373x560-373x560.png",
-                "image": "@PROJECT_PATH@/assets/images/162_pushbuttonfw17runway-4-373x560.png",
+                "thumb": "@PROJECT_PATH@/assets/images/bk1-4-1360x2048-800x1204.png",
+                "image": "@PROJECT_PATH@/assets/images/bk1-4-1360x2048.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -172,8 +172,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-5-373x560-373x560.png",
-                "image": "@PROJECT_PATH@/assets/images/162_pushbuttonfw17runway-5-373x560.png",
+                "thumb": "@PROJECT_PATH@/assets/images/bk1-5-1360x2048-800x1204.png",
+                "image": "@PROJECT_PATH@/assets/images/bk1-5-1360x2048.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -182,8 +182,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-6-373x560-373x560.png",
-                "image": "@PROJECT_PATH@/assets/images/162_pushbuttonfw17runway-6-373x560.png",
+                "thumb": "@PROJECT_PATH@/assets/images/bk1-6-1360x2048-800x1204.png",
+                "image": "@PROJECT_PATH@/assets/images/bk1-6-1360x2048.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -192,10 +192,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-7-373x560-373x560.png",
-                "image": "@PROJECT_PATH@/assets/images/162_pushbuttonfw17runway-7-373x560.png",
+                "thumb": "@PROJECT_PATH@/assets/images/bk1-7-1360x2048-800x1204.png",
+                "image": "@PROJECT_PATH@/assets/images/bk1-7-1360x2048.png",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
@@ -212,7 +212,7 @@
           "_styles": {
             ".mbr-section-title": {
               "text-align": "left",
-              "font-size": "36px"
+              "font-size": "48px"
             },
             ".mbr-section-lead B": {
               "font-family": "'Oxygen', sans-serif",
@@ -240,8 +240,8 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/meVpzNh2S8E?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/meVpzNh2S8E",
+              "url": "https://www.youtube.com/embed/J6H0TJgalJI?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/J6H0TJgalJI",
               "width": 1280,
               "height": 720
             },
@@ -249,8 +249,8 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.1"
           },
-          "title": "PushBUTTON 2017 FW",
-          "text": "<b style=\"font-style: normal;\">박승건</b>&nbsp;<b>, Korea, Asia</b>",
+          "title": "KIOK 2017",
+          "text": "<b style=\"font-style: normal;\">강기옥</b>&nbsp;<b>, Korea, Asia</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Art</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Product</a>"
         },
         {
@@ -351,8 +351,8 @@
             "showForm": true,
             "inverse": false,
             "googleMap": {
-              "address": "서울시 용산구 한남동 대사관로 6길 5",
-              "placeId": "ChIJVVVVVbKjfDURpNlraHDxvB4",
+              "address": "부산 해운대구 우동 641-10",
+              "placeId": "ChIJ7YkMUF-NaDUR2SqwmXm_wk0",
               "state": "ok",
               "stateDetails": ""
             },
@@ -370,15 +370,15 @@
             "overlayOpacity": 0.1
           },
           "title": "DROP A MESSAGE",
-          "title1": "To : PushBUTTON",
+          "title1": "To : 강기옥",
           "title2": "Visit our office",
           "subTitle1": "Ready for offers & cooperation",
           "subTitle2": "Glad to meet new people",
-          "text1": "Phone:&nbsp;02 797 1203<br>Fax:&nbsp;02 797 1204<br>서울시 용산구 한남동 대사관로 6길 5<br>",
+          "text1": "Phone:&nbsp;02-3443-9249<br>Fax:&nbsp;02-516-7469<br>서울시 강남구 역삼로 464 kiok fashion house<br>",
           "text2": "1234 Street Name </br> City AA 99999",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND MESSAGE</a>",
           "form": {
-            "action": "jonghyun@pushbutton.co.kr",
+            "action": "Ka.min@kiokkang.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
