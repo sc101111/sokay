@@ -31,7 +31,7 @@
       "email": "simonchang1108@gmail.com"
     },
     "publishType": "local",
-    "publishPath": "file:///D:/wamp/www/korea/kr-kiok"
+    "publishPath": "file:///D:/wamp/www/korea/kr-sonata"
   },
   "pages": {
     "index.html": {
@@ -52,13 +52,13 @@
           "_anchor": "header2-11",
           "_params": {
             "showTitle": true,
-            "showText": false,
+            "showText": true,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "showArrow": false,
-            "imageSize": "30",
+            "imageSize": "34",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/tumblr_o65tmef7a21ryq2zfo6-1280x1920.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/sonata-1080x526.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -74,7 +74,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/thumb-3067944114_f8l3hknj_ebb095ec8ab9eab1b4_300x442-300x442.png",
+              "src": "@PROJECT_PATH@/assets/images/1508_088-450x480.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -92,12 +92,13 @@
               "size": 250
             }
           },
-          "title": "PushBUTTON&nbsp;<br>박승건 , Korea, Asia",
-          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
+          "title": "Hyundai Motor Co.<br>Sonata Collection 2017:<br>",
+          "text": "고태용, 계한희, 한상혁, 민지선, 배은별, 전경희, 김시은, 정지윤, 김담, 김주영, 김달, 윤정현",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             ".mbr-section-title": {
-              "font-size": "36px"
+              "font-size": "36px",
+              "color": "#ffffff"
             }
           }
         },
@@ -113,7 +114,7 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "filterBgColor": false,
-            "bgColor": "#7c706b",
+            "bgColor": "#2e2e2e",
             "showText": false,
             "filter": false,
             "images": [
@@ -122,8 +123,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-373x560-373x560.png",
-                "image": "@PROJECT_PATH@/assets/images/162_pushbuttonfw17runway-373x560.png",
+                "thumb": "@PROJECT_PATH@/assets/images/sonata-372x615-372x615.png",
+                "image": "@PROJECT_PATH@/assets/images/sonata-372x615.png",
                 "caption": "",
                 "active": false
               },
@@ -132,8 +133,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-1-373x560-373x560.png",
-                "image": "@PROJECT_PATH@/assets/images/162_pushbuttonfw17runway-1-373x560.png",
+                "thumb": "@PROJECT_PATH@/assets/images/sonata-378x600-378x600.png",
+                "image": "@PROJECT_PATH@/assets/images/sonata-378x600.png",
                 "caption": "",
                 "active": false
               },
@@ -142,8 +143,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-2-373x560-373x560.png",
-                "image": "@PROJECT_PATH@/assets/images/162_pushbuttonfw17runway-2-373x560.png",
+                "thumb": "@PROJECT_PATH@/assets/images/sonata-368x596-368x596.png",
+                "image": "@PROJECT_PATH@/assets/images/sonata-368x596.png",
                 "caption": "",
                 "active": false
               },
@@ -152,8 +153,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-3-373x560-373x560.png",
-                "image": "@PROJECT_PATH@/assets/images/162_pushbuttonfw17runway-3-373x560.png",
+                "thumb": "@PROJECT_PATH@/assets/images/sonata-372x612-372x612.png",
+                "image": "@PROJECT_PATH@/assets/images/sonata-372x612.png",
                 "caption": "",
                 "active": false
               },
@@ -162,39 +163,39 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-4-373x560-373x560.png",
-                "image": "@PROJECT_PATH@/assets/images/162_pushbuttonfw17runway-4-373x560.png",
+                "thumb": "@PROJECT_PATH@/assets/images/sonata-800x1199-800x1199.png",
+                "image": "@PROJECT_PATH@/assets/images/sonata-800x1199.png",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-5-373x560-373x560.png",
-                "image": "@PROJECT_PATH@/assets/images/162_pushbuttonfw17runway-5-373x560.png",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/sonata-382x607-382x607.png",
+                "image": "@PROJECT_PATH@/assets/images/sonata-382x607.png",
+                "caption": "",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-6-373x560-373x560.png",
-                "image": "@PROJECT_PATH@/assets/images/162_pushbuttonfw17runway-6-373x560.png",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/sonata-356x601-356x601.png",
+                "image": "@PROJECT_PATH@/assets/images/sonata-356x601.png",
+                "caption": "",
                 "active": false
               },
               {
-                "tags": "Animated",
+                "tags": "Creative",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/162-pushbuttonfw17runway-7-373x560-373x560.png",
-                "image": "@PROJECT_PATH@/assets/images/162_pushbuttonfw17runway-7-373x560.png",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/sonata-366x604-366x604.png",
+                "image": "@PROJECT_PATH@/assets/images/sonata-366x604.png",
+                "caption": "",
                 "active": true
               }
             ]
@@ -240,8 +241,8 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/meVpzNh2S8E?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/meVpzNh2S8E",
+              "url": "https://www.youtube.com/embed/k8vK9l0l8JU?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/k8vK9l0l8JU",
               "width": 1280,
               "height": 720
             },
@@ -249,8 +250,8 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.1"
           },
-          "title": "PushBUTTON 2017 FW",
-          "text": "<b style=\"font-style: normal;\">박승건</b>&nbsp;<b>, Korea, Asia</b>",
+          "title": "<br>Sonata Collection",
+          "text": "<b><span style=\"font-style: normal;\">Hyundai Motor&nbsp;</span>, Korea, Asia</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Art</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Product</a>"
         },
         {
@@ -351,8 +352,8 @@
             "showForm": true,
             "inverse": false,
             "googleMap": {
-              "address": "서울시 용산구 한남동 대사관로 6길 5",
-              "placeId": "ChIJVVVVVbKjfDURpNlraHDxvB4",
+              "address": "현대 모터스튜디오 서울 Hyundai Motorstudio Seoul ",
+              "placeId": "ChIJ2TAod4yjfDURvKsqFRvyouc",
               "state": "ok",
               "stateDetails": ""
             },
@@ -370,15 +371,15 @@
             "overlayOpacity": 0.1
           },
           "title": "DROP A MESSAGE",
-          "title1": "To : PushBUTTON",
+          "title1": "To : Hyundai Motor Company / Designers :<br>고태용, 계한희, 한상혁, 민지선, 배은별, 전경희, 김시은, 정지윤, 김담, 김주영, 김달, 윤정현&nbsp;",
           "title2": "Visit our office",
           "subTitle1": "Ready for offers & cooperation",
           "subTitle2": "Glad to meet new people",
-          "text1": "Phone:&nbsp;02 797 1203<br>Fax:&nbsp;02 797 1204<br>서울시 용산구 한남동 대사관로 6길 5<br>",
+          "text1": "Address: 738 Eonju-ro, Nonhyeon 2(i)-dong, Gangnam-gu, Seoul, South Korea\n<br>Phone: +82 2-542-3322<br>",
           "text2": "1234 Street Name </br> City AA 99999",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND MESSAGE</a>",
           "form": {
-            "action": "jonghyun@pushbutton.co.kr",
+            "action": "master@hyundaimotorgroup.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
@@ -414,6 +415,9 @@
           "_styles": {
             "H2": {
               "font-size": "36px"
+            },
+            ".intro-box h4": {
+              "font-size": "16px"
             }
           }
         }
