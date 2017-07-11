@@ -225,7 +225,7 @@
             ".mbr-section-lead": {
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#2b0680"
+              "color": "#ffffff"
             },
             ".mbr-section-lead SPAN": {
               "font-size": "30px",
@@ -255,8 +255,8 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0.1"
           },
-          "title": "<br>Sumisumi\n<div>수미수미</div>",
-          "text": "<b><span style=\"font-style: normal;\">정수미 (Sumi Chung)&nbsp;</span>, Korea, Asia</b>",
+          "title": "<br>POST DECEMBER",
+          "text": "<b><span style=\"font-style: normal;\">박소현 (Sohyan Bhaak)&nbsp;</span>, Korea, Asia</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Art</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Product</a>"
         },
         {
