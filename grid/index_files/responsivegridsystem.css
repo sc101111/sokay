@@ -20,7 +20,7 @@
 body { 
 margin : 0 auto;
 padding : 0;
-font : 100%/1.4 'Open Sans', 'lucida sans unicode', 'lucida grande', 'Trebuchet MS', verdana, arial, helvetica, helve, sans-serif; 	
+font : 100%/1.4 'Open Sans','microsoft yahei','microsoft jhenghei', 'lucida sans unicode', 'lucida grande', 'Trebuchet MS', verdana, arial, helvetica, helve, sans-serif; 	
 color : #000; 
 text-align: center;
 background: #fff url(/images/bodyback.png) left top;
@@ -36,7 +36,7 @@ color : #333; }
 /*  HEADINGS  ============================================================================= */
 
 h1, h2, h3, h4, h5, h6 {
-font-family:  'Oswald', MuseoSlab300, 'Open Sans', 'lucida sans unicode', 'lucida grande', 'Trebuchet MS', verdana, arial, helvetica, helve, sans-serif;
+font-family:  'Oswald','microsoft yahei','microsoft jhenghei', MuseoSlab300, 'Open Sans', 'lucida sans unicode', 'lucida grande', 'Trebuchet MS', verdana, arial, helvetica, helve, sans-serif;
 font-weight : normal;
 margin-top: 10px;
 font-weight:300;
@@ -389,7 +389,7 @@ background-color : #ccc; }
 
 #skiptomain { display: none; }
 
-#nav { background:#e1e0dc url(/images/bodyback.png); box-shadow:0px 2px 4px rgba(0,0,0,0.1); float:left; width:100%; position:fixed; z-index:9; }
+#nav { background:#fff; box-shadow:0px 2px 4px rgba(0,0,0,0.1); float:left; width:100%; position:fixed; z-index:9; }
 	#nav ul, #nav li { display:inline-block; margin:0; padding:0; }
 	#nav a { display:block; padding:.9em 1.5em; font-size:1em; font-family:'Oswald'; font-weight:300; color:#000; }
 		#nav a:hover {  color:#ed1518; }
