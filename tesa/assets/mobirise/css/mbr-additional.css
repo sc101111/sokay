@@ -746,8 +746,18 @@ h6,
 #menu-q .btn {
   font-size: 20px;
 }
-#extForm4-12 H2 {
+#msg-box6-1v .mbr-section-title,
+#msg-box6-1v .lead p {
+  color: #fff;
+}
+#msg-box6-1v H3 {
   font-size: 36px;
+}
+#msg-box6-1v P {
+  font-size: 14px;
+}
+#extForm4-12 H2 {
+  font-size: 24px;
 }
 #extForm4-12 .intro-box h4 {
   font-size: 16px;

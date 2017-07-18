@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 68,
+    "uniqCompNum": 67,
     "versionPublish": "4.0.9",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -99,7 +99,7 @@
             }
           },
           "title": "<div>\n</div><div>本服務平台目的&nbsp;<br></div>",
-          "text": "為了幫助TESA初創業者, 在最快及免費的環境下, 完成可以全球銷售商品的管道, 評估在TESA設立免費電商平台的可能性, 並融入專業技術團隊, 結合新創園地及消費者體驗, 評估免費平台設在Azure, Amazon (s3), paypal已完成, 尋求可義務幫忙串接台灣paynow或台灣其他支付系統工程師.",
+          "text": "為了幫助TESA初創業者, 在最快及免費的環境下, 完成可以全球銷售商品的管道, 評估在TESA設立免費電商平台的可能性, 並融入專業技術團隊, 結合新創園地及消費者體驗.",
           "_tags": [
             "Theme"
           ],
@@ -425,74 +425,6 @@
           "_customCSS": ""
         },
         {
-          "_inherit": "msg-box5",
-          "_styles": {
-            ".mbr-section-title, .lead p": {
-              "color": "#fff"
-            },
-            "H3": {
-              "font-size": "36px"
-            },
-            "P": {
-              "font-size": "14px"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false,
-            "inverse": true,
-            "imageSize": "34",
-            "paddingTop": "3",
-            "paddingBottom": "3",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/embed/k7nPkN8-bh8?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/k7nPkN8-bh8",
-              "width": 1280,
-              "height": 720
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.4"
-          },
-          "media": {
-            "image": {
-              "active": true,
-              "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/lineageii-256x256.png",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "video": {
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "LIVE Streaming lab",
-          "text": "Live Gaming, AR/VR/MR, On Sale Live!!",
-          "_tags": [
-            "Theme"
-          ],
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_name": "msg-box6",
-          "_anchor": "msg-box6-1v"
-        },
-        {
           "_params": {
             "showTitle": true,
             "showContacts": true,
@@ -519,12 +451,12 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.1
           },
-          "title": "歡迎分享您的想法",
+          "title": "DROP A MESSAGE",
           "title1": "To : Simon Chang",
           "title2": "Visit our office",
           "subTitle1": "Ready for offers & cooperation",
           "subTitle2": "Glad to meet new people",
-          "text1": "Address: &nbsp;&nbsp;台北市中正區忠孝東路二段130號4F-4<br>Phone:&nbsp;02-23435688 #426<br><br>",
+          "text1": "Address: &nbsp;&nbsp;台北市中正區忠孝東路二段130號6樓之4<br>Phone:&nbsp;02-23435688 #426<br><br>",
           "text2": "1234 Street Name </br> City AA 99999",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND MESSAGE</a>",
           "form": {
@@ -563,7 +495,7 @@
           "_anchor": "extForm4-12",
           "_styles": {
             "H2": {
-              "font-size": "24px"
+              "font-size": "36px"
             },
             ".intro-box h4": {
               "font-size": "16px"
@@ -589,7 +521,7 @@
           ],
           "_name": "footer1",
           "_anchor": "footer1-1t",
-          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" data-rv-view=\"942\" style=\"background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;\">\n    \n    <div class=\"container text-xs-center\">\n        歡迎義務工程師加入,歡迎提案,測試合作提案 --- TESA 內建免費電商平台\n        <font face=\"microsoft yahei\" style=\"font-size: 20px; color: rgb(255, 255, 255);\">中文微软简雅黑体引用成功</font><font face=\"microsoft jhenghei\">中文繁正黑體字距稍寬，幾乎全體表現都不錯，個人認為雅黑綜合表現第一(小字時的簡、繁不搭情形，因為字體放大後，不是那麼容易看出來)</font><font face=\"SimHei\" style=\"font-size: 20px; color: rgb(255, 255, 255);\">中文黑體引用成功</font><p><font face=\"yu gothic\" style=\"font-size: 20px; color: rgb(255, 255, 255);\">フォントその後、ズームは、タイトルが使用されている場合でも、サイトが適しているとき。</font><br><font face=\"malgun gothic\" style=\"font-size: 25px; color: rgb(255, 255, 255);\">글꼴 다음 줌이, 제목을 사용하지만 사이트가 적합합니다.</font><font face=\"Alegreya\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></font></p><p><font face=\"Alegreya\" style=\"font-size: 25px; color: rgb(255, 255, 255);\">when virtue terries, evil smiles</font></p>\n\n    </div>\n</footer>",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" data-rv-view=\"942\" style=\"background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;\">\n    \n    <div class=\"container text-xs-center\">\n        字型測試合作提案 --- TESA 內建免費電商平台\n        <font face=\"microsoft yahei\" style=\"font-size: 20px; color: rgb(255, 255, 255);\">中文微软简雅黑体引用成功</font><font face=\"microsoft jhenghei\">中文繁正黑體字距稍寬，幾乎全體表現都不錯，個人認為雅黑綜合表現第一(小字時的簡、繁不搭情形，因為字體放大後，不是那麼容易看出來)</font><font face=\"SimHei\" style=\"font-size: 20px; color: rgb(255, 255, 255);\">中文黑體引用成功</font><p><font face=\"yu gothic\" style=\"font-size: 20px; color: rgb(255, 255, 255);\">フォントその後、ズームは、タイトルが使用されている場合でも、サイトが適しているとき。</font><br><font face=\"malgun gothic\" style=\"font-size: 25px; color: rgb(255, 255, 255);\">글꼴 다음 줌이, 제목을 사용하지만 사이트가 적합합니다.</font><font face=\"Alegreya\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></font></p><p><font face=\"Alegreya\" style=\"font-size: 25px; color: rgb(255, 255, 255);\">when virtue terries, evil smiles</font></p>\n\n    </div>\n</footer>",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customCSS": "",
