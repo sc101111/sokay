@@ -29,7 +29,9 @@
     "noImageResize": "",
     "mcShopcart": {
       "email": "simonchang1108@gmail.com"
-    }
+    },
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -99,7 +101,7 @@
             }
           },
           "title": "<div>\n</div><div>本服務平台目的&nbsp;<br></div>",
-          "text": "為了幫助TESA初創業者, 在最快及免費的環境下, 完成可以全球銷售商品的管道, 評估在TESA設立免費電商平台的可能性, 並融入專業技術團隊, 結合新創園地及消費者體驗, 評估免費平台設在Azure, Amazon (s3), paypal已完成, 尋求可義務幫忙串接台灣paynow或台灣其他支付系統工程師.&nbsp;",
+          "text": "為了幫助TESA初創業者, 在最快及免費的環境下, 完成可以全球銷售商品的管道, 評估在TESA設立免費電商平台的可能性, 並融入專業技術團隊, 結合新創園地及消費者體驗, 評估免費平台設在Azure, Amazon (s3), paypal已完成, 尋求可義務幫忙串接台灣paynow或台灣其他支付系統工程師.",
           "_tags": [
             "Theme"
           ],
@@ -388,7 +390,7 @@
           "_name": "menu",
           "_anchor": "menu-q",
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": false,
