@@ -29,7 +29,9 @@
     "noImageResize": "",
     "mcShopcart": {
       "email": "simonchang1108@gmail.com"
-    }
+    },
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -99,7 +101,7 @@
             }
           },
           "title": "<div>\n</div><div>本服務平台目的&nbsp;<br></div>",
-          "text": "為了幫助初創業者, 在最快的環境下, 完成可以全球銷售商品的管道, 並融入專業技術團隊,消費者體驗及客製化行動界面,免費體驗RWD行動界面+金流Paypal, 平台可在amazon s3 (Heroku), MS azure 展現.",
+          "text": "為了幫助TESA初創業者, 在最快及免費的環境下, 完成可以全球銷售商品的管道, 評估在TESA設立免費電商平台的可能性, 並融入專業技術團隊, 結合新創園地及消費者體驗, 評估免費平台設在Azure, Amazon (s3), paypal已完成, 尋求可義務幫忙串接台灣paynow或台灣其他支付系統工程師.&nbsp;",
           "_tags": [
             "Theme"
           ],
@@ -331,13 +333,64 @@
           "_anchor": "features3-1o"
         },
         {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.25rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.354rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
           "_tags": [
             "Theme"
           ],
           "_name": "menu",
           "_anchor": "menu-q",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": true,
             "hideButtons": false,
             "sticky": false,
@@ -371,14 +424,7 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSc8QvzXoe5hGYvYhUM0UsOrURJ8XcpToInXDZ564OLiTuikKA/viewform\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=0&amp;item_name=&amp;currency_code=USD\"><span class=\"fa fa-cc-paypal mbr-iconfont mbr-iconfont-btn\"></span>Check Out / 國際付款<br>Visa/Master/AE</a></li>",
-          "_customCSS": ".hide-buttons .nav-btn {\n  display: none !important;\n}\n.navbar-caption {\n  color: #ffffff;\n}\n.navbar-toggler {\n  color: #ffffff;\n}\n.close-icon::before, .close-icon::after {\n  background-color: #ffffff;\n}\n.link, .dropdown-item {\n  color: #ffffff;\n}\n.link {\n  font-size: 1.25rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n  font-size: 1.354rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n  color: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n  background: #0e0e0e;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n  background: #202020!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n  background: #282828;\n}\n.bg-color.transparent .link {\n  color: #ffffff;\n  transition: none;\n}\n.bg-color.transparent.opened .link {\n  transition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n  color: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n  color: #c0a375!important;\n}\n.btn {\n  font-size: 20px;\n}\n",
-          "_customHTML": "<section data-rv-view=\"472\">\n\n    <nav class=\"navbar navbar-dropdown transparent bg-color\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <div id=\"google_translate_element\"></div>{JS_CODE_0}{JS_CODE_1}\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right hidden-md-up\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-sm\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSc8QvzXoe5hGYvYhUM0UsOrURJ8XcpToInXDZ564OLiTuikKA/viewform\" code-editable-id=\"9\"></a></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-white btn-white-outline mbr-editable-menu-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=0&amp;item_name=&amp;currency_code=USD\" code-editable-id=\"10\"><span class=\"fa fa-cc-paypal mbr-iconfont mbr-iconfont-btn\"></span>Check Out / 國際付款<br>Visa/Master/AE</a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [
-            "<script type=\"text/javascript\">\nfunction googleTranslateElementInit() {\n  new google.translate.TranslateElement({pageLanguage: 'zh-tw', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, multilanguagePage: true}, 'google_translate_element');\n}\n</script>",
-            "<script type=\"text/javascript\" src=\"//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit\"></script>"
-          ],
-          "_customTemplate": true
+          "_customCSS": ""
         },
         {
           "_inherit": "msg-box5",
@@ -398,9 +444,9 @@
             "showText": true,
             "showButtons": false,
             "inverse": true,
-            "imageSize": "35",
-            "paddingTop": "7",
-            "paddingBottom": "7",
+            "imageSize": "34",
+            "paddingTop": "3",
+            "paddingBottom": "3",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -408,8 +454,8 @@
             "bgColor": "#fff",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/7jOM3fRqDeQ?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/7jOM3fRqDeQ",
+              "url": "https://www.youtube.com/embed/k7nPkN8-bh8?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/k7nPkN8-bh8",
               "width": 1280,
               "height": 720
             },
@@ -419,13 +465,13 @@
           },
           "media": {
             "image": {
+              "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/untitled-872-513x72.png",
+              "src": "@PROJECT_PATH@/assets/images/lineageii-256x256.png",
               "link": "",
               "alt": "",
               "title": "",
-              "linkInNewWindow": false,
-              "active": true
+              "linkInNewWindow": false
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -435,9 +481,6 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "linkInNewWindow": false,
-              "name": "cc-paypal",
-              "family": "FontAwesome",
               "link": "",
               "size": 250
             }
@@ -478,12 +521,12 @@
             "overlayColor": "#000",
             "overlayOpacity": 0.1
           },
-          "title": "報名免費製作",
-          "title1": "To : Simon Chang<br>",
+          "title": "歡迎分享您的想法",
+          "title1": "To : Simon Chang",
           "title2": "Visit our office",
           "subTitle1": "Ready for offers & cooperation",
           "subTitle2": "Glad to meet new people",
-          "text1": "Address: &nbsp;&nbsp;台北市中正區忠孝東路二段132號<br>Mobile: 0972192347<br>&lt; P.S.: 您好, 如無RWD需求, 請勿打擾 &gt;<br><br>",
+          "text1": "Address: &nbsp;&nbsp;台北市中正區忠孝東路二段130號4F-4<br>Phone:&nbsp;02-23435688 #426<br><br>",
           "text2": "1234 Street Name </br> City AA 99999",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND MESSAGE</a>",
           "form": {
@@ -503,9 +546,9 @@
                 "customTitle": "Email*"
               },
               "phone": {
-                "visible": true,
+                "visible": false,
                 "title": "Phone",
-                "customTitle": "Tel/Mobile*"
+                "customTitle": "Phone*"
               },
               "message": {
                 "visible": true,
@@ -528,6 +571,31 @@
               "font-size": "16px"
             }
           }
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Mobirise.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1t",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" data-rv-view=\"942\" style=\"background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;\">\n    \n    <div class=\"container text-xs-center\">\n        歡迎義務工程師加入,歡迎提案,測試合作提案 --- TESA 內建免費電商平台\n        <font face=\"microsoft yahei\" style=\"font-size: 20px; color: rgb(255, 255, 255);\">中文微软简雅黑体引用成功</font><font face=\"microsoft jhenghei\">中文繁正黑體字距稍寬，幾乎全體表現都不錯，個人認為雅黑綜合表現第一(小字時的簡、繁不搭情形，因為字體放大後，不是那麼容易看出來)</font><font face=\"SimHei\" style=\"font-size: 20px; color: rgb(255, 255, 255);\">中文黑體引用成功</font><p><font face=\"yu gothic\" style=\"font-size: 20px; color: rgb(255, 255, 255);\">フォントその後、ズームは、タイトルが使用されている場合でも、サイトが適しているとき。</font><br><font face=\"malgun gothic\" style=\"font-size: 25px; color: rgb(255, 255, 255);\">글꼴 다음 줌이, 제목을 사용하지만 사이트가 적합합니다.</font><font face=\"Alegreya\" style=\"font-size: 25px; color: rgb(255, 255, 255);\"></font></p><p><font face=\"Alegreya\" style=\"font-size: 25px; color: rgb(255, 255, 255);\">when virtue terries, evil smiles</font></p>\n\n    </div>\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
         }
       ]
     }
