@@ -29,7 +29,9 @@
     "noImageResize": "",
     "mcShopcart": {
       "email": "simonchang1108@gmail.com"
-    }
+    },
+    "publishType": "local",
+    "publishPath": "file:///D:/wamp/www/korea/kr-yhj"
   },
   "pages": {
     "index.html": {
@@ -56,12 +58,12 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "inverse": true,
-            "imageSize": "32",
-            "paddingTop": "3",
+            "inverse": false,
+            "imageSize": "36",
+            "paddingTop": "2",
             "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/maxresdefault-1920x1080.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/bk10734-1333x2000.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -77,7 +79,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/a1f9828da23a5787f38df0258cfec323-800x770.png",
+              "src": "@PROJECT_PATH@/assets/images/282ebc12cb75673c99bd8ea47f32be3a-300x200.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -95,7 +97,7 @@
               "size": 250
             }
           },
-          "title": "<div>\n</div><div>How &amp; What</div><div>박병규, Korea, Asia</div>",
+          "title": "<div>\n</div><div>Kumann</div><div>유혜진 (HyeJin Yoo), Korea, Asia</div>",
           "text": "This is an intro with beautiful background video and image on the left side.",
           "_tags": [
             "Theme"
@@ -125,8 +127,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-8-31-o-1a06hlspkluee1qgmm17lh1j4cv-1000x1500-800x1200.png",
-                "image": "@PROJECT_PATH@/assets/images/collection-8-31-o-1a06hlspkluee1qgmm17lh1j4cv-1000x1500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/01-19-s-1176x1772-800x1205.png",
+                "image": "@PROJECT_PATH@/assets/images/01-19-s-1176x1772.png",
                 "caption": "",
                 "active": false
               },
@@ -135,8 +137,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-8-31-o-1a06hlspkbc01qja1rirk4n1s3f11-1000x1500-800x1200.png",
-                "image": "@PROJECT_PATH@/assets/images/collection-8-31-o-1a06hlspkbc01qja1rirk4n1s3f11-1000x1500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/01-18-s-1176x1772-800x1205.png",
+                "image": "@PROJECT_PATH@/assets/images/01-18-s-1176x1772.png",
                 "caption": "",
                 "active": false
               },
@@ -145,8 +147,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-8-31-o-1a06hlspk1jvo1rg46eqokc62q10-1000x1500-800x1200.png",
-                "image": "@PROJECT_PATH@/assets/images/collection-8-31-o-1a06hlspk1jvo1rg46eqokc62q10-1000x1500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/01-11-s-1176x1772-800x1205.png",
+                "image": "@PROJECT_PATH@/assets/images/01-11-s-1176x1772.png",
                 "caption": "",
                 "active": false
               },
@@ -155,8 +157,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-8-31-o-1a06hlspk1j4gq131o1u1eqi5dl12-1000x1500-800x1200.png",
-                "image": "@PROJECT_PATH@/assets/images/collection-8-31-o-1a06hlspk1j4gq131o1u1eqi5dl12-1000x1500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/01-08-s-1176x1772-800x1205.png",
+                "image": "@PROJECT_PATH@/assets/images/01-08-s-1176x1772.png",
                 "caption": "",
                 "active": false
               },
@@ -165,8 +167,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-8-31-o-1a06hlspk1debkap16d6glg13k213-1000x1500-800x1200.png",
-                "image": "@PROJECT_PATH@/assets/images/collection-8-31-o-1a06hlspk1debkap16d6glg13k213-1000x1500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/01-07-s-1176x1772-800x1205.png",
+                "image": "@PROJECT_PATH@/assets/images/01-07-s-1176x1772.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -175,8 +177,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-8-31-o-1a06hlspjl0e1dqe8bthnq1boar-1000x1500-800x1200.png",
-                "image": "@PROJECT_PATH@/assets/images/collection-8-31-o-1a06hlspjl0e1dqe8bthnq1boar-1000x1500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/01-06-s-1176x1772-800x1205.png",
+                "image": "@PROJECT_PATH@/assets/images/01-06-s-1176x1772.png",
                 "caption": "",
                 "active": false
               },
@@ -185,8 +187,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-8-31-o-1a06hlspj1a4d152n1aj61h2iduct-1000x1500-800x1200.png",
-                "image": "@PROJECT_PATH@/assets/images/collection-8-31-o-1a06hlspj1a4d152n1aj61h2iduct-1000x1500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/01-05-s-1176x1772-800x1205.png",
+                "image": "@PROJECT_PATH@/assets/images/01-05-s-1176x1772.png",
                 "caption": "",
                 "active": false
               },
@@ -195,8 +197,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-8-31-o-1a06hlspj1ivj19t0vev107u15p0s-1000x1500-800x1200.png",
-                "image": "@PROJECT_PATH@/assets/images/collection-8-31-o-1a06hlspj1ivj19t0vev107u15p0s-1000x1500.png",
+                "thumb": "@PROJECT_PATH@/assets/images/01-03-s-1176x1772-800x1205.png",
+                "image": "@PROJECT_PATH@/assets/images/01-03-s-1176x1772.png",
                 "caption": "",
                 "active": true
               }
@@ -247,8 +249,8 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/7Nx9yJgJacM?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "hhttps://youtu.be/7Nx9yJgJacM",
+              "url": "https://www.youtube.com/embed/J0v5CViyVjI?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/J0v5CViyVjI",
               "width": 1280,
               "height": 720
             },
@@ -256,7 +258,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0"
           },
-          "title": "<div>How &amp; What 박병규</div>",
+          "title": "Kumann\n<div>유혜진&nbsp;</div>",
           "text": "<b>Korea, Asia</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Art</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Product</a>"
         },
@@ -359,8 +361,8 @@
             "showForm": true,
             "inverse": false,
             "googleMap": {
-              "address": "서울특별시 중구 동호로 298",
-              "placeId": "ChIJmelc8hujfDUR4VTX25RyD9o",
+              "address": "서울시 강남구 삼성로 735 ",
+              "placeId": "ChIJvTUmXXCkfDURez9cRKaMpdM",
               "state": "ok",
               "stateDetails": ""
             },
@@ -378,15 +380,15 @@
             "overlayOpacity": 0.1
           },
           "title": "DROP A MESSAGE",
-          "title1": "To : How &amp; What 박병규",
+          "title1": "To : 유혜진",
           "title2": "Visit our office",
           "subTitle1": "Ready for offers & cooperation",
           "subTitle2": "Glad to meet new people",
-          "text1": "Address: &nbsp;&nbsp;서울특별시 중구 동호로 298<br>Phone:&nbsp;02-2269-0891<br>Fax:&nbsp;02-2269-0892",
+          "text1": "Address: &nbsp;&nbsp;서울시 강남구 삼성로 735 (우)135-950<br>Phone:&nbsp;02-540-2053<br>Fax:&nbsp;02-542-7723",
           "text2": "1234 Street Name </br> City AA 99999",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND MESSAGE</a>",
           "form": {
-            "action": "howandwhat203@yahoo.co.kr",
+            "action": "ryuhyejin@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },

@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 68,
+    "uniqCompNum": 70,
     "versionPublish": "4.0.9",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -99,13 +99,45 @@
             }
           },
           "title": "<div>\n</div><div>本服務平台目的&nbsp;<br></div>",
-          "text": "為了幫助初創業者, 在最快的環境下, 完成可以全球銷售商品的管道, 並融入專業技術團隊,消費者體驗及客製化行動界面,免費體驗RWD行動界面+金流Paypal, 平台可在amazon s3 (Heroku), MS azure 展現.",
+          "text": "為了幫助初創業者, 在最快的環境下, 完成可以全球銷售商品的管道, 並融入專業技術團隊,消費者體驗及客製化行動界面,免費體驗RWD行動界面+金流Paypal, 平台可在amazon s3 (Heroku), MS azure 有實現機會, 台灣電商業者抽成愈來愈高了, 請參考以下資訊, 您將如何佈局呢?",
           "_tags": [
             "Theme"
           ],
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_name": "msg-box6",
           "_anchor": "msg-box6-1g"
+        },
+        {
+          "_params": {
+            "showText": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/20108588-10207287567747472-4868086187580515425-n-936x665.png",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "<b>info from Amos/艾默斯 台灣電子商務創業聯誼會</b>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "image1",
+          "_anchor": "image1-1x",
+          "_styles": {
+            "DIV": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "15px"
+            }
+          }
         },
         {
           "_params": {
@@ -460,8 +492,8 @@
             "showForm": true,
             "inverse": false,
             "googleMap": {
-              "address": "台北市中正區忠孝東路二段130號6樓之4",
-              "placeId": "ChIJAdEzhHypQjQRzKVyf-By3t4",
+              "address": "台北市中正區忠孝東路二段132號",
+              "placeId": "ChIJvQFOhHypQjQRg8CEshw8rK0",
               "state": "ok",
               "stateDetails": ""
             },

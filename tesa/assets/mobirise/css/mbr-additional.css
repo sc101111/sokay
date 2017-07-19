@@ -1,6 +1,8 @@
+@import url(../../../https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
 
 
 
@@ -677,6 +679,10 @@ h6,
   font-size: 30px;
 }
 #msg-box6-1g P {
+  font-size: 15px;
+}
+#image1-1x DIV {
+  font-family: 'Lato', sans-serif;
   font-size: 15px;
 }
 #header2-1m .btn {
