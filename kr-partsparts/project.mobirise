@@ -29,7 +29,9 @@
     "noImageResize": "",
     "mcShopcart": {
       "email": "simonchang1108@gmail.com"
-    }
+    },
+    "publishType": "local",
+    "publishPath": "file:///D:/wamp/www/korea/kr-caruso"
   },
   "pages": {
     "index.html": {
@@ -49,7 +51,8 @@
               "color": "#fff"
             },
             "DIV": {
-              "font-size": "36px"
+              "font-size": "36px",
+              "color": "#ffffff"
             }
           },
           "_params": {
@@ -57,11 +60,11 @@
             "showText": false,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "36",
-            "paddingTop": "3",
-            "paddingBottom": "2",
+            "imageSize": "37",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/imseonoc01-1200x500.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/bjwb-o9cqaat2nj-600x400.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -71,13 +74,13 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0.1"
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/go28-676x450.png",
+              "src": "@PROJECT_PATH@/assets/images/%E4%B8%8B%E8%BC%89-246x205.png",
               "link": "",
               "alt": "",
               "title": "",
@@ -95,7 +98,7 @@
               "size": 250
             }
           },
-          "title": "<div>\n</div><div>PartspARTs</div><div>임선옥 (Im Seonoc), Korea, Asia</div>",
+          "title": "<div>\n</div><div>Jehee Sheen</div><div>신재희 , Korea, Asia</div>",
           "text": "This is an intro with beautiful background video and image on the left side.",
           "_tags": [
             "Theme"
@@ -125,8 +128,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ptpt-498x746-498x746.png",
-                "image": "@PROJECT_PATH@/assets/images/ptpt-498x746.png",
+                "thumb": "@PROJECT_PATH@/assets/images/collection-8-26-o-1a06frhsu1l3i12t510pm7201jdkt-1000x1500-800x1200.png",
+                "image": "@PROJECT_PATH@/assets/images/collection_8_26_o_1a06frhsu1l3i12t510pm7201jdkt-1000x1500.png",
                 "caption": "",
                 "active": false
               },
@@ -135,8 +138,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ptpt1-492x750-492x750.png",
-                "image": "@PROJECT_PATH@/assets/images/ptpt1-492x750.png",
+                "thumb": "@PROJECT_PATH@/assets/images/collection-8-26-o-1a06frhsu1n3ij0ub7q3hd2v0u-1000x1500-800x1200.png",
+                "image": "@PROJECT_PATH@/assets/images/collection_8_26_o_1a06frhsu1n3ij0ub7q3hd2v0u-1000x1500.png",
                 "caption": "",
                 "active": false
               },
@@ -145,8 +148,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ptpt2-490x750-490x750.png",
-                "image": "@PROJECT_PATH@/assets/images/ptpt2-490x750.png",
+                "thumb": "@PROJECT_PATH@/assets/images/collection-8-26-o-1a06frhsu1t3qrca12fc1qock7210-1000x1500-800x1200.png",
+                "image": "@PROJECT_PATH@/assets/images/collection_8_26_o_1a06frhsu1t3qrca12fc1qock7210-1000x1500.png",
                 "caption": "",
                 "active": false
               },
@@ -155,8 +158,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ptpt4-496x750-496x750.png",
-                "image": "@PROJECT_PATH@/assets/images/ptpt4-496x750.png",
+                "thumb": "@PROJECT_PATH@/assets/images/collection-8-26-o-1a06frhsuiu610o37ie1hf21duq11-1000x1500-800x1200.png",
+                "image": "@PROJECT_PATH@/assets/images/collection_8_26_o_1a06frhsuiu610o37ie1hf21duq11-1000x1500.png",
                 "caption": "",
                 "active": false
               },
@@ -165,8 +168,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ptpt7-496x750-496x750.png",
-                "image": "@PROJECT_PATH@/assets/images/ptpt7-496x750.png",
+                "thumb": "@PROJECT_PATH@/assets/images/collection-8-26-o-1a06frhsujs71n5s1ihgo8hmv6r-1000x1500-800x1200.png",
+                "image": "@PROJECT_PATH@/assets/images/collection_8_26_o_1a06frhsujs71n5s1ihgo8hmv6r-1000x1500.png",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -175,8 +178,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ptpt8-492x748-492x748.png",
-                "image": "@PROJECT_PATH@/assets/images/ptpt8-492x748.png",
+                "thumb": "@PROJECT_PATH@/assets/images/collection-8-26-o-1a06frhsumn718pd19ov17kolj1s-1000x1500-800x1200.png",
+                "image": "@PROJECT_PATH@/assets/images/collection_8_26_o_1a06frhsumn718pd19ov17kolj1s-1000x1500.png",
                 "caption": "",
                 "active": false
               },
@@ -185,8 +188,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ptpt5-496x750-496x750.png",
-                "image": "@PROJECT_PATH@/assets/images/ptpt5-496x750.png",
+                "thumb": "@PROJECT_PATH@/assets/images/collection-8-26-o-1a06frhsusn01vqa4r71sim1affv-1000x1500-800x1200.png",
+                "image": "@PROJECT_PATH@/assets/images/collection_8_26_o_1a06frhsusn01vqa4r71sim1affv-1000x1500.png",
                 "caption": "",
                 "active": false
               },
@@ -195,8 +198,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ptpt9-500x748-500x748.png",
-                "image": "@PROJECT_PATH@/assets/images/ptpt9-500x748.png",
+                "thumb": "@PROJECT_PATH@/assets/images/collection-8-26-o-1a06frhsv1bq71jeo1n501ovb1pjj12-1000x1500-800x1200.png",
+                "image": "@PROJECT_PATH@/assets/images/collection_8_26_o_1a06frhsv1bq71jeo1n501ovb1pjj12-1000x1500.png",
                 "caption": "",
                 "active": true
               }
@@ -247,8 +250,8 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/dvB_9-kO2vg?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/dvB_9-kO2vg",
+              "url": "https://www.youtube.com/embed/y1k5vuvk0Ag?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/y1k5vuvk0Ag",
               "width": 1280,
               "height": 720
             },
@@ -256,7 +259,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0"
           },
-          "title": "PartspARTs\n<div>임선옥 (Im Seonoc)</div>",
+          "title": "Jehee Sheen\r<div>신재희</div>",
           "text": "<b>Korea, Asia</b>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Art</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Product</a>"
         },
@@ -359,8 +362,8 @@
             "showForm": true,
             "inverse": false,
             "googleMap": {
-              "address": "서울시 종로구 자하문로 40가길 6 ",
-              "placeId": "ChIJ0TI55K2ifDURj_fbHQnHpOw",
+              "address": "서울시 중구 마장로 3길 맥스타일 6층 ",
+              "placeId": "ChIJqZMzgjujfDURl3ZR5bphPoU",
               "state": "ok",
               "stateDetails": ""
             },
@@ -378,15 +381,15 @@
             "overlayOpacity": 0.1
           },
           "title": "DROP A MESSAGE",
-          "title1": "To : 임선옥 (Im Seonoc)",
+          "title1": "To : Jehee Sheen\n<div>신재희</div>",
           "title2": "Visit our office",
           "subTitle1": "Ready for offers & cooperation",
           "subTitle2": "Glad to meet new people",
-          "text1": "Address: &nbsp;&nbsp;서울시 종로구 자하문로 40가길 6 101호<br>Phone:&nbsp;02- 3443- 3937<br>Fax:&nbsp;02-3443-3935",
+          "text1": "Address: &nbsp;&nbsp;서울시 중구 마장로 3길 맥스타일 6층 2호<br>Phone:&nbsp;02-548-3212<br>Fax:&nbsp;02-548-3213",
           "text2": "1234 Street Name </br> City AA 99999",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND MESSAGE</a>",
           "form": {
-            "action": "egods@hanmail.net",
+            "action": "Caruso2314@naver.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },

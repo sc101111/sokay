@@ -1,0 +1,960 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#eb6b56",
+        "titleFont": "Oswald",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      }
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 80,
+    "versionPublish": "4.0.9",
+    "path": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": "",
+    "mcShopcart": {
+      "email": "simonchang1108@gmail.com"
+    },
+    "publishType": "local",
+    "publishPath": "file:///D:/wamp/www/hrmarket-mobile"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "countdown": "2018/01/01",
+            "paddingTop": "3",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/slider02-1400x933.png",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#e9e9e9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "2017 SS limited Time On Sale",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extCountdown1",
+          "_anchor": "extCountdown1-1z",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "24px",
+              "color": "#ffffff"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showVideo": false,
+            "VideoUrl": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+            "showArrow": true,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader5_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/y9rJNq5GNCU?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/y9rJNq5GNCU",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/play-button.svg"
+            },
+            "iconFont": {
+              "active": false,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "title": "INTRO WITH VIDEO POPUP",
+          "text": "Full-screen intro with background image and video popup. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "text2": "<label class=\"startPreset\" for=\"modal\">Watch Video</label>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader5",
+          "_anchor": "extHeader5-27"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSearch": false,
+            "rowСount": "1",
+            "colCount": "2",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/sky.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.4
+          },
+          "title": "TABLE",
+          "search": "Search:",
+          "info1": "Showing",
+          "info2": "entries",
+          "info3": "(filtered from",
+          "info4": "total entries)",
+          "table": "<thead><tr><th>Name</th><th>Name</th></tr></thead><tbody><tr><td><b>Designers Demand</b></td><td><b>Suppliers Demand</b></td></tr></tbody>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTable1",
+          "_anchor": "extTable1-1s",
+          "_customHTML": "<section class=\"mbr-section extTable1\" data-rv-view=\"255\" style=\"background-color: rgb(255, 255, 255); padding-top: 0px; padding-bottom: 0px;\">\n\n    \n\n    <div class=\"container\">\n        \n    </div>\n\n    <div class=\"container table-wrapper\" info3-text=\"(filtered from\" data-search=\"false\" search-text=\"Search:\" info1-text=\"Showing\" info2-text=\"entries\" info4-text=\"total entries)\">\n        \n        <table class=\"table mbr-editable-content\" cellspacing=\"0\" width=\"100%\" code-editable-id=\"17\"><thead><tr></tr></thead><tbody><tr><td><a href=\"#\"><strong>Designers Demand</strong></a></td><td><a href=\"#\"><strong>Suppliers Demand</strong></a></td></tr></tbody></table>\n        \n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);\nTABLE {\n  text-align: center;\n}\nTD {\n  font-size: 24px;\n    \n  font-family: 'Oxygen', sans-serif;\n}\nB {\n  font-size: 36px;\n}\n",
+          "_customTemplate": true
+        },
+        {
+          "_params": {
+            "showImages": false,
+            "showTitles": false,
+            "showSubtitles": true,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#ffffff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.6,
+            "numbersColor": "@primaryColor"
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "31,810 &nbsp;on line",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "Responsive",
+          "subtitle2": "1,031 on line",
+          "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "title3": "Web Fonts",
+          "subtitle3": "3,481 on line",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Unlimited Sites",
+          "subtitle4": "4,013 news",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "number1": "Buyers",
+          "number2": "Suppliers",
+          "number3": "Designers",
+          "number4": "News",
+          "media1": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extTabs2_bg.jpg"
+            },
+            "video": {
+              "active": false,
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader7_bg.jpg"
+            },
+            "video": {
+              "active": false,
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures12_1.jpg"
+            },
+            "video": {
+              "active": false,
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures12_2.jpg"
+            },
+            "video": {
+              "active": false,
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures12",
+          "_anchor": "extFeatures12-1r",
+          "_customHTML": "<section class=\"mbr-section mbr-section-nopadding extFeatures12\" data-rv-view=\"358\" style=\"background-color: rgb(255, 255, 255); padding-top: 0px; padding-bottom: 0px;\">\n\n    \n  <div class=\"container\">\n    <div class=\"row\">\n      <div class=\"mbr-cards-row row\">\n            <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n                <div class=\"wraper\">\n                <div class=\"container\">\n                  <div class=\"card cart-block\">\n                      \n                      <div class=\"card-block\" style=\"margin-top: 0px;\">\n                          <h3 class=\"card-number mbr-editable-content\" code-editable-id=\"164\">Buyers</h3>\n                          \n                          <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"165\">31,810 &nbsp;on line</h5>\n                          \n                          \n                      </div>\n                  </div>\n                </div>\n                </div>\n            </div>\n            <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n               <div class=\"wraper\">\n              <div class=\"container\">\n                <div class=\"card cart-block\">\n                    \n                    <div class=\"card-block\" style=\"margin-top: 0px;\">\n                        <h3 class=\"card-number mbr-editable-content\" code-editable-id=\"166\">Suppliers</h3>\n                        \n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"167\">1,031 on line</h5>\n                        \n                        \n                    </div>\n                </div>\n              </div>\n              </div>\n            </div>\n            <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n              <div class=\"wraper\">\n              <div class=\"container\">\n                <div class=\"card cart-block\">\n                    \n                    <div class=\"card-block\" style=\"margin-top: 0px;\">\n                        <h3 class=\"card-number mbr-editable-content\" code-editable-id=\"168\">Designers</h3>\n                        \n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"169\">3,481 on line</h5>\n                        \n                        \n                    </div>\n                </div>\n              </div>\n            </div>\n            </div>\n            <div class=\"mbr-cards-col col-xs-12 col-lg-3\">\n              <div class=\"wraper\">\n              <div class=\"container\">\n                <div class=\"card cart-block\">\n                    \n                    <div class=\"card-block\" style=\"margin-top: 0px;\">\n                        <h3 class=\"card-number mbr-editable-content\" code-editable-id=\"170\">Activites</h3>\n                        \n                        <h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"171\">4,013 activities</h5>\n                        \n                        \n                    </div>\n                </div>\n              </div>\n              </div>\n            </div>\n    </div>\n    </div>\n  </div>\n    \n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);\n.card-number {\n  color: #c0a375;\n}\n.mbr-iconfont-features4 {\n  color: undefined !important;\n}\n.wraper {\n  border-color: undefined !important;\n}\nH3 {\n  font-size: 46px;\n}\n.card-subtitle {\n  font-size: 24px;\n  font-family: 'Lato', sans-serif;\n}\n",
+          "_customTemplate": true
+        },
+        {
+          "_styles": {
+            ".card-number": {
+              "color": "@primaryColor"
+            },
+            ".mbr-iconfont-features4": {
+              "color": "undefined !important"
+            },
+            ".wraper": {
+              "border-color": "undefined !important"
+            },
+            "H3": {
+              "font-size": "60px",
+              "color": "#ffffff"
+            },
+            "H4": {
+              "color": "#000000",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "24px"
+            },
+            "I": {
+              "color": "#232323"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.6,
+            "numbersColor": "@primaryColor"
+          },
+          "title1": "<i>13,072 documents</i>",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "<i>2,910 video</i>",
+          "subtitle2": "One of Bootstrap 4s big points",
+          "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "title3": "<i>1,032 news</i>",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "<i>211,921 pcs</i>",
+          "subtitle4": "Mobirise gives you the freedom",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "number1": "Report",
+          "number2": "Live !",
+          "number3": "News",
+          "number4": "Product",
+          "media1": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/vda-1000x667.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/slider10-750x486.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sfw-ss15-andy-and-debb-1000x667.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/%EC%95%88%EC%84%A0%EC%98%81~1-630x438.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures12",
+          "_anchor": "extFeatures12-1y"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showVideo": false,
+            "VideoUrl": "https://youtu.be/FOjyiisklEA",
+            "showArrow": true,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader5_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/FOjyiisklEA?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/FOjyiisklEA",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/play-button.svg"
+            },
+            "iconFont": {
+              "active": false,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "title": "Paris Fabirc 2017&nbsp;",
+          "text": "Full-screen intro with background image and video popup. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "text2": "<label class=\"startPreset\" for=\"modal\">Watch Video</label>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader5",
+          "_anchor": "extHeader5-23",
+          "_styles": {
+            "H3": {
+              "color": "#ffffff",
+              "font-size": "36px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": "7",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/london-fashion-week-1220x686.png",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "FULL SCREEN SLIDER",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"#\" data-toolbar=\"-mbrBtnMove\">LONDON FW 2017</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slider02-1600x800.png",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "VIDEO SLIDE",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"#\" data-toolbar=\"-mbrBtnMove\">PARIS FW 2017</a>",
+                "overlayOpacity": "0.3"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slider05-633x356.png",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDE",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"#\" data-toolbar=\"-mbrBtnMove\">NEW YORK FW 2017</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slider06-1500x1000.png",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDE",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"#\" data-toolbar=\"-mbrBtnMove\">BERLIN FW 2017</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/ermanno-scervino-men-spring-summer-2015-milan-fashion-week-680x450.png",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDE",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"#\" data-toolbar=\"-mbrBtnMove\">MILAN FW 2017</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slider07-951x445.png",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDE",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"#\" data-toolbar=\"-mbrBtnMove\">BEIJING FW 2018</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slider04-1270x724.png",
+                "active": true,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDE",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"#\" data-toolbar=\"-mbrBtnMove\">DUBAI FW 2017</a>",
+                "overlayOpacity": "0.1"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-1x"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#cccccc",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/01-19-s-1176x1772-800x1205.png",
+                "image": "@PROJECT_PATH@/assets/images/01-19-s-1176x1772.png",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/01-18-s-1176x1772-800x1205.png",
+                "image": "@PROJECT_PATH@/assets/images/01-18-s-1176x1772.png",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/01-11-s-1176x1772-800x1205.png",
+                "image": "@PROJECT_PATH@/assets/images/01-11-s-1176x1772.png",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/01-08-s-1176x1772-800x1205.png",
+                "image": "@PROJECT_PATH@/assets/images/01-08-s-1176x1772.png",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/01-07-s-1176x1772-800x1205.png",
+                "image": "@PROJECT_PATH@/assets/images/01-07-s-1176x1772.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/01-06-s-1176x1772-800x1205.png",
+                "image": "@PROJECT_PATH@/assets/images/01-06-s-1176x1772.png",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/01-05-s-1176x1772-800x1205.png",
+                "image": "@PROJECT_PATH@/assets/images/01-05-s-1176x1772.png",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/01-03-s-1176x1772-800x1205.png",
+                "image": "@PROJECT_PATH@/assets/images/01-03-s-1176x1772.png",
+                "caption": "",
+                "active": true
+              }
+            ]
+          },
+          "_anchor": "gallery1-z",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_customTemplate": true,
+          "_afterNavbarItem": false,
+          "_customHTML": "<!-- Type valid HTML here -->\n\n<table class=\"table table-bordered table-hover table-condensed\">\n<tbody>\n    <tr>\n        <td><p>Trade Show</p></td>\n        <td><p>Date</p></td>\n        <td><p>Country</p></td>\n</tr>\n    <tr>\n<td>Canton Fair - China Export And Import Fair</td>\n<td>15 - 19 Oct 2017</td>\n<td>China</td>\n</tr>\n<tr>\n<td>Texworld Paris</td>\n<td>18 - 21 Sep 2017</td>\n<td>France</td>\n</tr>\n<tr>\n<td>India International Garment Fair</td>\n<td>18 - 20 Jan 2017</td>\n<td>India</td>\n</tr>\n<tr>\n<td>Texworld</td>\n<td>17 - 19 Jul 2017</td>\n<td>USA</td>\n</tr>\n<tr>\n<td>Intertextile Shanghai Apparel Fabrics</td>\n<td>11 - 13 Oct 2017</td>\n<td>China</td>\n</tr>\n<tr>\n<td>Heimtextil</td>\n<td>09 - 12 Jan 2018</td>\n<td>Germany</td>\n</tr>\n<tr>\n<td>Tex-Styles India</td>\n<td>21 - 24 Feb 2017</td>\n<td>India</td>\n</tr>\n<tr>\n<td>Manila Fame</td>\n<td>20 - 22 Oct 2017</td>\n<td>Philippines</td>\n</tr>\n<tr>\n<td>Yarn Expo</td>\n<td>11 - 13 Oct 2017</td>\n<td>China</td>\n</tr>\n<tr>\n<td>Pure London</td>\n<td>23 - 25 Jul 2017</td>\n<td>UK</td>\n</tr>\n<tr>\n<td>TECHNOTEX INDIA</td>\n<td>12 - 14 Apr 2017</td>\n<td>India</td>\n</tr>\n<tr>\n<td>London Textile Fair</td>\n<td>19 - 20 Jul 2017</td>\n<td>UK</td>\n</tr>\n<tr>\n<td>Heimtextil India</td>\n<td>27 - 29 Jun 2018</td>\n<td>India</td>\n</tr>\n<tr>\n<td>Spinexpo</td>\n<td>29 - 31 Aug 2017</td>\n<td>China</td>\n</tr>\n<tr>\n<td>International Sourcing Expo Australia</td>\n<td>15 - 17 Nov 2016</td>\n<td>Australia</td>\n</tr>\n<tr>\n<td>China Interdye</td>\n<td>11 - 13 Apr 2018</td>\n<td>China</td>\n</tr>\n<tr>\n<td>Dhaka Int'l Textile &amp; Garment Machinery Exhibition</td>\n<td>08 - 11 Feb 2018</td>\n<td>Bangladesh</td>\n</tr>\n<tr>\n<td>India International Textile Machinery Exhibition - INDIA ITME</td>\n<td>03 - 08 Dec 2016</td>\n<td>India</td>\n</tr>\n<tr>\n<td>Garfab-TX Surat</td>\n<td>07 - 09 Apr 2017</td>\n<td>India</td>\n</tr>\n<tr>\n<td>China Clothing &amp; Textiles Expo</td>\n<td>15 - 17 Nov 2016</td>\n<td>Australia</td>\n</tr>\n<tr>\n<td>Apparel Textile &amp; Footwear Trade Exhibition</td>\n<td>24 - 25 May 2017</td>\n<td>South Africa</td>\n</tr>\n<tr>\n<td>Intertextile Shanghai Home Textiles</td>\n<td>23 - 26 Aug 2017</td>\n<td>China</td>\n</tr>\n<tr>\n<td>Cairo Fashion &amp; Tex</td>\n<td>13 - 16 Sep 2017</td>\n<td>Egypt</td>\n</tr>\n<tr>\n<td>Fabrics &amp; Accessories Trade Show</td>\n<td>02 - 04 Mar 2018</td>\n<td>India</td>\n</tr>\n<tr>\n<td>Textech International Expo</td>\n<td>09 - 12 Aug 2017</td>\n<td>Bangladesh</td>\n</tr>\n<tr>\n<td>Vietnam Saigon Fabric &amp; Garment Accessories Expo</td>\n<td>04 - 07 Apr 2018</td>\n<td>Vietnam</td>\n</tr>\n<tr>\n<td>Printsource New York</td>\n<td>08 - 09 Aug 2017</td>\n<td>USA</td>\n</tr>\n<tr>\n<td>Lineapelle New York</td>\n<td>18 - 19 Jul 2017</td>\n<td>USA</td>\n</tr>\n<tr>\n<td>National Bridal Market Chicago</td>\n<td>24 - 27 Sep 2017</td>\n<td>USA</td>\n</tr>\n<tr>\n<td>NW Trend Show</td>\n<td>05 - 07 Nov 2017</td>\n<td>USA</td>\n</tr>\n<tr>\n<td>Interfiliere Paris</td>\n<td>08 - 10 Jul 2017</td>\n<td>France</td>\n</tr>\n<tr>\n<td>The National Women's Show - Montreal</td>\n<td>20 - 22 Apr 2018</td>\n<td>Canada</td>\n</tr>\n<tr>\n<td>Home Furnishing Expo Shenzhen Hometex</td>\n<td>07 - 10 Mar 2017</td>\n<td>China</td>\n</tr>\n<tr>\n<td>International Istanbul Yarn Fair</td>\n<td>14 - 17 Apr 2018</td>\n<td>Turkey</td>\n</tr>\n<tr>\n<td>Textile Asia</td>\n<td>16 - 18 Sep 2017</td>\n<td>Pakistan</td>\n</tr>\n<tr>\n<td>Copenhagen International Fashion Fair</td>\n<td>09 - 11 Aug 2017</td>\n<td>Denmark</td>\n</tr>\n<tr>\n<td>Surtex</td>\n<td>20 - 22 May 2018</td>\n<td>USA</td>\n</tr>\n<tr>\n<td>The National Women's Show - Ottawa Spring</td>\n<td>14 - 15 Apr 2018</td>\n<td>Canada</td>\n</tr>\n<tr>\n<td>Manhattan Vintage Clotting Show &amp; Sale</td>\n<td>20 - 21 Oct 2017</td>\n<td>USA</td>\n</tr>\n<tr>\n<td>Vietnam Saigon Garment &amp; Accessories Machinery Expo</td>\n<td>05 - 08 Apr 2017</td>\n<td>Vietnam</td>\n</tr>\n<tr>\n<td>ITMA Showtime</td>\n<td>03 - 06 Dec 2017</td>\n<td>USA</td>\n</tr>\n<tr>\n<td>Clothing Fabrics &amp; Textiles Asia</td>\n<td>27 - 29 Mar 2018</td>\n<td>Pakistan</td>\n</tr>\n<tr>\n<td>JITAC European Textile Fair</td>\n<td>17 - 19 Oct 2017</td>\n<td>Japan</td>\n</tr>\n<tr>\n<td>International Fabric Trade Show</td>\n<td>05 - 07 Sep 2017</td>\n<td>Germany</td>\n</tr>\n<tr>\n<td>Christmasworld Frankfurt</td>\n<td>26 - 30 Jan 2018</td>\n<td>Germany</td>\n</tr>\n<tr>\n<td>Dye Chem Bangladesh</td>\n<td>09 - 12 Aug 2017</td>\n<td>Bangladesh</td>\n</tr>\n<tr>\n<td>Techtextil India</td>\n<td>15 - 17 Sep 2017</td>\n<td>India</td>\n</tr>\n<tr>\n<td>Preminum Order Munich</td>\n<td>05 - 07 Aug 2017</td>\n<td>Germany</td>\n</tr>\n<tr>\n<td>China Keqiao International Textiles Fabrics &amp; Accessories Exhibition</td>\n<td>14 - 17 Oct 2017</td>\n<td>China</td>\n</tr>\n<tr>\n<td>Ideabiella</td>\n<td>01 - 03 Feb 2017</td>\n<td>Italy</td>\n</tr>\n<tr>\n<td>Mercedes-Benz Fashion Week Madrid</td>\n<td>15 - 19 Sep 2017</td>\n<td>Spain</td>\n</tr>\n<tr>\n<td>HKTDC Hong Kong Fashion Week for Fall/Winter</td>\n<td>15 - 18 Jan 2018</td>\n<td>Hong Kong</td>\n</tr>\n<tr>\n<td>Womans World</td>\n<td>03 - 04 Jun 2017</td>\n<td>Ireland</td>\n</tr>\n<tr>\n<td>Momad Metropolis</td>\n<td>01 - 03 Sep 2017</td>\n<td>Spain</td>\n</tr>\n<tr>\n<td>Knit World International</td>\n<td>26 - 29 Jan 2018</td>\n<td>India</td>\n</tr>\n<tr>\n<td>Merchandising Messe Hamburg</td>\n<td>08 - 09 Nov 2017</td>\n<td>Germany</td>\n</tr>\n<tr>\n<td>Techtextil North America</td>\n<td>22 - 24 May 2018</td>\n<td>USA</td>\n</tr>\n<tr>\n<td>Milano Moda Uomo</td>\n<td>13 - 16 Jan 2018</td>\n<td>Italy</td>\n</tr>\n<tr>\n<td>APLF</td>\n<td>14 - 16 Mar 2018</td>\n<td>Hong Kong</td>\n</tr>\n<tr>\n<td>Yarnex</td>\n<td>21 - 23 Sep 2017</td>\n<td>India</td>\n</tr>\n<tr>\n<td>Shirt Avenue</td>\n<td>11 - 13 Jul 2017</td>\n<td>Italy</td>\n</tr>\n<tr>\n<td>Spinexpo New York</td>\n<td>18 - 20 Jul 2017</td>\n<td>USA</td>\n</tr>\n<tr>\n<td>Shanghaitex</td>\n<td>27 - 30 Nov 2017</td>\n<td>China</td>\n</tr>\n<tr>\n<td>Pitti Imagine Bimbo</td>\n<td>18 - 20 Jan 2018</td>\n<td>Italy</td>\n</tr>\n<tr>\n<td>Innatex</td>\n<td>29 - 31 Jul 2017</td>\n<td>Germany</td>\n</tr>\n<tr>\n<td>Heimtextil Japan</td>\n<td>14 - 16 Jun 2017</td>\n<td>Japan</td>\n</tr>\n<tr>\n<td>Colombo International Yarn &amp; Fabric Show</td>\n<td>15 - 17 Sep 2017</td>\n<td>Sri Lanka</td>\n</tr>\n<tr>\n<td>Knit Show</td>\n<td>11 - 13 Aug 2017</td>\n<td>India</td>\n</tr>\n<tr>\n<td>IM Intermoda Mexico</td>\n<td>18 - 21 Jul 2017</td>\n<td>Mexico</td>\n</tr>\n<tr>\n<td>Mid-Atlantic Quilt Festival</td>\n<td>22 - 25 Feb 2018</td>\n<td>USA</td>\n</tr>\n<tr>\n<td>Colombiatex of the Americas</td>\n<td>24 - 26 Jan 2017</td>\n<td>Colombia</td>\n</tr>\n<tr>\n<td>Wagon Bridal Showcase - Saskatoon</td>\n<td>26 - 26 Feb 2017</td>\n<td>Canada</td>\n</tr>\n<tr>\n<td>Outdoor Retailer Winter Market</td>\n<td>10 - 12 Jan 2017</td>\n<td>USA</td>\n</tr>\n<tr>\n<td>Textillegprom Federal Trade Fair</td>\n<td>29 Aug - 01 Sep 2017</td>\n<td>Russia</td>\n</tr>\n<tr>\n<td>Parousies</td>\n<td>10 - 14 Jan 2018</td>\n<td>Greece</td>\n</tr>\n<tr>\n<td>Taipei Innovative Textile Application Show</td>\n<td>16 - 18 Oct 2017</td>\n<td>Taiwan</td>\n</tr>\n<tr>\n<td>Mood</td>\n<td>06 - 08 Sep 2017</td>\n<td>Belgium</td>\n</tr>\n<tr>\n<td>Exponoivos Lisbon</td>\n<td>05 - 07 Jan 2018</td>\n<td>Portugal</td>\n</tr>\n<tr>\n<td>Intertex Milano</td>\n<td>11 - 13 Oct 2017</td>\n<td>Italy</td>\n</tr>\n<tr>\n<td>Taiwan Textile Fair - Mumbai</td>\n<td>23 - 24 Nov 2016</td>\n<td>India</td>\n</tr>\n<tr>\n<td>Personal Care &amp; Homecare Ingredients</td>\n<td>19 - 21 Mar 2018</td>\n<td>China</td>\n</tr>\n<tr>\n<td>Irantex</td>\n<td>04 - 07 Sep 2017</td>\n<td>Iran</td>\n</tr>\n<tr>\n<td>Premiere Vision-France</td>\n<td>19 - 21 Sep 2017</td>\n<td>France</td>\n</tr>\n<tr>\n<td>The Decor Show</td>\n<td>08 - 11 Mar 2018</td>\n<td>Singapore</td>\n</tr>\n<tr>\n<td>Indo Intertex</td>\n<td>04 - 07 Apr 2018</td>\n<td>Indonesia</td>\n</tr>\n<tr>\n<td>Myanmar International Textile &amp; Garment Industry Exhibition</td>\n<td>08 - 11 Dec 2017</td>\n<td>Myanmar</td>\n</tr>\n<tr>\n<td>Imprinted Sportswear Show-Long Beach</td>\n<td>19 - 21 Jan 2018</td>\n<td>USA</td>\n</tr>\n<tr>\n<td>Z-The Subcontracting Fair</td>\n<td>05 - 08 Feb 2018</td>\n<td>Germany</td>\n</tr>\n<tr>\n<td>Bridal &amp; Honeymoon Expo</td>\n<td>19 - 20 Aug 2017</td>\n<td>Australia</td>\n</tr>\n<tr>\n<td>Textech Sri Lanka</td>\n<td>08 - 10 Mar 2018</td>\n<td>Sri Lanka</td>\n</tr>\n<tr>\n<td>Texprocess Americas</td>\n<td>22 - 24 May 2018</td>\n<td>USA</td>\n</tr>\n<tr>\n<td>ITM Istanbul</td>\n<td>14 - 17 Apr 2018</td>\n<td>Turkey</td>\n</tr>\n<tr>\n<td>Lineapelle Asia</td>\n<td>20 - 21 Oct 2016</td>\n<td>China</td>\n</tr>\n<tr>\n<td>Southern Womens Show - Memphis</td>\n<td>09 - 11 Mar 2018</td>\n<td>USA</td>\n</tr>\n<tr>\n<td>Intertextile Pavilion</td>\n<td>06 - 08 Jul 2017</td>\n<td>China</td>\n</tr>\n<tr>\n<td>Tribal &amp; Textile Arts Show-San Francisco</td>\n<td>09 - 11 Feb 2018</td>\n<td>USA</td>\n</tr>\n<tr>\n<td>Hong Kong International Home Textiles Fair</td>\n<td>20 - 23 Apr 2017</td>\n<td>Hong Kong</td>\n</tr>\n<tr>\n<td>Vacuum &amp; Sewing Dealers Trade Association Trade Show</td>\n<td>24 - 26 Mar 2018</td>\n<td>USA</td>\n</tr>\n<tr>\n<td>Cinte Techtextil China</td>\n<td>12 - 14 Oct 2016</td>\n<td>China</td>\n</tr>\n<tr>\n<td>Hightex</td>\n<td>14 - 17 Apr 2018</td>\n<td>Turkey</td>\n</tr>\n</tbody></table>",
+          "_customCSS": "/* Type valid CSS here */\n.my-image {\n  width: 100%;\n}",
+          "alias": "code-editor",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "pro.custom-html",
+          "_anchor": "custom-html-24",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.5rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.624rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#141414"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#262626!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#2e2e2e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-q",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "hideButtons": false,
+            "sticky": false,
+            "collapsed": true,
+            "transparent": true,
+            "bgColor": "#2e2e2e",
+            "fontSize": "1.5",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/logo-150x80.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "linkInNewWindow": false,
+              "name": "magic-stick",
+              "family": "MobiriseIcons",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.123contactform.com/form-2764113/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=0&amp;item_name=&amp;currency_code=USD\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>Latest Notice</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=0&amp;item_name=&amp;currency_code=USD\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Supplier's Demand</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=0&amp;item_name=&amp;currency_code=USD\"><span class=\"imind-suit mbr-iconfont mbr-iconfont-btn\"></span>Designer's Demand</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=0&amp;item_name=&amp;currency_code=USD\"><span class=\"fa fa-cc-paypal mbr-iconfont mbr-iconfont-btn\"></span>Visa/Master</a></li>",
+          "_customCSS": ""
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showContacts": true,
+            "showSubtitle": false,
+            "showText": true,
+            "showForm": true,
+            "inverse": false,
+            "googleMap": {
+              "address": "北市北忠孝東路二段132號",
+              "placeId": "ChIJsXJEhHypQjQRhVS5aMHPw1M",
+              "state": "ok",
+              "stateDetails": ""
+            },
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extForm1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fafafa",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1
+          },
+          "title": "DROP A MESSAGE",
+          "title1": "To : Simon Chang",
+          "title2": "Visit our office",
+          "subTitle1": "Ready for offers & cooperation",
+          "subTitle2": "Glad to meet new people",
+          "text1": "Address: &nbsp; 北市北忠孝東路二段132號<br>Phone: 23435688<br><br>",
+          "text2": "1234 Street Name </br> City AA 99999",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND MESSAGE</a>",
+          "form": {
+            "action": "simonchang1108@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "visible": true,
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extForm4",
+          "_anchor": "extForm4-12",
+          "_styles": {
+            "H2": {
+              "font-size": "36px"
+            },
+            ".intro-box h4": {
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright (c) 2016 Mobirise.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-26",
+          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" data-rv-view=\"246\" style=\"background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;\">\n    \n</footer>\n",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "",
+          "_customTemplate": true
+        }
+      ]
+    }
+  }
+}
