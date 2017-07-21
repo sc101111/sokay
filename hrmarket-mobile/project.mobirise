@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 82,
+    "uniqCompNum": 84,
     "versionPublish": "4.0.9",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -45,7 +45,7 @@
         {
           "_params": {
             "showTitle": true,
-            "countdown": "2018/01/01",
+            "countdown": "2017/10/01",
             "paddingTop": "3",
             "paddingBottom": "0",
             "bgImageRadio": true,
@@ -61,7 +61,7 @@
             "overlayColor": "#151515",
             "overlayOpacity": 0.75
           },
-          "title": "2017 SS limited Time On Sale",
+          "title": "2017 AW limited Time On Sale",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -213,7 +213,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-exttabs2-bg.jpg"
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extTabs2_bg.jpg"
             },
             "video": {
               "active": false,
@@ -232,7 +232,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-extheader7-bg.jpg"
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader7_bg.jpg"
             },
             "video": {
               "active": false,
@@ -251,7 +251,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-extfeatures12-1.jpg"
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures12_1.jpg"
             },
             "video": {
               "active": false,
@@ -270,7 +270,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-extfeatures12-2.jpg"
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures12_2.jpg"
             },
             "video": {
               "active": false,
@@ -478,7 +478,9 @@
             "H3": {
               "font-size": "60px",
               "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#ffffff",
+              "text-align": "left"
             },
             "H4": {
               "color": "#000000",
@@ -534,10 +536,13 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-exttabs2-bg.jpg"
+              "src": "@PROJECT_PATH@/assets/images/fabrics-moisture099-399x272.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
-              "active": false,
               "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -553,10 +558,13 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-extheader7-bg.jpg"
+              "src": "@PROJECT_PATH@/assets/images/fabrics-moisture-790x522.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
-              "active": false,
               "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -572,10 +580,13 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-extfeatures12-1.jpg"
+              "src": "@PROJECT_PATH@/assets/images/fabrics-moisture-500x333.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
-              "active": false,
               "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
               "aspectratio": "16:9",
               "autoplay": false,
@@ -591,10 +602,13 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/img-extfeatures12-2.jpg"
+              "src": "@PROJECT_PATH@/assets/images/fabrics-moisture-381x254.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
-              "active": false,
               "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
               "aspectratio": "16:9",
               "autoplay": false,
