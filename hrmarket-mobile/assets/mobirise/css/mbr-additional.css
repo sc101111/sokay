@@ -1,8 +1,12 @@
-@import url(../../../https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(../../../https://fonts.googleapis.com/css?family=Lato:400,300,700);
+
+
+
+
 
 
 
@@ -720,14 +724,34 @@ h6,
 #extFeatures12-1y H3 {
   font-size: 60px;
   color: #ffffff;
+  font-family: 'Oswald', sans-serif;
 }
 #extFeatures12-1y H4 {
   color: #000000;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Oswald', sans-serif;
   font-size: 24px;
 }
 #extFeatures12-1y I {
   color: #232323;
+  font-family: 'Oswald', sans-serif;
+}
+#extFeatures12-29 .card-number {
+  color: #c0a375;
+}
+#extFeatures12-29 .mbr-iconfont-features4 {
+  color: undefined !important;
+}
+#extFeatures12-29 .wraper {
+  border-color: undefined !important;
+}
+#extFeatures12-29 H3 {
+  font-size: 60px;
+  font-family: 'Oswald', sans-serif;
+}
+#extFeatures12-29 H4 {
+  color: #000000;
+  font-size: 20px;
+  font-family: 'Oswald', sans-serif;
 }
 #extHeader5-23 H3 {
   color: #ffffff;
