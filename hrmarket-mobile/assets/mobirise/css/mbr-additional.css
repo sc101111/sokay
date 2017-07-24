@@ -82,7 +82,7 @@ h6,
   font-family: 'Lora', serif;
 }
 .bg-primary {
-  background-color: #c0a375 !important;
+  background-color: #ffffff !important;
 }
 .bg-success {
   background-color: #90a878 !important;
@@ -97,8 +97,8 @@ h6,
   background-color: #eb6b56 !important;
 }
 .btn-primary {
-  background-color: #c0a375;
-  border-color: #c0a375;
+  background-color: #ffffff;
+  border-color: #ffffff;
   color: #ffffff;
 }
 .btn-primary:hover,
@@ -107,14 +107,14 @@ h6,
 .btn-primary:active,
 .btn-primary.active {
   color: #ffffff;
-  background-color: #a07e49;
-  border-color: #a07e49;
+  background-color: #d4d4d4;
+  border-color: #d4d4d4;
 }
 .btn-primary.disabled,
 .btn-primary:disabled {
   color: #ffffff !important;
-  background-color: #a07e49 !important;
-  border-color: #a07e49 !important;
+  background-color: #d4d4d4 !important;
+  border-color: #d4d4d4 !important;
 }
 .btn-secondary {
   background-color: #bfcecb;
@@ -218,8 +218,8 @@ h6,
 }
 .btn-primary-outline {
   background: none;
-  border-color: #8e7041;
-  color: #8e7041;
+  border-color: #ffffff;
+  color: #ffffff;
 }
 .btn-primary-outline:hover,
 .btn-primary-outline:focus,
@@ -227,14 +227,14 @@ h6,
 .btn-primary-outline:active,
 .btn-primary-outline.active {
   color: #ffffff;
-  background-color: #c0a375;
-  border-color: #c0a375;
+  background-color: #ffffff;
+  border-color: #ffffff;
 }
 .btn-primary-outline.disabled,
 .btn-primary-outline:disabled {
   color: #ffffff !important;
-  background-color: #c0a375 !important;
-  border-color: #c0a375 !important;
+  background-color: #ffffff !important;
+  border-color: #ffffff !important;
 }
 .btn-secondary-outline {
   background: none;
@@ -337,7 +337,7 @@ h6,
   border-color: #eb6b56 !important;
 }
 .text-primary {
-  color: #c0a375 !important;
+  color: #ffffff !important;
 }
 .text-success {
   color: #90a878 !important;
@@ -364,36 +364,36 @@ h6,
   background-color: #eb6b56;
 }
 .btn-social {
-  border-color: #c0a375;
+  border-color: #ffffff;
 }
 .btn-social:hover {
-  background: #c0a375;
+  background: #ffffff;
 }
 .mbr-company .list-group-item.active .list-group-text {
-  color: #c0a375;
+  color: #ffffff;
 }
 .mbr-footer p a,
 .mbr-footer ul a {
-  color: #c0a375;
+  color: #ffffff;
 }
 .mbr-footer-content li::before,
 .mbr-footer .mbr-contacts li::before {
-  background: #c0a375;
+  background: #ffffff;
 }
 .mbr-footer-content li a:hover,
 .mbr-footer .mbr-contacts li a:hover {
-  color: #c0a375;
+  color: #ffffff;
 }
 .lead a,
 .lead a:hover {
-  color: #c0a375;
+  color: #ffffff;
 }
 .lead blockquote {
-  border-color: #c0a375;
+  border-color: #ffffff;
 }
 .mbr-plan-header.bg-primary .mbr-plan-subtitle,
 .mbr-plan-header.bg-primary .mbr-plan-price-desc {
-  color: #e8ddcd;
+  color: #ffffff;
 }
 .mbr-plan-header.bg-success .mbr-plan-subtitle,
 .mbr-plan-header.bg-success .mbr-plan-price-desc {
@@ -413,7 +413,7 @@ h6,
 }
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
-  color: #c0a375;
+  color: #ffffff;
 }
 .scrollToTop_wraper {
   opacity: 0 !important;
@@ -447,7 +447,7 @@ h6,
   font-family: 'Lora', serif;
 }
 .mbr-iconfont-counters1 {
-  color: #c0a375;
+  color: #ffffff;
 }
 .extHeader1 .container h3,
 .extHeader2 .container h3,
@@ -525,7 +525,7 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 .extFeatures3 .border-wrap {
-  border-color: #c0a375;
+  border-color: #ffffff;
 }
 .extFeatures4 h4,
 .extFeatures6 h4,
@@ -556,13 +556,13 @@ h6,
   font-family: 'Lora', serif;
 }
 .extPricingTable1 .bottom_line {
-  border-bottom-color: #c0a375;
+  border-bottom-color: #ffffff;
 }
 .extPricingTable1 .mbr-price small {
   font-family: 'Lora', serif;
 }
 .extPricingTable1 .mbr-plan-label {
-  background: #c0a375;
+  background: #ffffff;
 }
 .extCounters2 h4 {
   font-family: 'Oswald', sans-serif;
@@ -580,14 +580,14 @@ h6,
   font-family: 'Lora', serif;
 }
 .extProgressBar .progress-primary[value]::-webkit-progress-value {
-  background-color: #c0a375;
+  background-color: #ffffff;
 }
 .extProgressBar .progress-primary[value]::-moz-progress-bar {
-  background-color: #c0a375;
+  background-color: #ffffff;
 }
 @media screen and (min-width: 0\0) {
   .extProgressBar .progress-primary .progress-bar {
-    background-color: #c0a375;
+    background-color: #ffffff;
   }
 }
 .extProgressBar .title-wrap {
@@ -604,7 +604,7 @@ h6,
 }
 .extTabs1 ul.nav-tabs li a:hover,
 .extTabs2 ul.nav-tabs li a:hover {
-  color: #c0a375;
+  color: #ffffff;
 }
 .extAccordion1 .panel-heading a {
   font-family: 'Raleway', sans-serif;
@@ -618,7 +618,7 @@ h6,
 .extAccordion1 .pseudoMinus,
 .extAccordion2 .pseudoMinus,
 .extToggle1 .pseudoMinus {
-  background-color: #c0a375;
+  background-color: #ffffff;
 }
 .extAccordion2 .panel-heading a,
 .extAccordion3 .panel-heading a,
@@ -626,14 +626,14 @@ h6,
   font-family: 'Raleway', sans-serif;
 }
 .extProgressBar5 .progress-primary[value]::-webkit-progress-value {
-  background-color: #c0a375;
+  background-color: #ffffff;
 }
 .extProgressBar5 .progress-primary[value]::-moz-progress-bar {
-  background-color: #c0a375;
+  background-color: #ffffff;
 }
 @media screen and (min-width: 0\0) {
   .extProgressBar5 .progress-primary .progress-bar {
-    background-color: #c0a375;
+    background-color: #ffffff;
   }
 }
 .extProgressBar5 .title-wrap {
@@ -665,16 +665,16 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 .extMenu1 span.icon a:hover {
-  color: #c0a375 !important;
+  color: #ffffff !important;
 }
 .extProgressBar .progress-primary[value]::-ms-fill {
-  color: #c0a375;
+  color: #ffffff;
 }
 .extProgressBar5 .progress-primary[value]::-ms-fill {
-  color: #c0a375;
+  color: #ffffff;
 }
 .theme-border {
-  border: 1px solid #c0a375;
+  border: 1px solid #ffffff;
 }
 #extCountdown1-1z .mbr-section-title {
   font-size: 24px;
@@ -692,6 +692,11 @@ h6,
 }
 #extTable1-1s B {
   font-size: 36px;
+}
+#extTable1-1s a:hover {
+  color: red;
+  text-decoration: none;
+  background-color: white;
 }
 #extFeatures12-1r {
   
@@ -713,7 +718,7 @@ h6,
   font-family: 'Lato', sans-serif;
 }
 #extFeatures12-1y .card-number {
-  color: #c0a375;
+  color: #ffffff;
 }
 #extFeatures12-1y .mbr-iconfont-features4 {
   color: undefined !important;
@@ -736,7 +741,7 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #extFeatures12-29 .card-number {
-  color: #c0a375;
+  color: #ffffff;
 }
 #extFeatures12-29 .mbr-iconfont-features4 {
   color: undefined !important;
@@ -747,7 +752,7 @@ h6,
 #extFeatures12-29 H3 {
   font-size: 60px;
   font-family: 'Oswald', sans-serif;
-  color: #ffffff;
+  color: #000000;
   text-align: left;
 }
 #extFeatures12-29 H4 {
@@ -793,7 +798,7 @@ h6,
 #menu-q .dropdown-item:hover,
 #menu-q .link:focus,
 #menu-q .dropdown-item:focus {
-  color: #c0a375;
+  color: #ffffff;
 }
 #menu-q .link[aria-expanded="true"],
 #menu-q .dropdown-menu {
@@ -820,11 +825,11 @@ h6,
 }
 #menu-q .bg-color.transparent.opened .link:hover,
 #menu-q .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
+  color: #ffffff;
 }
 #menu-q .link[aria-expanded="true"],
 #menu-q .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
+  color: #ffffff!important;
 }
 #menu-q .btn {
   font-size: 20px;
