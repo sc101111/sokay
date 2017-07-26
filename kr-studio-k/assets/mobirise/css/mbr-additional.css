@@ -767,22 +767,3 @@ h6,
 #extForm4-12 .intro-box h4 {
   font-size: 16px;
 }
-#contacts5-1m p,
-#contacts5-1m .list-group-text,
-#contacts5-1m .form-control-label {
-  color: #000;
-}
-#contacts5-1m strong,
-#contacts5-1m h4 {
-  color: #7e9b9f;
-}
-#contacts5-1m form .form-control {
-  border-color: rgba(0, 0, 0, 0.2);
-  color: #565656;
-}
-#contacts5-1m .mbr-footer-content li {
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.1);
-}
-#contacts5-1m .mbr-company .list-group-text::after {
-  border-bottom: 1px dotted rgba(0, 0, 0, 0.2);
-}
