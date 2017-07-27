@@ -19,10 +19,11 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      }
+      },
+      "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 59,
+    "uniqCompNum": 60,
     "versionPublish": "4.0.17",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -31,7 +32,7 @@
       "email": "simonchang1108@gmail.com"
     },
     "publishType": "local",
-    "publishPath": "file:///D:/wamp/www/korea/kr-studio-k"
+    "publishPath": "file:///D:/wamp/www/Taiwan/tw-angus-chiang"
   },
   "pages": {
     "index.html": {
@@ -59,12 +60,12 @@
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "inverse": true,
-            "imageSize": "27",
+            "inverse": false,
+            "imageSize": "38",
             "paddingTop": "2",
-            "paddingBottom": "0",
+            "paddingBottom": "2",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/maxresdefault-1920x1080.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc9233-2000x805.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#fff",
@@ -74,13 +75,13 @@
             },
             "overlay": true,
             "overlayColor": "#000000",
-            "overlayOpacity": "0.4"
+            "overlayOpacity": "0.1"
           },
           "media": {
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/42795acfbf3228ee828e5f943abe195d-300x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/people_photo_04%20(1)-457x316.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -98,7 +99,7 @@
               "size": 250
             }
           },
-          "title": "<div>\n</div><div>The Studio K</div><div>Korea, Asia</div>",
+          "title": "<div>\n</div><div>Angus Chiang</div><div>Taiwan, Asia</div>",
           "text": "This is an intro with beautiful background video and image on the left side.",
           "_tags": [
             "Theme"
@@ -120,7 +121,7 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "filterBgColor": false,
-            "bgColor": "#c0a375",
+            "bgColor": "#c1c1c1",
             "showText": false,
             "filter": false,
             "images": [
@@ -129,8 +130,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-14-23-o-1be2p9iaqr2edop1cmhh5015hu1l-664x1000-664x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/collection_14_23_o_1be2p9iaqr2edop1cmhh5015hu1l-664x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/defile-angus-chiang-printemps-ete-2018-paris-look-1797x2700-800x1202.jpg",
+                "image": "@PROJECT_PATH@/assets/images/defile-angus-chiang-printemps-ete-2018-paris-look-1797x2700.jpg",
                 "caption": "",
                 "active": false,
                 "alt": ""
@@ -140,8 +141,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-14-23-o-1be2p9iaqg6a1ogb265rb514vi1m-664x1000-664x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/collection_14_23_o_1be2p9iaqg6a1ogb265rb514vi1m-664x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/0e81d494b855f07538be31836836945a-1999x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/0e81d494b855f07538be31836836945a-1999x3000.jpg",
                 "caption": "",
                 "active": false,
                 "alt": ""
@@ -151,8 +152,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-14-23-o-1be2p9iaqc9k1agd1j351uou9581k-664x1000-664x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/collection_14_23_o_1be2p9iaqc9k1agd1j351uou9581k-664x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/angus-chiang-menswear-ss18-paris-3316-1498140115-bigthumb-800x1200-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angus-chiang-menswear-ss18-paris-3316-1498140115-bigthumb-800x1200.jpg",
                 "caption": "",
                 "active": false,
                 "alt": ""
@@ -162,8 +163,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-14-23-o-1be2p9iaq8opi05mraqqn15kh1o-664x1000-664x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/collection_14_23_o_1be2p9iaq8opi05mraqqn15kh1o-664x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/c554074d8e5cfbe1d71eb3144824db9f-1999x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/c554074d8e5cfbe1d71eb3144824db9f-1999x3000.jpg",
                 "caption": "",
                 "active": false,
                 "alt": ""
@@ -173,43 +174,43 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-14-23-o-1be2p9iaq15b71e7ddbe1012ht1n-664x1000-664x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/collection_14_23_o_1be2p9iaq15b71e7ddbe1012ht1n-664x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/angus-spring-2018-men-collections-paris-fashion-week-1158-1023x1521-800x1189.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angus-spring-2018-men-collections-paris-fashion-week-1158-1023x1521.jpg",
                 "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-14-23-o-1be2p9iaq1tqa3201gq5p5t1gll1i-664x1000-664x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/collection_14_23_o_1be2p9iaq1tqa3201gq5p5t1gll1i-664x1000.jpg",
-                "caption": "",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-14-23-o-1be2p9iaq1l33mmm9mn4o17361p-664x1000-664x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/collection_14_23_o_1be2p9iaq1l33mmm9mn4o17361p-664x1000.jpg",
-                "caption": "",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-14-23-o-1be2p9iaq1kjt14p11me9du71rot1j-664x1000-664x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/collection_14_23_o_1be2p9iaq1kjt14p11me9du71rot1j-664x1000.jpg",
-                "caption": "",
                 "active": true,
+                "alt": ""
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ed-ng-photography-vfw-ss17-angus-chiang-25-533x800-533x800-533x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ed-ng-photography-vfw-ss17-angus-chiang-25-533x800-533x800.jpg",
+                "caption": "",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/angus-chiang-aw1723-1000x1500-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angus-chiang-aw1723-1000x1500.jpg",
+                "caption": "",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/angus-chiang-aw17-300dpi-500x750-500x750.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angus_chiang_aw17_300dpi-500x750.jpg",
+                "caption": "",
+                "active": false,
                 "alt": ""
               }
             ]
@@ -259,8 +260,8 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/0syBQ_qK4NU?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/0syBQ_qK4NU",
+              "url": "https://www.youtube.com/embed/TRmylFh1IDI?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/TRmylFh1IDI",
               "width": 1280,
               "height": 720
             },
@@ -268,7 +269,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0"
           },
-          "title": "The studio K\n<div>Korea, Asia</div>",
+          "title": "Angus Chiang SS 18<div>Taiwan, Asia</div>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Art</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Product</a>"
         },
@@ -321,7 +322,9 @@
               "color": "#c0a375!important"
             },
             ".btn": {
-              "font-size": "20px"
+              "font-size": "20px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           },
           "_tags": [
@@ -345,7 +348,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/kr.svg",
+              "src": "@PROJECT_PATH@/assets/images/tw.svg",
               "height": 128,
               "alt": "Mobirise",
               "link": "#",
@@ -359,7 +362,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.123contactform.com/form-2764113/\">Join us now (supplier)</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSc8QvzXoe5hGYvYhUM0UsOrURJ8XcpToInXDZ564OLiTuikKA/viewform\">Join us now (designer)</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=0&amp;item_name=&amp;currency_code=USD\"><span class=\"fa fa-cc-paypal mbr-iconfont mbr-iconfont-btn\"></span>Check Out /&nbsp;점검<br>Visa/Master/AE</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.123contactform.com/form-2764113/\">Join us now (supplier)</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSc8QvzXoe5hGYvYhUM0UsOrURJ8XcpToInXDZ564OLiTuikKA/viewform\">Join us now (designer)</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=0&amp;item_name=&amp;currency_code=USD\"><span class=\"fa fa-cc-paypal mbr-iconfont mbr-iconfont-btn\"></span>Check Out / 結帳<br>Visa/Master/AE</a></li>",
           "_customCSS": ""
         },
         {
@@ -371,8 +374,8 @@
             "showForm": true,
             "inverse": false,
             "googleMap": {
-              "address": "서울특별시 강남구 신사동 648-20",
-              "placeId": "ChIJU2MwG4mjfDUR-X3ZgJZUX-0",
+              "address": "3F., No.111, Sec. 1, Huanhe N. Rd.,\nDatong Dist.,Taipei City 103.\nTaiwan (R.O.C.)\n",
+              "placeId": "ChIJWSRcbxGpQjQRX7G2SydInT4",
               "state": "ok",
               "stateDetails": ""
             },
@@ -390,15 +393,15 @@
             "overlayOpacity": 0.1
           },
           "title": "DROP A MESSAGE",
-          "title1": "To : The studio K<br>홍혜진 (Hong Hye Jin)",
+          "title1": "To : Angus Chiang&nbsp;",
           "title2": "Visit our office",
           "subTitle1": "Ready for offers & cooperation",
           "subTitle2": "Glad to meet new people",
-          "text1": "Address: &nbsp;&nbsp;서울특별시 강남구 신사동 648-20<br>Phone:&nbsp;02-518-8984<br>Fax:&nbsp;02-518-8983<br><br>",
+          "text1": "Address: &nbsp; 3F., No.111, Sec. 1, Huanhe N. Rd.,\n<br>Datong Dist.,Taipei City 103.\n<br>Taiwan (R.O.C.)\n<br><br><br><br>",
           "text2": "1234 Street Name </br> City AA 99999",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND MESSAGE</a>",
           "form": {
-            "action": "info@thestudiok.com",
+            "action": "studio@anguschiang.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
