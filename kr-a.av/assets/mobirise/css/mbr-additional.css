@@ -672,6 +672,9 @@ h6,
 .theme-border {
   border: 1px solid #c0a375;
 }
+#header2-12 .mbr-section-title {
+  font-size: 36px;
+}
 #header4-s .mbr-section-title {
   text-align: left;
   font-size: 80px;
@@ -683,10 +686,7 @@ h6,
   font-family: 'Oswald', sans-serif;
 }
 #extForm4-10 H2 {
-  font-size: 32px;
-}
-#extForm4-10 P {
-  color: #28324e;
+  font-size: 36px;
 }
 #menu-q .hide-buttons .nav-btn {
   display: none !important;
@@ -748,4 +748,7 @@ h6,
 #menu-q .link[aria-expanded="true"],
 #menu-q .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#menu-q .btn {
+  font-size: 20px;
 }
