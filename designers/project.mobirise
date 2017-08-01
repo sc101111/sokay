@@ -22,8 +22,8 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 61,
-    "versionPublish": "4.0.9",
+    "uniqCompNum": 66,
+    "versionPublish": "4.0.17",
     "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
@@ -35,7 +35,7 @@
         "main": true,
         "title": "",
         "meta_descr": "",
-        "header_custom": "<link href=\"css/main.css\" rel=\"stylesheet\">",
+        "header_custom": "<link href=\"css/main.css\" rel=\"stylesheet\">\n<link href=\"https://fonts.googleapis.com/css?family=Roboto+Slab\" rel=\"stylesheet\">",
         "footer_custom": "",
         "html_before": ""
       },
@@ -46,7 +46,11 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "25px"
+            },
+            ".lead P": {
+              "font-size": "14px"
             }
           },
           "_tags": [
@@ -58,8 +62,8 @@
             "showTitle": true,
             "showText": true,
             "showButton": false,
-            "paddingTop": "2",
-            "paddingBottom": "1",
+            "paddingTop": "1",
+            "paddingBottom": "0",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/fashion-design-slide-1-2000x833.jpg",
             "parallax": true,
@@ -73,8 +77,8 @@
             "overlayColor": "#222",
             "overlayOpacity": "0.2"
           },
-          "title": "FW Register, Korea",
-          "text": "<p><b>Top Fashion Designers, Events, News, ArtWorks, FW and Suppliers.</b></p>",
+          "title": "Global FW Register",
+          "text": "<p><b>Top fashion designers, fabrics' suppliers and events.</b></p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
@@ -98,6 +102,50 @@
             "showText": false,
             "filter": false,
             "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/angus-1677x1895-800x903.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angus-1677x1895.jpg",
+                "caption": "tw-angus-chiang",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15565-1200x1795-800x1196.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15565-1200x1795.jpg",
+                "caption": "tw-jamie-wei-huang",
+                "active": true,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/images-235x215-235x215.jpg",
+                "image": "@PROJECT_PATH@/assets/images/images-235x215.jpg",
+                "caption": "tw-shawnyi",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/about-jason-mobile-320x488-320x488.jpg",
+                "image": "@PROJECT_PATH@/assets/images/about-jason-mobile-320x488.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
               {
                 "tags": "Awesome",
                 "playVideo": false,
@@ -646,48 +694,19 @@
                 "thumb": "@PROJECT_PATH@/assets/images/87mm-seoul-2000x2499-800x999.jpg",
                 "image": "@PROJECT_PATH@/assets/images/87mm-seoul-2000x2499.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ]
           },
           "_anchor": "gallery1-1b",
           "articleLayout": false,
-          "allItem": "All"
+          "allItem": "All",
+          "_customCSS": ".mbr-gallery .mbr-gallery-item {\n  position: relative;\n  display: inline-block;\n  width: 20%; }\n  @media (max-width: 768px) {\n    .mbr-gallery .mbr-gallery-item {\n      width: 50%; } }\n  @media (max-width: 400px) {\n    .mbr-gallery .mbr-gallery-item {\n      width: 50%; } }"
         },
         {
-          "alias": "facebook-comments",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "facebook-comments-block",
-          "_anchor": "facebook-comments-block-1n",
           "_params": {
-            "postsNumber": "2",
-            "bgImage": "@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/comments_bg.jpg",
-            "bgImageRadio": false,
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#7e9b9f",
-            "socialFacebook": true,
-            "socialGoogle": false,
-            "shortName": "",
-            "socialDisqus": false
-          },
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
-          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/google-comments.jpg\"></div>",
-          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "footer1",
-          "_anchor": "footer1-1j",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -697,62 +716,14 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Designers Review by Nation 中文測試",
-          "_customCSS": "",
-          "_customHTML": "<footer class=\"mbr-small-footer mbr-section mbr-section-nopadding\" data-rv-view=\"290\" style=\"background-color: rgb(50, 50, 50); padding-top: 1.75rem; padding-bottom: 1.75rem;\">\n       <div class=\"container text-xs-center\">\n           <div class=\"test-1\">\n        <p class=\"mbr-editable-content\" code-editable-id=\"122\"><font face=\"microsoft yahei\" style=\"font-size: 20px; color: rgb(255, 255, 255);\">中文微软简雅黑体引用成功</font></p><font face=\"microsoft jhenghei\">中文繁正黑體字距稍寬，幾乎全體表現都不錯，個人認為雅黑綜合表現第一(小字時的簡、繁不搭情形，因為字體放大後，不是那麼容易看出來)</font><p><font face=\"SimHei\" style=\"font-size: 20px; color: rgb(255, 255, 255);\">中文黑体引用成功</font></p>\n    </div></div>\n</footer>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customTemplate": true
+          "text": "desingers review 2017",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-1t"
         },
         {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "1.3rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.408rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#171c2c"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#232c44!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#28324e"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
           "_tags": [
             "Theme"
           ],
@@ -762,8 +733,8 @@
             "logo": true,
             "showBrand": false,
             "hideButtons": true,
-            "sticky": true,
-            "collapsed": false,
+            "sticky": false,
+            "collapsed": true,
             "transparent": true,
             "bgColor": "#28324e",
             "fontSize": "1.3",
@@ -773,7 +744,6 @@
           },
           "logo": {
             "image": {
-              "active": true,
               "src": "@PROJECT_PATH@/assets/images/kr.svg",
               "height": 128,
               "alt": "Mobirise",
@@ -783,12 +753,22 @@
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
-              "size": 0
+              "linkInNewWindow": false,
+              "name": "touch",
+              "family": "MobiriseIcons",
+              "link": "",
+              "size": "70",
+              "newWindow": false,
+              "active": true
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Designer</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSc8QvzXoe5hGYvYhUM0UsOrURJ8XcpToInXDZ564OLiTuikKA/viewform?c=0&amp;w=1\">Join us free</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSc8QvzXoe5hGYvYhUM0UsOrURJ8XcpToInXDZ564OLiTuikKA/viewform?c=0&amp;w=1\">Join us free</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_customHTML": "<section data-rv-view=\"3890\">\n\n    <nav class=\"navbar navbar-dropdown transparent bg-color\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <span class=\"navbar-logo\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-menu\" style=\"font-size: 65px;\"></span></span>\n                        \n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-xl\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://www.123contactform.com/form-2764113/\" code-editable-id=\"137\">Join us now (supplier)</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSc8QvzXoe5hGYvYhUM0UsOrURJ8XcpToInXDZ564OLiTuikKA/viewform\" code-editable-id=\"138\">Join us now (designer)</a></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-white btn-white-outline mbr-editable-menu-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=0&amp;item_name=&amp;currency_code=USD\" code-editable-id=\"139\"><span class=\"fa fa-cc-paypal mbr-iconfont mbr-iconfont-btn\"></span>Check Out <br>Visa/Master/AE</a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".hide-buttons .nav-btn {\n  display: none !important;\n}\n.navbar-caption {\n  color: #ffffff;\n}\n.navbar-toggler {\n  color: #ffffff;\n}\n.close-icon::before, .close-icon::after {\n  background-color: #ffffff;\n}\n.link, .dropdown-item {\n  color: #ffffff;\n}\n.link {\n  font-size: 1.4rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n  font-size: 1.516rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n  color: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n  background: #0e0e0e;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n  background: #202020!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n  background: #282828;\n}\n.bg-color.transparent .link {\n  color: #ffffff;\n  transition: none;\n}\n.bg-color.transparent.opened .link {\n  transition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n  color: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n  color: #c0a375!important;\n}\n.btn {\n  font-size: 20px;\n}",
+          "_customTemplate": true
         }
       ]
     }
