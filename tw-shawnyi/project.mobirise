@@ -422,7 +422,7 @@
           "text2": "1234 Street Name </br> City AA 99999",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND MESSAGE</a>",
           "form": {
-            "action": "julie5599@mail2000.com.tw",
+            "action": "julie5599@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
