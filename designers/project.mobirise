@@ -121,7 +121,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/15565-1200x1795-800x1196.jpg",
                 "image": "@PROJECT_PATH@/assets/images/15565-1200x1795.jpg",
                 "caption": "tw-jamie-wei-huang",
-                "active": true,
+                "active": false,
                 "alt": ""
               },
               {
@@ -144,6 +144,17 @@
                 "image": "@PROJECT_PATH@/assets/images/about-jason-mobile-320x488.jpg",
                 "caption": "Type caption here",
                 "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wjn0zaci-512x512-512x512.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wjn0zaci-512x512.jpg",
+                "caption": "cn-daniel-wong",
+                "active": true,
                 "alt": ""
               },
               {
