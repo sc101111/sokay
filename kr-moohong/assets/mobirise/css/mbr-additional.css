@@ -1,10 +1,7 @@
-@import url(../../../https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(../../../https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-@import url(../../..///fonts.googleapis.com/earlyaccess/notosanstc.css);
-
 
 
 
@@ -724,9 +721,6 @@ h6,
 #msg-box7-m P {
   font-size: 18px;
 }
-#menu-9 {
-  
-}
 #menu-9 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -734,22 +728,22 @@ h6,
   color: #ffffff;
 }
 #menu-9 .navbar-toggler {
-  color: #475577;
+  color: #ffffff;
 }
 #menu-9 .close-icon::before,
 #menu-9 .close-icon::after {
-  background-color: #475577;
+  background-color: #ffffff;
 }
 #menu-9 .link,
 #menu-9 .dropdown-item {
-  color: #475577;
+  color: #ffffff;
 }
 #menu-9 .link {
-  font-size: 1.05rem;
+  font-size: 1.4rem;
 }
 #menu-9 .dropdown-item,
 #menu-9 .nav-dropdown-sm .link {
-  font-size: 1.137rem;
+  font-size: 1.516rem;
 }
 #menu-9 .link:hover,
 #menu-9 .dropdown-item:hover,
@@ -759,22 +753,22 @@ h6,
 }
 #menu-9 .link[aria-expanded="true"],
 #menu-9 .dropdown-menu {
-  background: #343e57;
+  background: #0e0e0e;
 }
 #menu-9 .nav-dropdown-sm .link:focus,
 #menu-9 .nav-dropdown-sm .link:hover,
 #menu-9 .nav-dropdown-sm .dropdown-item:focus,
 #menu-9 .nav-dropdown-sm .dropdown-item:hover {
-  background: #414e6d!important;
+  background: #202020!important;
 }
 #menu-9 .navbar,
 #menu-9 .nav-dropdown-sm,
 #menu-9 .nav-dropdown-sm .link[aria-expanded="true"],
 #menu-9 .nav-dropdown-sm .dropdown-menu {
-  background: #475577;
+  background: #282828;
 }
 #menu-9 .bg-color.transparent .link {
-  color: #475577;
+  color: #ffffff;
   transition: none;
 }
 #menu-9 .bg-color.transparent.opened .link {
@@ -789,8 +783,7 @@ h6,
   color: #c0a375!important;
 }
 #menu-9 .btn {
-  font-size: 18px;
-  font-family: 'Open Sans', sans-serif;
+  font-size: 20px;
 }
 #extForm3-p .btn {
   font-size: 19px;

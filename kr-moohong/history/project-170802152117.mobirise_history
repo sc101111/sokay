@@ -40,6 +40,8 @@
       "counterBack": "#F97352",
       "checkoutButton": "Check Out with"
     },
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -533,13 +535,66 @@
           "_anchor": "msg-box7-m"
         },
         {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#475577"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#475577"
+            },
+            ".link, .dropdown-item": {
+              "color": "#475577"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#343e57"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#414e6d!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#475577"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#475577",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".btn": {
+              "font-size": "18px",
+              "font-family": "'Open Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700"
+            }
+          },
           "_params": {
             "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": true,
             "collapsed": true,
-            "transparent": false,
+            "transparent": true,
             "bgColor": "#475577",
             "fontSize": "1.05",
             "fontName": {},
@@ -550,7 +605,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/kr1.svg",
+              "src": "@PROJECT_PATH@/assets/images/kr.svg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -569,11 +624,7 @@
           ],
           "_name": "menu",
           "_anchor": "menu-9",
-          "_customCSS": ".hide-buttons .nav-btn {\n  display: none !important;\n}\n.navbar-caption {\n  color: #ffffff;\n}\n.navbar-toggler {\n  color: #ffffff;\n}\n.close-icon::before, .close-icon::after {\n  background-color: #ffffff;\n}\n.link, .dropdown-item {\n  color: #ffffff;\n}\n.link {\n  font-size: 1.4rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n  font-size: 1.516rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n  color: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n  background: #0e0e0e;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n  background: #202020!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n  background: #282828;\n}\n.bg-color.transparent .link {\n  color: #ffffff;\n  transition: none;\n}\n.bg-color.transparent.opened .link {\n  transition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n  color: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n  color: #c0a375!important;\n}\n.btn {\n  font-size: 20px;\n}\n",
-          "_customHTML": "<section data-rv-view=\"639\">\n\n    <nav class=\"navbar navbar-dropdown transparent bg-color\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"#\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/kr.svg\" alt=\"Mobirise\"></a>\n                        <a class=\"navbar-caption\" href=\"#\"></a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-xl\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://www.123contactform.com/form-2764113/\" code-editable-id=\"20\">Join us now (supplier)</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSc8QvzXoe5hGYvYhUM0UsOrURJ8XcpToInXDZ564OLiTuikKA/viewform\" code-editable-id=\"21\">Join us now (designer)</a></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-white btn-white-outline mbr-editable-menu-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=0&amp;item_name=&amp;currency_code=USD\" code-editable-id=\"22\"><span class=\"fa fa-cc-paypal mbr-iconfont mbr-iconfont-btn\"></span>Check Out /&nbsp;점검<br>Visa/Master/AE</a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section> ",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customTemplate": true
+          "_customCSS": "@import url(//fonts.googleapis.com/earlyaccess/notosanstc.css); "
         },
         {
           "_params": {
