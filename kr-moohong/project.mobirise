@@ -40,6 +40,8 @@
       "counterBack": "#F97352",
       "checkoutButton": "Check Out with"
     },
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
   },
@@ -108,13 +110,14 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": true,
             "bgVideo": {
+              "url": "https://www.youtube.com/embed/KxhkILmrxiI?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/KxhkILmrxiI",
               "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/KxhkILmrxiI?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+              "height": 720
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0"
           },
           "title": "MooHong 2017 S/S",
           "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
