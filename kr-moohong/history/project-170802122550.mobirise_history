@@ -19,14 +19,11 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      },
-      "additionalSetColors": [
-        "#54b47e"
-      ]
+      }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 32,
-    "versionPublish": "4.0.17",
+    "uniqCompNum": 26,
+    "versionPublish": "4.0.9",
     "mcShopcart": {
       "email": "simonchang1108@gmail.com",
       "iconSize": "30",
@@ -40,8 +37,8 @@
       "counterBack": "#F97352",
       "checkoutButton": "Check Out with"
     },
-    "path": "@PROJECT_PATH@",
-    "screenshot": "screenshot.png"
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -57,7 +54,7 @@
         {
           "_params": {
             "showTitle": true,
-            "countdown": "2017/09/30",
+            "countdown": "2017/07/30",
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -89,321 +86,6 @@
           "_customCSS": ""
         },
         {
-          "_inherit": "header1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header4",
-          "_anchor": "header4-3",
-          "_params": {
-            "showTitle": true,
-            "showText": false,
-            "showButtons": true,
-            "showArrow": true,
-            "contentAlign": "left",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": false,
-            "bgColor": "#a07e49",
-            "bgVideoRadio": true,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/KxhkILmrxiI?rel=0&amp;showinfo=0&autoplay=0&loop=0"
-            },
-            "overlay": true,
-            "overlayColor": "#000",
-            "overlayOpacity": "0.3"
-          },
-          "title": "MooHong 2017 S/S",
-          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=800&amp;item_name=suit+1+081232-13&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>1</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=700&amp;item_name=suit+2+081232-14&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>2</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=750&amp;item_name=suit+3+081232-15&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>3</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=560&amp;item_name=suit+4+081232-17&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>4</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=570&amp;item_name=suit+5+081232-18&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>5</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=630&amp;item_name=suit+6+081232-19&amp;currency_code=USD\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>6</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "24px"
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".card-number": {
-              "color": "@primaryColor"
-            },
-            ".mbr-iconfont-features4": {
-              "color": "undefined !important"
-            },
-            ".wraper": {
-              "border-color": "undefined !important"
-            },
-            "H3": {
-              "color": "#ffffff",
-              "text-align": "right",
-              "font-size": "100px"
-            }
-          },
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": false,
-            "showButtons": true,
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "columns": "4",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.6,
-            "numbersColor": "@primaryColor"
-          },
-          "title1": "Channel 1",
-          "subtitle1": "Suit 7 / Suit 8",
-          "caption1": "大罐500",
-          "title2": "Channel 2",
-          "subtitle2": "Suit 9 / Suit 10",
-          "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting&nbsp;",
-          "title3": "Channel 3",
-          "subtitle3": "Suit 11 / Suit 12",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Channel 4",
-          "subtitle4": "new arrival",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=730&amp;item_name=suit+7+081232-19&amp;currency_code=USD\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>7</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=680&amp;item_name=suit+8+081232-19&amp;currency_code=USD\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span>8</a>   ",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=710&amp;item_name=suit+9+081232-19&amp;currency_code=USD\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">9</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=550&amp;item_name=suit+10+081232-19&amp;currency_code=USD\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">10</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=600&amp;item_name=suit+11+081232-19&amp;currency_code=USD\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">11</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=700&amp;item_name=suit+12+081232-19&amp;currency_code=USD\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">12</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=300&amp;item_name=mobile+013982&amp;currency_code=USD\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Buy</a>",
-          "number1": "01",
-          "number2": "02",
-          "number3": "03",
-          "number4": "04",
-          "media1": {
-            "image": {
-              "width": 1400,
-              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extTabs2_bg.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/jKXVd6SkF5Q",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "media2": {
-            "image": {
-              "width": 1400,
-              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader7_bg.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/ZTfU24gDhP4",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "media3": {
-            "image": {
-              "width": 1400,
-              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures12_1.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/mQtU0QvOvbA",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "media4": {
-            "image": {
-              "width": 1400,
-              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures12_2.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/edCgPU2uCEs",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extFeatures12",
-          "_anchor": "extFeatures12-u"
-        },
-        {
-          "_styles": {
-            ".card-number": {
-              "color": "@primaryColor"
-            },
-            ".mbr-iconfont-features4": {
-              "color": "undefined !important"
-            },
-            ".wraper": {
-              "border-color": "undefined !important"
-            },
-            "H3": {
-              "color": "#ffffff",
-              "text-align": "right",
-              "font-size": "100px"
-            }
-          },
-          "_params": {
-            "showImages": true,
-            "showTitles": true,
-            "showSubtitles": true,
-            "ShowTexts": false,
-            "showButtons": true,
-            "paddingTop": "0",
-            "paddingBottom": "2",
-            "columns": "4",
-            "bgImageRadio": false,
-            "bgImage": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/img_extFeatures4_bg.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#efefef",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.6,
-            "numbersColor": "@primaryColor"
-          },
-          "title1": "Channel 5",
-          "subtitle1": "Suit 13 / Suit 14",
-          "caption1": "大罐500",
-          "title2": "Channel 6",
-          "subtitle2": "Suit 15 / Suit 16",
-          "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting&nbsp;",
-          "title3": "Channel 7",
-          "subtitle3": "Suit 17 / Suit 18",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Channel 8",
-          "subtitle4": "new arrival",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=730&amp;item_name=suit+13+081232-19&amp;currency_code=USD\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">13</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=680&amp;item_name=suit+14+081232-19&amp;currency_code=USD\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">14</a>   ",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=710&amp;item_name=suit+15+081232-19&amp;currency_code=USD\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">15</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=550&amp;item_name=suit+16+081232-19&amp;currency_code=USD\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">16</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=600&amp;item_name=suit+17+081232-19&amp;currency_code=USD\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">17</a> <a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=700&amp;item_name=suit+18+081232-19&amp;currency_code=USD\" class=\"btn btn-white\" data-toolbar=\"-mbrBtnMove\">18</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=300&amp;item_name=mobile+013982-2&amp;currency_code=USD\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">Buy</a>",
-          "number1": "05",
-          "number2": "06",
-          "number3": "07",
-          "number4": "08",
-          "media1": {
-            "image": {
-              "width": 1400,
-              "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/img_extTabs2_bg.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/jKXVd6SkF5Q",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "media2": {
-            "image": {
-              "width": 1400,
-              "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/img_extHeader7_bg.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/ZTfU24gDhP4",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "media3": {
-            "image": {
-              "width": 1400,
-              "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/img_extFeatures12_1.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/mQtU0QvOvbA",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "media4": {
-            "image": {
-              "width": 1400,
-              "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/img_extFeatures12_2.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/edCgPU2uCEs",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-header2",
-              "link": "",
-              "size": 0
-            }
-          },
-          "alias": "mobirise3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extFeatures12",
-          "_anchor": "extFeatures12-v"
-        },
-        {
           "_inherit": "msg-box5",
           "_styles": {
             ".mbr-section-title, .lead p": {
@@ -419,24 +101,21 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "26",
+            "imageSize": 50,
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/vda-1000x667.png",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#28324e",
-            "bgVideoRadio": true,
+            "bgVideoRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/KxhkILmrxiI?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/KxhkILmrxiI",
-              "width": 1280,
-              "height": 720
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0"
+            "overlayOpacity": 0.5
           },
           "media": {
             "image": {
@@ -484,7 +163,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": true,
-            "imageSize": "26",
+            "imageSize": "50",
             "paddingTop": "1",
             "paddingBottom": "0",
             "bgImageRadio": false,
@@ -693,6 +372,43 @@
           "_anchor": "extForm2-7"
         },
         {
+          "_inherit": "header1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header4",
+          "_anchor": "header4-3",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false,
+            "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/KxhkILmrxiI?rel=0&amp;showinfo=0&autoplay=0&loop=0"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.3"
+          },
+          "title": "MooHong 2017 S/S",
+          "text": "Intro with background video and color overlay. Text and buttons are aligned to right. Mobirise helps you cut down development time by providing you with a flexible website editor with a drag and drop interface.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "48px"
+            }
+          }
+        },
+        {
           "_params": {
             "showTitle": true,
             "showContacts": true,
@@ -720,8 +436,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": 0.1,
-            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-black\">1</a>"
+            "overlayOpacity": 0.1
           },
           "title": "DROP A LINE",
           "title1": "To: 김무홍 (Moohong Kim)",
