@@ -122,7 +122,7 @@
           "_params": {
             "showBullets": true,
             "fullWidth": false,
-            "spacing": 0,
+            "spacing": "1",
             "paddingTop": 0,
             "paddingBottom": 0,
             "filterBgColor": false,
@@ -214,6 +214,28 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "image": "@PROJECT_PATH@/assets/images/004-smartphone-512x512.png",
                 "thumb": "@PROJECT_PATH@/assets/images/004-smartphone-512x512-512x512.png",
+                "alt": "",
+                "caption": "22,212 Products",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/014-briefcase-512x512.png",
+                "thumb": "@PROJECT_PATH@/assets/images/014-briefcase-512x512-512x512.png",
+                "alt": "",
+                "caption": "22,212 Products",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/033-id-card-512x512.png",
+                "thumb": "@PROJECT_PATH@/assets/images/033-id-card-512x512-512x512.png",
                 "alt": "",
                 "caption": "22,212 Products",
                 "active": true
@@ -373,7 +395,7 @@
             "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/slider02-1400x9333.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/slider02-1400x9334.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#e9e9e9",
