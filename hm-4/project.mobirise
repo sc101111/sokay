@@ -127,7 +127,7 @@
             "paddingBottom": 0,
             "filterBgColor": false,
             "bgColor": "#FFFFFF",
-            "showText": true,
+            "showText": false,
             "filter": false,
             "images": [
               {
@@ -373,7 +373,7 @@
             "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/slider02-1400x9332.png",
+            "bgImage": "@PROJECT_PATH@/assets/images/slider02-1400x9333.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#e9e9e9",
