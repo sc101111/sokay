@@ -22,8 +22,8 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 36,
-    "versionPublish": "3.12.1"
+    "uniqCompNum": 38,
+    "versionPublish": "4.0.17"
   },
   "pages": {
     "index.html": {
@@ -36,6 +36,63 @@
         "html_before": ""
       },
       "components": [
+        {
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
+            "inverse": true,
+            "showArrow": true,
+            "imageSize": "31",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/doosan2014-680x454.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": "0.3"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/0e81d494b855f07538be31836836945a-300x423.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Alani, 김재환, Korea, Asia",
+          "text": "ALANI the grey\n<br>\n<br>ALANI was launched in 2010 from Korea after designer Jae Hwan Kim graduated from Central Saint Martins.\n<br>\n<br>It originally started with Menswear collection.\n<br>Menswear collection of ALANI soon proved its success and was shown in international markets including Tranoi Paris, Harvey Nichols in Hong Kong and a few other finest retailers in European countries.\n<br>\n<br>From Spring/Summer 2011, ALANI has been presenting Womenswear collection.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header2",
+          "_anchor": "header2-11",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "32px"
+            }
+          }
+        },
         {
           "_inherit": "header1",
           "_tags": [
@@ -58,25 +115,25 @@
           },
           "_anchor": "header4-s",
           "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false,
             "showArrow": true,
+            "contentAlign": "left",
+            "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a07e49",
+            "parallax": true,
             "bgColorRadio": false,
+            "bgColor": "#a07e49",
+            "bgVideoRadio": true,
             "bgVideo": {
               "width": 1280,
               "height": 720,
               "url": "https://www.youtube.com/embed/IE17cPVedws?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": "0.1",
             "overlayColor": "#000000",
-            "contentAlign": "left",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
+            "overlayOpacity": "0.1"
           },
           "title": "Alani",
           "text": "<b><span style=\"font-style: normal;\">김재환</span>, Korea, Asia</b>",
@@ -88,19 +145,16 @@
           ],
           "_name": "gallery1",
           "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": 0,
             "paddingTop": 0,
             "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
             "images": [
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/6280931730-454813da4f-2000x3003-800x1201.jpg",
-                "image": "@PROJECT_PATH@/assets/images/6280931730-454813da4f-2000x3003.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
               {
                 "tags": "Responsive",
                 "playVideo": false,
@@ -129,92 +183,91 @@
                 "thumb": "@PROJECT_PATH@/assets/images/6280927672-78658b9db2-z-2000x2997-800x1198.jpg",
                 "image": "@PROJECT_PATH@/assets/images/6280927672-78658b9db2-z-2000x2997.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2010102941366781-500x750-500x750.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2010102941366781-500x750.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2010102941366781-1-500x750-500x750.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2010102941366781-1-500x750.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2010102941366781-550x825-550x825.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2010102941366781-550x825.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/6280931730-454813da4f-2000x3003-800x1201.jpg",
+                "image": "@PROJECT_PATH@/assets/images/6280931730-454813da4f-2000x3003.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2010102941366781-2-500x750-500x750.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2010102941366781-2-500x750.jpg",
+                "caption": "Type caption here",
+                "active": true,
+                "alt": ""
               }
-            ],
-            "spacing": 0,
-            "showText": false,
-            "filter": false,
-            "bgColor": "#FFFFFF",
-            "filterBgColor": false,
-            "fullWidth": false,
-            "showBullets": true
+            ]
           },
           "_anchor": "gallery1-z",
           "articleLayout": false,
           "allItem": "All"
         },
         {
-          "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
-            },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "1.4rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.516rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
-            },
-            ".bg-color.transparent .link": {
-              "color": "#ffffff",
-              "transition": "none"
-            },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
-            },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            }
-          },
           "_tags": [
             "Theme"
           ],
           "_name": "menu",
           "_anchor": "menu-q",
           "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
             "bgColor": "#282828",
             "fontSize": "1.4",
             "fontName": {},
             "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor",
-            "transparent": true,
-            "sticky": true,
-            "logo": true,
-            "showBrand": false,
-            "collapsed": false,
-            "hideButtons": true
+            "fontHoverColor": "@primaryColor"
           },
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/kr.svg",
+              "src": "@PROJECT_PATH@/assets/images/kr0.svg",
               "height": 128,
               "alt": "Mobirise",
               "link": "https://mobirise.com",
@@ -228,7 +281,90 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Fashion Week</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Fashion Week</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "_customHTML": "<section data-rv-view=\"639\">\n\n    <nav class=\"navbar navbar-dropdown transparent bg-color\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"#\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/kr.svg\" alt=\"Mobirise\"></a>\n                        <a class=\"navbar-caption\" href=\"#\"></a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-xl\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://www.123contactform.com/form-2764113/\" code-editable-id=\"6\">Join us now (supplier)</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSc8QvzXoe5hGYvYhUM0UsOrURJ8XcpToInXDZ564OLiTuikKA/viewform\" code-editable-id=\"7\">Join us now (designer)</a></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-white btn-white-outline mbr-editable-menu-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=0&amp;item_name=&amp;currency_code=USD\" code-editable-id=\"8\"><span class=\"fa fa-cc-paypal mbr-iconfont mbr-iconfont-btn\"></span>Check Out /&nbsp;점검<br>Visa/Master/AE</a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section> ",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".hide-buttons .nav-btn {\n  display: none !important;\n}\n.navbar-caption {\n  color: #ffffff;\n}\n.navbar-toggler {\n  color: #ffffff;\n}\n.close-icon::before, .close-icon::after {\n  background-color: #ffffff;\n}\n.link, .dropdown-item {\n  color: #ffffff;\n}\n.link {\n  font-size: 1.4rem;\n}\n.dropdown-item, .nav-dropdown-sm .link {\n  font-size: 1.516rem;\n}\n.link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus {\n  color: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-menu {\n  background: #0e0e0e;\n}\n.nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover {\n  background: #202020!important;\n}\n.navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu {\n  background: #282828;\n}\n.bg-color.transparent .link {\n  color: #ffffff;\n  transition: none;\n}\n.bg-color.transparent.opened .link {\n  transition: color .2s ease-in-out;\n}\n.bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus {\n  color: #c0a375;\n}\n.link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"] {\n  color: #c0a375!important;\n}\n.btn {\n  font-size: 20px;\n}\n",
+          "_customTemplate": true
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showContacts": true,
+            "showSubtitle": false,
+            "showText": true,
+            "showForm": true,
+            "inverse": false,
+            "googleMap": {
+              "address": "543-11, SinsaDong, GangNam-Gu, Seoul,Korea",
+              "placeId": "ChIJIe5E4o2jfDURsEkeGGd3xCI",
+              "state": "ok",
+              "stateDetails": ""
+            },
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/img_extForm1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fafafa",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1
+          },
+          "title": "DROP A MESSAGE",
+          "title1": "To : 김재환",
+          "title2": "Visit our office",
+          "subTitle1": "Ready for offers & cooperation",
+          "subTitle2": "Glad to meet new people",
+          "text1": "Address: &nbsp;301. Onam Bldg. 543-11 Sinsa-Dong,GangNam-Gu, Seoul, Korea<br>Phone: 23435688 # 426<br><br>",
+          "text2": "1234 Street Name </br> City AA 99999",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND MESSAGE</a>",
+          "form": {
+            "action": "alani_info@thealani.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "visible": true,
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extForm4",
+          "_styles": {
+            "H2": {
+              "font-size": "36px"
+            },
+            ".intro-box h4": {
+              "font-size": "16px"
+            }
+          },
+          "_anchor": "extForm4-10"
         }
       ]
     }

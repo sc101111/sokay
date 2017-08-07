@@ -882,22 +882,13 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 .mbr-gallery .mbr-gallery-item {
   position: relative;
   display: inline-block;
-  width: 14.28%; }
-  @media (max-width: 1920px) {
-    .mbr-gallery .mbr-gallery-item {
-      width: 10%; } }
-  @media (max-width: 1366px) {
-    .mbr-gallery .mbr-gallery-item {
-      width: 11.11%; } }
-  @media (max-width: 980px) {
-    .mbr-gallery .mbr-gallery-item {
-      width: 12.5%; } }
+  width: 25%; }
   @media (max-width: 768px) {
     .mbr-gallery .mbr-gallery-item {
-      width: 20%; } }
+      width: 50%; } }
   @media (max-width: 400px) {
     .mbr-gallery .mbr-gallery-item {
-      width: 33.33%; } }
+      width: 100%; } }
 
 .mbr-gallery .mbr-gallery-item img {
   width: 100%;
