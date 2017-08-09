@@ -20,18 +20,24 @@
         "isScrollToTopButton": false,
         "isRtl": false
       },
-      "additionalSetColors": []
+      "additionalSetColors": [
+        "#333333",
+        "#666666",
+        "#132eea"
+      ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 62,
+    "uniqCompNum": 72,
     "versionPublish": "4.0.17",
-    "path": "file:///D:/wamp/www/Taiwan",
+    "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
     "mcShopcart": {
       "email": "simonchang1108@gmail.com"
     },
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -110,6 +116,209 @@
         },
         {
           "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "showDates": true,
+            "iconsColor": "#f90aa2",
+            "blocks": "3",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#efefef",
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/white-flower-pattern-background_1236-338x338.jpg",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": "0.2"
+          },
+          "mainTitle": "TimeLine",
+          "bottomTitle": "Concept: <span style=\"font-weight: normal;\">Through the rich and diverse and unique taste of the popular elements of spices, passing a sense of art fashion</span><div><span style=\"font-weight: normal;\"><br></span></div>",
+          "mainSubtitle": "",
+          "title1": "1994-1998",
+          "title2": "1999-2005",
+          "title3": "2006-2017",
+          "title4": "2009-2011",
+          "title5": "2011-2017",
+          "title6": "6. Multi Homepages",
+          "title7": "7. Responsive Design",
+          "title8": "8. Smart Watch",
+          "title9": "9. Design out of the box",
+          "title10": "10. Awesome Reports",
+          "title11": "11. Design out of the box",
+          "title12": "12. Awesome Reports",
+          "date1": "",
+          "date2": "",
+          "date3": "",
+          "date4": "",
+          "date5": "",
+          "date6": "6 June 2016",
+          "date7": "7 July 2016",
+          "date8": "8 August 2016",
+          "date9": "9 September 2016",
+          "date10": "10 October 2016",
+          "date11": "11 November 2016",
+          "date12": "12 December 2016",
+          "text1": "Jane Yu Feng in 1994 by the Bureau of Industry Fashion Design Garment Group Award.\n<br>Pan Bo Xun in 1998 won the French art new award clothing group second.\n<br>",
+          "text2": "1999 in France own clothing brand \"YufengShawn\"\n<br>The two were selected for the 2005 Miss French beauty design competition dress, Miss France first used as the Asian designer brand.\n<br>2005 and then evolved into Shawnyi\n<br>In October 2005 for the first time in Paris Fashion Week, with \"Takayama\" showing the opening show.\n<br>",
+          "text3": "February 2006 once again set foot on the Paris Fashion Week, to create the 80's Baroque feelings of \"golden years.\"\n<br>April 2006 Shawnyi Taipei flagship store opened.\n<br>2010 Jane Yu Feng and Pan Bo Xun together to create the Shawnyi L'epice brand concept store",
+          "text4": "• 2010~         : 후즈넥스트, 코트리, 트라노이, 터치 전시회 참가/참가중\n<br>• 2010          : 제1회 New York Concept Korea 참가\n<br>• 2010          : Seoul fashion week 헌정디자이너선정 수상\n<br>• 2009 ~2011    : 대한민국 패션품질 대상 수상&nbsp;",
+          "text5": "• 2014          : 제9회 아시아 모델 어워즈 국제문화교류상 수상\n<br>• 2012          : 제5회 코리아 패션대상 대통령상 수상\n<br>• 2011,2012     : 세계패션그룹 (FGI) 회장&nbsp;",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text7": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text8": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text9": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text11": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-extFeatures2",
+              "linkInNewWindow": false,
+              "name": "layers",
+              "family": "et-line",
+              "active": true,
+              "size": 0,
+              "color": "#132eea"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "upload",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-extFeatures2",
+              "name": "layers",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media7": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "upload",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media8": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media9": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media10": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media11": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media12": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures13",
+          "_styles": {
+            ".etl-icon": {
+              "color": "#f90aa2"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "14px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700",
+              "text-align": "left"
+            },
+            ".mbr-section-title": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "extFeatures13-1z"
+        },
+        {
+          "_params": {
             "showBullets": true,
             "fullWidth": false,
             "spacing": 0,
@@ -169,7 +378,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/si2-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/si2)-800x1200.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/si2-800x1200-800x1200.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -191,7 +400,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/shawnyi-13-jpg-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/shawnyi-13_jpg-800x1200.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/shawnyi-13-jpg-800x1200-800x1200.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -213,7 +422,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mn12-003-460x598.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mn12_003-460x598.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mn12-003-460x598-460x598.jpg",
                 "alt": "",
                 "caption": "Type caption here",
@@ -224,7 +433,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/mn12-005-426x564.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mn12_005-426x564.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/mn12-005-426x564-426x564.jpg",
                 "alt": "",
                 "caption": "Type caption here",

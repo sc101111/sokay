@@ -23,14 +23,16 @@
       "additionalSetColors": []
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 60,
+    "uniqCompNum": 61,
     "versionPublish": "4.0.17",
     "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
     "mcShopcart": {
       "email": "simonchang1108@gmail.com"
-    }
+    },
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -106,6 +108,86 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-1g",
           "_customCSS": ""
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": false,
+            "showDates": false,
+            "blocks": "4",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader14_bg.jpg",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "mainTitle": "TIMELINE BLOCK",
+          "mainSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "title1": "2013",
+          "title2": "2015",
+          "title3": "2016",
+          "title4": "2017",
+          "title5": "5. Awesome Reports",
+          "title6": "6. Multi Homepages",
+          "title7": "7. Responsive Design",
+          "title8": "8. Smart Watch",
+          "title9": "9. Design out of the box",
+          "title10": "10. Awesome Reports",
+          "title11": "11. Design out of the box",
+          "title12": "12. Awesome Reports",
+          "date1": "IN 2013, ANGUS CHIANG GRADUATED FROM SHIH- CHIEN UNIVERSITY. IN THE SAME YEAR, HIS DARING AND CHROMATIC GRADUATION COLLECTION, “SAILING TO THE MOON”, REPRESENTED TAIWAN AT GRADUATE FASHION WEEK IN THE INTERNATIONAL CATWALK COMPETITION AND SECURED HIM FIRST PLACE . <br>",
+          "date2": "2 Ferbuary 2016",
+          "date3": "3 March 2016",
+          "date4": "4 April 2016",
+          "date5": "5 May 2016",
+          "date6": "6 June 2016",
+          "date7": "7 July 2016",
+          "date8": "8 August 2016",
+          "date9": "9 September 2016",
+          "date10": "10 October 2016",
+          "date11": "11 November 2016",
+          "date12": "12 December 2016",
+          "text1": "IN 2013, ANGUS CHIANG GRADUATED FROM SHIH- CHIEN UNIVERSITY. IN THE SAME YEAR, HIS DARING AND CHROMATIC GRADUATION COLLECTION, “SAILING TO THE MOON”, REPRESENTED TAIWAN AT GRADUATE FASHION WEEK IN THE INTERNATIONAL CATWALK COMPETITION AND SECURED HIM FIRST PLACE .&nbsp;",
+          "text2": "ESTABLISHED IN 2015, ANGUS CHIANG IS A CONTEMPORARY MENSWEAR LABEL WHICH SHOWCASES DESIGNS INSPIRED BY TAIWANESE CULTURE. ANGUS CHIANG OFFERS A UNIQUE SENSE OF AESTHETIC AND BRINGS THIS TO LIFE THROUGH HIS VISION THAT COMBINES HUMOUR WITH JOYFUL SPIRITS. <br>",
+          "text3": "HIS AWARD WINNING COLLECTION WAS INVITED TO BE IN FASHION SCOUT'S GRADUATE SHOWCASE DURING LONDON FASHION WEEK SS14. IN MARCH AND SEPTEMBER OF 2016, ANGUS CHIANG WAS INVITED TO BE IN VANCOUVER FASHION WEEK, AND LAUNCHED ITS AW16 AND SS17 MENSWEAR COLLECTIONS RESPECTIVELY.<br>",
+          "text4": "2017 Paris FashionWeek \"She and their lips\" &nbsp;&nbsp;",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text7": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text8": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text9": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text11": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures11",
+          "_anchor": "extFeatures11-1o",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "24px"
+            },
+            ".date P": {
+              "font-size": "14px",
+              "font-family": "'Ubuntu', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Ubuntu:400,300,700"
+            },
+            "P": {
+              "font-family": "'PT Sans', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+            }
+          }
         },
         {
           "_tags": [
