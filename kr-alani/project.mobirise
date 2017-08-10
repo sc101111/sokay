@@ -81,7 +81,7 @@
           },
           "title": "Alani, 김재환, Korea, Asia",
           "text": "ALANI the grey\n<br>\n<br>ALANI was launched in 2010 from Korea after designer Jae Hwan Kim graduated from Central Saint Martins.\n<br>\n<br>It originally started with Menswear collection.\n<br>Menswear collection of ALANI soon proved its success and was shown in international markets including Tranoi Paris, Harvey Nichols in Hong Kong and a few other finest retailers in European countries.\n<br>\n<br>From Spring/Summer 2011, ALANI has been presenting Womenswear collection.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#\">MORE</a>",
           "_tags": [
             "Theme"
           ],
@@ -137,7 +137,7 @@
           },
           "title": "Alani",
           "text": "<b><span style=\"font-style: normal;\">김재환</span>, Korea, Asia</b>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Art</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Product</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"#\" data-toolbar=\"-mbrBtnMove\">One Art</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"#\" data-toolbar=\"-mbrBtnMove\">One Product</a>"
         },
         {
           "_tags": [
@@ -270,18 +270,18 @@
               "src": "@PROJECT_PATH@/assets/images/kr1.svg",
               "height": 128,
               "alt": "Mobirise",
-              "link": "https://mobirise.com",
+              "link": "#",
               "title": "",
               "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-menu",
-              "link": "https://mobirise.com",
+              "link": "#",
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">Fashion Week</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#/\">Fashion Week</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#/\">DOWNLOAD</a></li>",
           "_customHTML": "<section data-rv-view=\"639\">\n\n    <nav class=\"navbar navbar-dropdown transparent bg-color\">\n        <div class=\"container\">\n\n            <div class=\"mbr-table\">\n                <div class=\"mbr-table-cell\">\n\n                    <div class=\"navbar-brand\">\n                        <a href=\"#\" class=\"navbar-logo\"><img src=\"@PROJECT_PATH@/assets/images/kr.svg\" alt=\"Mobirise\"></a>\n                        <a class=\"navbar-caption\" href=\"#\"></a>\n                    </div>\n\n                </div>\n                <div class=\"mbr-table-cell\">\n\n                    <button class=\"navbar-toggler pull-xs-right\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"hamburger-icon\"></div>\n                    </button>\n\n                    <ul class=\"nav-dropdown collapse pull-xs-right nav navbar-nav navbar-toggleable-xl\" id=\"exCollapsingNavbar\"><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://www.123contactform.com/form-2764113/\" code-editable-id=\"6\">Join us now (supplier)</a></li><li class=\"nav-item\"><a class=\"nav-link link mbr-editable-menu-item\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSc8QvzXoe5hGYvYhUM0UsOrURJ8XcpToInXDZ564OLiTuikKA/viewform\" code-editable-id=\"7\">Join us now (designer)</a></li><li class=\"nav-item nav-btn\"><a class=\"nav-link btn btn-white btn-white-outline mbr-editable-menu-item\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=0&amp;item_name=&amp;currency_code=USD\" code-editable-id=\"8\"><span class=\"fa fa-cc-paypal mbr-iconfont mbr-iconfont-btn\"></span>Check Out /&nbsp;점검<br>Visa/Master/AE</a></li></ul>\n                    <button hidden=\"\" class=\"navbar-toggler navbar-close\" type=\"button\" data-toggle=\"collapse\" data-target=\"#exCollapsingNavbar\">\n                        <div class=\"close-icon\"></div>\n                    </button>\n\n                </div>\n            </div>\n\n        </div>\n    </nav>\n\n</section> ",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
@@ -303,7 +303,7 @@
               "stateDetails": ""
             },
             "bgImageRadio": false,
-            "bgImage": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/img_extForm1_bg.jpg",
+            "bgImage": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/img_extForm1_bg.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fafafa",
