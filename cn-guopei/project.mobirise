@@ -416,7 +416,7 @@
             },
             "overlay": true,
             "overlayColor": "#000",
-            "overlayOpacity": "0.3"
+            "overlayOpacity": "0"
           },
           "title": "GUO PEI<br>Fall/Winter 2017/18",
           "text": "",
