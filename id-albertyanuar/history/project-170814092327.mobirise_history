@@ -23,9 +23,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 37,
-    "versionPublish": "4.1.2",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "versionPublish": "4.1.2"
   },
   "pages": {
     "index.html": {
@@ -134,12 +132,12 @@
           "_params": {
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "inverse": false,
             "showArrow": true,
-            "imageSize": "30",
+            "imageSize": 50,
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/al2-2000x1333.jpg",
+            "bgImage": "@THEME_PATH@/components/_images/landscape.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -155,11 +153,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/a2a08bbce5b579c70d4c8854d27df6ab-300x375.jpg",
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
             },
             "video": {
               "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
@@ -173,8 +167,8 @@
               "size": 250
             }
           },
-          "title": "Albert Yanuar",
-          "text": "OLIVIA x ALBERT YANUAR",
+          "title": "INTRO WITH IMAGE",
+          "text": "Full screen intro with parallax image background and color overlay and a picture on right.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
             "Theme"
@@ -191,12 +185,11 @@
           "_styles": {
             ".mbr-section-title": {
               "text-align": "left",
-              "font-size": "48px"
+              "font-size": "80px"
             },
             ".mbr-section-lead B": {
               "font-family": "'Oxygen', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700",
-              "font-size": "20px"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oxygen:400,300,700"
             },
             ".mbr-section-lead": {
               "font-family": "'Oswald', sans-serif",
@@ -246,6 +239,16 @@
             "filter": false,
             "images": [
               {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "file:///D:/git/shokay-heroku/master/id-albertyanuar/assets/images/albert-yanuar-2000x1174-800x469.jpg",
+                "image": "file:///D:/git/shokay-heroku/master/id-albertyanuar/assets/images/albert-yanuar-2000x1174.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
                 "tags": "Responsive",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -273,61 +276,7 @@
                 "thumb": "file:///D:/git/shokay-heroku/master/id-albertyanuar/assets/images/0a608b73a8f328ae1aa14e4787dbe259-2000x1456-800x582.jpg",
                 "image": "file:///D:/git/shokay-heroku/master/id-albertyanuar/assets/images/0a608b73a8f328ae1aa14e4787dbe259-2000x1456.jpg",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/588165cover-franda-1820x1200-800x527.jpg",
-                "image": "@PROJECT_PATH@/assets/images/588165cover_franda-1820x1200.jpg",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jfw-2016-day-5-980x719-800x586.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jfw-2016-day-5-980x719.jpg",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jfw-2016-day-5-1-980x719-800x586.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jfw-2016-day-5-1-980x719.jpg",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/401519cover-home-1820x1105-800x485.jpg",
-                "image": "@PROJECT_PATH@/assets/images/401519cover_home-1820x1105.jpg",
-                "caption": "Type caption here",
-                "active": true,
-                "alt": ""
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "file:///D:/git/shokay-heroku/master/id-albertyanuar/assets/images/albert-yanuar-2000x1174-800x469.jpg",
-                "image": "file:///D:/git/shokay-heroku/master/id-albertyanuar/assets/images/albert-yanuar-2000x1174.jpg",
-                "caption": "Type caption here",
-                "active": false
+                "active": true
               }
             ]
           },
@@ -344,8 +293,8 @@
             "showForm": true,
             "inverse": false,
             "googleMap": {
-              "address": "JL. GADING INDAH RAYA KAV 8 BLOK A NO 9, KELAPA GADING, JAKARTA UTARA, INDONESIA-14240",
-              "placeId": "ChIJIY9hSDL1aS4RjfnF3oIbPE8",
+              "address": "北市北忠孝東路二段132號",
+              "placeId": "ChIJsXJEhHypQjQRhVS5aMHPw1M",
               "state": "ok",
               "stateDetails": ""
             },
@@ -363,15 +312,15 @@
             "overlayOpacity": 0.1
           },
           "title": "DROP A MESSAGE",
-          "title1": "To : ALBERT YANUAR",
+          "title1": "To : Service Center",
           "title2": "Visit our office",
           "subTitle1": "Ready for offers & cooperation",
           "subTitle2": "Glad to meet new people",
-          "text1": "Address: &nbsp;JL. GADING INDAH RAYA KAV 8 BLOK A NO 9, KELAPA GADING, JAKARTA UTARA, INDONESIA-14240<br>Phone:+62 21 45857942<br>Fax : +62 21 45857943<br>",
+          "text1": "Address: &nbsp; 北市北忠孝東路二段130號4f<br>Phone: 23435688 # 426<br><br>",
           "text2": "1234 Street Name </br> City AA 99999",
-          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND MESSAGE</a>",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND MESSAGE</a>",
           "form": {
-            "action": "albert@albertyanuar.com",
+            "action": "simonchang1108@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
