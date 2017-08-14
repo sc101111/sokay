@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "designers",
+    "name": "global events",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -23,13 +23,11 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 69,
-    "versionPublish": "4.1.2",
-    "path": "file:///D:/git/shokay",
+    "versionPublish": "4.0.9",
+    "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
-    "screenshot": "screenshot.png",
-    "publishType": "local",
-    "publishPath": "file:///D:/wamp/www/global"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -48,16 +46,13 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "color": "#ffffff",
-              "text-align": "center"
+              "color": "#ffffff"
             },
             ".mbr-section-title FONT": {
-              "color": "#000000",
-              "font-size": "30px"
+              "color": "#000000"
             },
             ".lead H4": {
-              "color": "#ffffff",
-              "font-size": "20px"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -70,7 +65,7 @@
             "showText": true,
             "showButton": false,
             "paddingTop": "2",
-            "paddingBottom": "0",
+            "paddingBottom": "1",
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/fashion-design-slide-1-2000x833.jpg",
             "parallax": true,
@@ -93,6 +88,36 @@
             "Theme"
           ],
           "_name": "features1",
+          "_styles": {
+            ".striped .mbr-cards-col:nth-child(2n+1)": {
+              "background-color": "#2e2e2e"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text SPAN": {
+              "font-size": "14px",
+              "text-align": "left",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text DIV": {
+              "text-align": "right",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
+              "font-size": "16px"
+            },
+            ".mbr-cards-col:nth-child(even) .card-text": {
+              "text-align": "left",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-text": {
+              "text-align": "left",
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            ".mbr-cards-col:nth-child(odd) .card-title": {
+              "text-align": "center"
+            }
+          },
           "_anchor": "features1-1o",
           "_params": {
             "showImages": true,
@@ -212,17 +237,7 @@
           "title6": "Germany",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Berlin Fashion Week<br>Mercedes-Benz Fashionweek Berlin<br>Fashion Week Düsseldorf<br>Munich Fashion Week<br>Bread &amp; Butter Berlin<br>Heldenmarkt Stuttgart<br>Just Married Hof,<br>Laundry and more Expo<br>Mmc Dessous Paradise<br>Moda Made in Italy<br>Rostock Wedding Fair<br>Spirit and Life Dortmund,<br>Top Hair International<br>Wedding Fair Wedding &amp; Celebrations",
-          "button6": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\">MORE</a>",
-          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding\" data-rv-view=\"77\" style=\"background-color: rgb(255, 255, 255);\">\n\n        \n\n    <div class=\"mbr-cards-row row striped\">\n\n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 0px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/gb.svg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"92\">UK</h4>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"93\"></p><div style=\"text-align: left;\">Aberdeen Fashion Week<br>Africa Fashion Week London<br>Birmingham International Fashion Week<br>Brighton Fashion Week<br>Cheltenham Fashion Week<br>Cork Fashion Week<br>Global Kids Fashion Week<br>Graduate Fashion Week<br>Hull Fashion Week<br>Liverpool Fashion Week<br>London Fashion Week<br>London Collections (Men and Women)<br>Norwich Fashion Week<br>Oxford Fashion Week<br>Edinburgh Online FW</div><div style=\"text-align: left;\">Moda Lingerie &amp; Swimwear<br>Moda Woman<br>Scoop International Fashion Show<br>Your Wedding Exhibition</div><p></p>\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 0px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/us.svg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"94\">USA</h4>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"95\"><span style=\"font-size: 1rem; line-height: 1.5;\">African Fashion Week Chicago</span><br>    All Things Ankara Fashion Week<br>    Austin Fashion Week<br>    Birmingham Fashion Week<br>    Boston Curvy Fashion Week<br>    College Fashion Week<br>    Columbus Fashion Week<br>    Couture Fashion Week<br>    Curves Fashion Week<br>    Chicago Couture Fashion Week<br>    Cincinnatie Fashion Week<br>    Fashion Week New Orleans<br>    Fashion Week Brooklyn<br>    Fashion Week Cleveland<br>    Fashion Week El Paseo<br>    Fashion Week Las Vegas<br>Indianapolis Midwest Fashion Week<br>Little Rock Fashion Week<br></p>\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 0px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/us.svg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"96\">USA</h4>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"97\"><span style=\"font-size: 1rem; line-height: 1.5;\">Mercedes-Benz Fashion Week Swim Miami</span><br>Miami International Fashion Week<br>Miami Fashion Week<br>Miami Swim Show<br>New Jersey<br>NY Bridal Fashion Week<br>Mercedes-Benz Fashionweek New York<br>Los Angeles Fashion Week<br>Orange County Fashion Week<br>Oneofakind Baton Rouge Fashion Week<br>Philadelphia Small Business Fashion Week<br>Pittsburg Fashion Week<br>Santa Fe Fashion Week<br>Queer Fashion Week<br>Utah Fashion Week<br>West Palm Beach Fashion Week<br></p>\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 0px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/fr.svg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"98\">France</h4>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"99\"><span style=\"font-size: 1rem; line-height: 1.5;\">Paris Fashion Week</span><br>Pulp Fashion Week<br>Texworld Paris<br>Apparel Sourcing Paris<br>Interfiliere Paris<br>La Rencontre Du Mariage Et Du Pacs Strasbourg<br>MCB Creations And Trends Show<br>Premiere Vision-France<br>Salon Du Mariage Casino De Royat<br>Vendome Luxury Tradeshow<br></p>\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 0px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/de.svg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"100\">Germany<br></h4>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"101\">Berlin Fashion Week<br>Mercedes-Benz Fashionweek Berlin<br>Fashion Week Düsseldorf<br>Munich Fashion Week<br>Bread &amp; Butter Berlin<br>Heldenmarkt Stuttgart<br>Just Married Hof,<br>Laundry and more Expo<br>Mmc Dessous Paradise<br>Moda Made in Italy<br>Rostock Wedding Fair<br>Spirit and Life Dortmund,<br>Top Hair International<br>Wedding Fair Wedding &amp; Celebrations</p>\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        \n    </div>\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);\n.striped .mbr-cards-col:nth-child(2n+1) {\n  background-color: #2e2e2e;\n}\n.mbr-cards-col:nth-child(odd) .card-text SPAN {\n  font-size: 14px;\n  text-align: left;\n  font-family: 'Lato', sans-serif;\n}\n.mbr-cards-col:nth-child(odd) .card-text DIV {\n  text-align: right;\n  font-family: 'Lato', sans-serif;\n  font-size: 16px;\n}\n.mbr-cards-col:nth-child(even) .card-text {\n  text-align: left;\n  font-family: 'Lato', sans-serif;\n}\n.mbr-cards-col:nth-child(odd) .card-text {\n  text-align: left;\n  font-family: 'Lato', sans-serif;\n}\n.mbr-cards-col:nth-child(odd) .card-title {\n  text-align: center;\n}\n",
-          "_customTemplate": true,
-          "_styles": {
-            ".striped .mbr-cards-col:nth-child(2n+1)": {
-              "background-color": "#2e2e2e"
-            }
-          }
+          "button6": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_tags": [
@@ -1264,7 +1279,7 @@
             "columnsColor": "#ffffff",
             "paddingTop": "0",
             "paddingBottom": "1",
-            "columns": "6",
+            "columns": "4",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -1344,35 +1359,27 @@
           "button4": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fi.svg",
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
-          "title5": "Filand",
+          "title5": "Trendy Website Blocks",
           "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Helsinki Fashion Week",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "button5": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/no.svg",
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "",
-              "alt": "",
-              "title": "",
-              "linkInNewWindow": false
+              "active": true
             }
           },
-          "title6": "Norway",
+          "title6": "Host Anywhere",
           "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Norwegian Fashion Week&nbsp;",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
           "button6": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\">MORE</a>",
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
@@ -1416,10 +1423,10 @@
               "color": "#ffffff"
             },
             ".link": {
-              "font-size": "1.05rem"
+              "font-size": "1.3rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.137rem"
+              "font-size": "1.408rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -1453,14 +1460,14 @@
           "_name": "menu",
           "_anchor": "menu-q",
           "_params": {
-            "logo": true,
+            "logo": false,
             "showBrand": false,
             "hideButtons": true,
             "sticky": false,
             "collapsed": false,
             "transparent": true,
             "bgColor": "#28324e",
-            "fontSize": "1.05",
+            "fontSize": "1.3",
             "fontName": {},
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
@@ -1468,7 +1475,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/030-worldwide-128x128.png",
+              "src": "@PROJECT_PATH@/assets/images/kr.svg",
               "height": 128,
               "alt": "Mobirise",
               "link": "#",
@@ -1491,8 +1498,8 @@
           "_name": "footer1",
           "_anchor": "footer1-1m",
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": 2,
+            "paddingBottom": 2,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
