@@ -232,7 +232,7 @@
           "subtitle": "정혁서 / 배승연, Korea, Asia",
           "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>",
           "form": {
-            "action": "vmfpdlwms@naver.com",
+            "action": "muse2s@hyundaihmall.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
