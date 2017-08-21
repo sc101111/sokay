@@ -26,7 +26,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 125,
-    "versionPublish": "4.0.17",
+    "versionPublish": "4.1.2",
     "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
@@ -54,7 +54,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "bgImage": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/slider02-1400x933.png",
+            "bgImage": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/slider02-1400x933.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#e9e9e9",
@@ -89,7 +89,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/sky.jpg",
+            "bgImage": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/sky.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -122,143 +122,6 @@
         },
         {
           "_params": {
-            "showBullets": true,
-            "fullWidth": false,
-            "spacing": "1",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "filterBgColor": false,
-            "bgColor": "#FFFFFF",
-            "showText": false,
-            "filter": false,
-            "images": [
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/029-laptop-512x512.png",
-                "thumb": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/029-laptop-512x512-512x512.png",
-                "alt": "",
-                "caption": "3,825 Designers",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/039-analytics-512x512.png",
-                "thumb": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/039-analytics-512x512-512x512.png",
-                "alt": "",
-                "caption": "1,392 Suppliers",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/023-cloud-computing-512x512.png",
-                "thumb": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/023-cloud-computing-512x512-512x512.png",
-                "alt": "",
-                "caption": "9,291 Instant Msg",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/046-presentation-512x512.png",
-                "thumb": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/046-presentation-512x512-512x512.png",
-                "alt": "",
-                "caption": "1,802 Activities",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/034-curriculum-512x512.png",
-                "thumb": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/034-curriculum-512x512-512x512.png",
-                "alt": "",
-                "caption": "9,212 Reports",
-                "active": false
-              },
-              {
-                "tags": "Beautiful",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/047-presentation-512x512.png",
-                "thumb": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/047-presentation-512x512-512x512.png",
-                "alt": "",
-                "caption": "11,022 Videos",
-                "active": false
-              },
-              {
-                "tags": "Responsive",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/035-group-512x512.png",
-                "thumb": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/035-group-512x512-512x512.png",
-                "alt": "",
-                "caption": "3,321 News",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/004-smartphone-512x512.png",
-                "thumb": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/004-smartphone-512x512-512x512.png",
-                "alt": "",
-                "caption": "22,212 Products",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/014-briefcase-512x512.png",
-                "thumb": "@PROJECT_PATH@/assets/images/014-briefcase-512x512-512x512.png",
-                "alt": "",
-                "caption": "22,212 Products",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/033-id-card-512x512.png",
-                "thumb": "@PROJECT_PATH@/assets/images/033-id-card-512x512-512x512.png",
-                "alt": "",
-                "caption": "22,212 Products",
-                "active": true
-              }
-            ]
-          },
-          "articleLayout": false,
-          "allItem": "All",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-3b",
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);\n.mbr-gallery-item > div > span {\n  font-size: 30px;\n  text-align: center;\n  font-family: 'Roboto', sans-serif;\n}\n.mbr-gallery .mbr-gallery-item {\n  position: relative;\n  display: inline-block;\n  width: 33.33%; }",
-          "_customHTML": "<section class=\"mbr-gallery mbr-section mbr-section-nopadding mbr-slider-carousel\" data-filter=\"false\" data-rv-view=\"4254\" style=\"background-color: rgb(255, 255, 255); padding-top: 0rem; padding-bottom: 0rem;\">\n    <!-- Filter -->\n    \n\n    <!-- Gallery -->\n    <div class=\"mbr-gallery-row\">\n        <div class=\" mbr-gallery-layout-default\">\n            <div>\n                <div>\n                    <div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Awesome\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"0\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/029-laptop-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Responsive\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"1\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/039-analytics-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Creative\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"2\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/023-cloud-computing-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Animated\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"3\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/046-presentation-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Awesome\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"4\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/034-curriculum-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Beautiful\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"5\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/047-presentation-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Responsive\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"6\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/035-group-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Animated\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"7\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/004-smartphone-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Animated\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"8\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/014-briefcase-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Animated\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"9\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/033-id-card-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"clearfix\"></div>\n        </div>\n    </div>\n\n    <!-- Lightbox -->\n    <div data-app-prevent-settings=\"\" class=\"mbr-slider modal fade carousel slide\" tabindex=\"-1\" data-keyboard=\"true\" data-interval=\"false\" id=\"lb-gallery1-3b\">\n        <div class=\"modal-dialog\">\n            <div class=\"modal-content\">\n                <div class=\"modal-body\">\n                    <ol class=\"carousel-indicators\">\n                        <li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"0\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"1\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"2\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"3\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"4\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"5\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"6\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"7\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"8\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" class=\" active\" data-slide-to=\"9\"></li>\n                    </ol>\n                    <div class=\"carousel-inner\">\n                        <div class=\"carousel-item\">\n                            <img src=\"file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/029-laptop-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/039-analytics-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/023-cloud-computing-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/046-presentation-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/034-curriculum-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/047-presentation-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/035-group-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/004-smartphone-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/014-briefcase-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item active\">\n                            <img src=\"@PROJECT_PATH@/assets/images/033-id-card-512x512.png\" alt=\"\">\n                        </div>\n                    </div>\n                    <a class=\"left carousel-control\" role=\"button\" data-slide=\"prev\" href=\"#lb-gallery1-3b\">\n                        <span class=\"icon-prev\" aria-hidden=\"true\"></span>\n                        <span class=\"sr-only\">Previous</span>\n                    </a>\n                    <a class=\"right carousel-control\" role=\"button\" data-slide=\"next\" href=\"#lb-gallery1-3b\">\n                        <span class=\"icon-next\" aria-hidden=\"true\"></span>\n                        <span class=\"sr-only\">Next</span>\n                    </a>\n\n                    <a class=\"close\" href=\"#\" role=\"button\" data-dismiss=\"modal\">\n                        <span aria-hidden=\"true\">×</span>\n                        <span class=\"sr-only\">Close</span>\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customTemplate": true
-        },
-        {
-          "_params": {
             "showTitle": false,
             "showSearch": false,
             "rowСount": "1",
@@ -266,7 +129,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/sky_1.jpg",
+            "bgImage": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/sky_1.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -306,7 +169,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/sky_3.jpg",
+            "bgImage": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/sky_3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -338,6 +201,170 @@
           "_JSplaceholders": []
         },
         {
+          "_inherit": "social-buttons2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2r",
+          "_customHTML": "<iframe width=\"100%\" height=\"600\" frameborder=\"0\" scrolling=\"yes\" marginheight=\"0\" marginwidth=\"0\" src=\"https://suppliers-app.azurewebsites.net/\"></iframe> \n<h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size: 20px;text-align: center; background-color:#2e2e2e; padding-top: 20px; padding-bottom: 20px;\" code-editable-id=\"23\"><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSc8QvzXoe5hGYvYhUM0UsOrURJ8XcpToInXDZ564OLiTuikKA/viewform\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Global Designers / Join Now</a></h3>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "\na:hover {\n    color: white;\n    text-decoration:none; \n   \n}",
+          "_customTemplate": true
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/029-laptop-512x512.png",
+                "thumb": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/029-laptop-512x512-512x512.png",
+                "alt": "",
+                "caption": "3,825 Designers",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/039-analytics-512x512.png",
+                "thumb": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/039-analytics-512x512-512x512.png",
+                "alt": "",
+                "caption": "1,392 Suppliers",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/023-cloud-computing-512x512.png",
+                "thumb": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/023-cloud-computing-512x512-512x512.png",
+                "alt": "",
+                "caption": "9,291 Instant Msg",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/046-presentation-512x512.png",
+                "thumb": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/046-presentation-512x512-512x512.png",
+                "alt": "",
+                "caption": "1,802 Activities",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/034-curriculum-512x512.png",
+                "thumb": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/034-curriculum-512x512-512x512.png",
+                "alt": "",
+                "caption": "9,212 Reports",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/047-presentation-512x512.png",
+                "thumb": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/047-presentation-512x512-512x512.png",
+                "alt": "",
+                "caption": "11,022 Videos",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/035-group-512x512.png",
+                "thumb": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/035-group-512x512-512x512.png",
+                "alt": "",
+                "caption": "3,321 News",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/004-smartphone-512x512.png",
+                "thumb": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/004-smartphone-512x512-512x512.png",
+                "alt": "",
+                "caption": "22,212 Products",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/014-briefcase-512x512.png",
+                "thumb": "@PROJECT_PATH@/assets/images/014-briefcase-512x512-512x512.png",
+                "alt": "",
+                "caption": "22,212 Products",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/033-id-card-512x512.png",
+                "thumb": "@PROJECT_PATH@/assets/images/033-id-card-512x512-512x512.png",
+                "alt": "",
+                "caption": "22,212 Products",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-3b",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);\n.mbr-gallery-item > div > span {\n  font-size: 30px;\n  text-align: center;\n  font-family: 'Roboto', sans-serif;\n}\n.mbr-gallery .mbr-gallery-item {\n  position: relative;\n  display: inline-block;\n  width:20%; }",
+          "_customHTML": "<section class=\"mbr-gallery mbr-section mbr-section-nopadding mbr-slider-carousel\" data-filter=\"false\" data-rv-view=\"4254\" style=\"background-color: rgb(255, 255, 255); padding-top: 0rem; padding-bottom: 0rem;\">\n    <!-- Filter -->\n    \n\n    <!-- Gallery -->\n    <div class=\"mbr-gallery-row\">\n        <div class=\" mbr-gallery-layout-default\">\n            <div>\n                <div>\n                    <div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Awesome\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"0\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/029-laptop-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Responsive\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"1\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/039-analytics-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Creative\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"2\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/023-cloud-computing-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Animated\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"3\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/046-presentation-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Awesome\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"4\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/034-curriculum-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Beautiful\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"5\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/047-presentation-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Responsive\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"6\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/035-group-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Animated\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"7\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/004-smartphone-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Animated\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"8\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/014-briefcase-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Animated\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"9\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/033-id-card-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"clearfix\"></div>\n        </div>\n    </div>\n\n    <!-- Lightbox -->\n    <div data-app-prevent-settings=\"\" class=\"mbr-slider modal fade carousel slide\" tabindex=\"-1\" data-keyboard=\"true\" data-interval=\"false\" id=\"lb-gallery1-3b\">\n        <div class=\"modal-dialog\">\n            <div class=\"modal-content\">\n                <div class=\"modal-body\">\n                    <ol class=\"carousel-indicators\">\n                        <li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"0\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"1\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"2\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"3\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"4\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"5\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"6\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"7\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"8\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" class=\" active\" data-slide-to=\"9\"></li>\n                    </ol>\n                    <div class=\"carousel-inner\">\n                        <div class=\"carousel-item\">\n                            <img src=\"file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/029-laptop-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/039-analytics-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/023-cloud-computing-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/046-presentation-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/034-curriculum-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/047-presentation-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/035-group-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/004-smartphone-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/014-briefcase-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item active\">\n                            <img src=\"@PROJECT_PATH@/assets/images/033-id-card-512x512.png\" alt=\"\">\n                        </div>\n                    </div>\n                    <a class=\"left carousel-control\" role=\"button\" data-slide=\"prev\" href=\"#lb-gallery1-3b\">\n                        <span class=\"icon-prev\" aria-hidden=\"true\"></span>\n                        <span class=\"sr-only\">Previous</span>\n                    </a>\n                    <a class=\"right carousel-control\" role=\"button\" data-slide=\"next\" href=\"#lb-gallery1-3b\">\n                        <span class=\"icon-next\" aria-hidden=\"true\"></span>\n                        <span class=\"sr-only\">Next</span>\n                    </a>\n\n                    <a class=\"close\" href=\"#\" role=\"button\" data-dismiss=\"modal\">\n                        <span aria-hidden=\"true\">×</span>\n                        <span class=\"sr-only\">Close</span>\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true
+        },
+        {
           "_params": {
             "showTitle": true,
             "showText": true,
@@ -346,7 +373,7 @@
             "VideoUrl": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
             "showArrow": true,
             "bgImageRadio": false,
-            "bgImage": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/img_extHeader5_bg.jpg",
+            "bgImage": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/img_extHeader5_bg.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -364,7 +391,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/play-button.svg"
+              "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/play-button.svg"
             },
             "iconFont": {
               "active": false,
@@ -379,7 +406,7 @@
           "title": "INTRO WITH VIDEO POPUP",
           "text": "Full-screen intro with background image and video popup. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
           "text2": "<label class=\"startPreset\" for=\"modal\">Watch Video</label>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"#\">MORE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "alias": "mobirise3-blocks/components",
           "_tags": [
             "Extension"
@@ -401,7 +428,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/sky_3.jpg",
+            "bgImage": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/sky_3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -532,7 +559,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/logo-150x80.png",
+              "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/logo-150x80.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -544,11 +571,11 @@
               "linkInNewWindow": false,
               "name": "magic-stick",
               "family": "MobiriseIcons",
-              "link": "#",
+              "link": "https://mobirise.com",
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_tags": [
             "Theme"
           ],
@@ -565,7 +592,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "file:///C:/Users/User/AppData/Local/#/Mobirise/projectData/sky_2.jpg",
+            "bgImage": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/sky_2.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -660,10 +687,10 @@
           "title4": "211,921 &nbsp;pcs",
           "subtitle4": "Mobirise gives you the freedom",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button1": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "number1": "Report",
           "number2": "Live !",
           "number3": "News",
@@ -823,10 +850,10 @@
           "title4": "Join global designers and suppliers",
           "subtitle4": "Mobirise gives you the freedom",
           "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button1": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\">MORE</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "number1": "Service",
           "number2": "Solution",
           "number3": "Demand",
@@ -925,33 +952,6 @@
           ],
           "_name": "extFeatures12",
           "_anchor": "extFeatures12-29"
-        },
-        {
-          "_inherit": "social-buttons2",
-          "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
-          "_name": "social-buttons4",
-          "_anchor": "social-buttons4-2r",
-          "_customHTML": "<iframe width=\"100%\" height=\"600\" frameborder=\"0\" scrolling=\"yes\" marginheight=\"0\" marginwidth=\"0\" src=\"https://suppliers-app.azurewebsites.net/\"></iframe> \n<h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size: 20px;text-align: center; background-color:#2e2e2e; padding-top: 20px; padding-bottom: 20px;\" code-editable-id=\"312\"><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSc8QvzXoe5hGYvYhUM0UsOrURJ8XcpToInXDZ564OLiTuikKA/viewform\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Global Designers / Join Now</a></h3>",
-          "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "\na:hover {\n    color: white;\n    text-decoration:none; \n   \n}",
-          "_customTemplate": true
         },
         {
           "_params": {

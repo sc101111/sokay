@@ -718,7 +718,7 @@ h6,
 #gallery1-3b .mbr-gallery .mbr-gallery-item {
   position: relative;
   display: inline-block;
-  width: 25%;
+  width: 20%;
 }
 #extTable1-2u {
   
@@ -761,6 +761,18 @@ h6,
 }
 #extTable1-3d td:hover {
   border: 1px solid gray;
+}
+#social-buttons4-2r a:hover {
+  color: white;
+  text-decoration: none;
+}
+#extHeader5-39 H3 {
+  color: #ffffff;
+}
+#extHeader5-39 .center {
+  text-align: left;
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 #extTable1-3f {
   
@@ -913,10 +925,6 @@ h6,
   color: #000000;
   font-size: 20px;
   font-family: 'Oswald', sans-serif;
-}
-#social-buttons4-2r a:hover {
-  color: white;
-  text-decoration: none;
 }
 #gallery1-2n .mbr-gallery-item > div > span SPAN {
   font-size: 16px;
