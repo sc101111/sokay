@@ -707,19 +707,6 @@ h6,
 #extTable1-3g td:hover {
   border: 1px solid gray;
 }
-#gallery1-3b {
-  
-}
-#gallery1-3b .mbr-gallery-item > div > span {
-  font-size: 30px;
-  text-align: center;
-  font-family: 'Roboto', sans-serif;
-}
-#gallery1-3b .mbr-gallery .mbr-gallery-item {
-  position: relative;
-  display: inline-block;
-  width: 20%;
-}
 #extTable1-2u {
   
 }
@@ -765,6 +752,24 @@ h6,
 #social-buttons4-2r a:hover {
   color: white;
   text-decoration: none;
+}
+#gallery1-3b {
+  
+}
+#gallery1-3b .mbr-gallery-item > div > span {
+  font-size: 30px;
+  text-align: center;
+  font-family: 'Roboto', sans-serif;
+}
+#gallery1-3b .mbr-gallery .mbr-gallery-item {
+  position: relative;
+  display: inline-block;
+  width: 20%;
+}
+@media (max-width: 400px) {
+  #gallery1-3b .mbr-gallery .mbr-gallery-item {
+    width: 33.33%;
+  }
 }
 #extHeader5-39 H3 {
   color: #ffffff;
