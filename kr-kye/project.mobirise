@@ -157,7 +157,7 @@
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/-bkk0618-900x598.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/bkk0618-900x598.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -173,7 +173,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/-480x720.jpg",
+              "src": "@PROJECT_PATH@/assets/images/480x720.jpg",
               "link": "",
               "alt": "",
               "title": "",

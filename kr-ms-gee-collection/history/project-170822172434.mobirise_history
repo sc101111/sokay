@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "designers",
+    "name": "My Site",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -27,13 +27,12 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 61,
     "versionPublish": "4.1.7",
-    "path": "file:///D:/git/shokay",
+    "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
     "mcShopcart": {
       "email": "simonchang1108@gmail.com"
-    },
-    "screenshot": "screenshot.png"
+    }
   },
   "pages": {
     "index.html": {
