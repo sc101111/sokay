@@ -1,0 +1,2249 @@
+{
+  "settings": {
+    "currentPage": "index.html",
+    "name": "My Site",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#ffffff",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#eb6b56",
+        "titleFont": "Oswald",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#2e2e2e"
+      ]
+    },
+    "versionFirst": "3.12.1",
+    "uniqCompNum": 145,
+    "versionPublish": "4.1.7",
+    "path": "@PROJECT_PATH@",
+    "favicon": "",
+    "noImageResize": "",
+    "mcShopcart": {
+      "email": "simonchang1108@gmail.com"
+    }
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "msg-box8",
+          "_params": {
+            "showTitle": true,
+            "showText": false,
+            "showButton": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/logo-150x80.png",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "title": "MODERN STYLES",
+          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobirise mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-3t",
+          "_customCSS": ".mbr-section-title, p {\n  color: #000;\n}\n.btn {\n  font-size: 100px;\n}\n.mbr-section-title {\n  font-size: 36px;\n  color: #ffffff;\n}\n",
+          "_customHTML": "<section class=\"mbr-section article\" data-rv-view=\"396\" style=\"background-color: #057EAF; padding-top: 2px; padding-bottom: 1px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n               <img src=\"d:/logo-4.png\" width=\"70\" height=\"40\">\n                \n                \n            </div>\n        </div>\n    </div>\n</section>\n",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true
+        },
+        {
+          "_params": {
+            "autoplay": false,
+            "animType": "fade",
+            "theme": "angular",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/22xx-1024x800.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/22xx-1200x800.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/22xx-85x800.png",
+                "title": "title 2",
+                "text": "text 2",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/ah-egypt-1024x800.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/ah-egypt-1200x800.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/ah-egypt-85x800.png",
+                "title": "title 2",
+                "text": "text 2",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/norine-farah-egypt-1024x800.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/norine%20farah-egypt-1200x800.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/norine-farah-egypt-85x800.png",
+                "title": "title 3",
+                "text": "text 3",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/2-1024x800.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/2-1200x800.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/2-85x800.png",
+                "title": "title 1",
+                "text": "text 1",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/22xxx-1024x800.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/22xxx-1200x800.png",
+                "tooltip": "@PROJECT_PATH@/assets/images/22xxx-85x800.png",
+                "title": "title 3",
+                "text": "text 3",
+                "active": false
+              }
+            ],
+            "fullScreen": true,
+            "showCaptions": false,
+            "hideControls": false,
+            "responsive": "2",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "captionsEffect": "slide",
+            "showBullets": false,
+            "bgColor": "#ffffff",
+            "timeout": "1",
+            "duration": "0.5",
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1024x576",
+            "width": "1024",
+            "height": "576"
+          },
+          "articleLayout": false,
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_anchor": "wowslider-3w"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSearch": false,
+            "rowСount": "1",
+            "colCount": "2",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/sc/AppData/Local/Mobirise.com/Mobirise/projectData/sky_2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.4
+          },
+          "title": "TABLE",
+          "search": "Search:",
+          "info1": "Showing",
+          "info2": "entries",
+          "info3": "(filtered from",
+          "info4": "total entries)",
+          "table": "<thead><tr><th>Name</th><th>Name</th></tr></thead><tbody><tr><td><b>Designers Demand</b></td><td><b>Suppliers Demand</b></td></tr></tbody>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTable1",
+          "_customHTML": "<section class=\"mbr-section extTable1\" data-rv-view=\"255\" style=\"background-color:black; padding-top: 0px; padding-bottom: 0px;\">\n\n    <div class=\"container table-wrapper\" info3-text=\"(filtered from\" data-search=\"false\" search-text=\"Search:\" info1-text=\"Showing\" info2-text=\"entries\" info4-text=\"total entries)\">      \n        <table class=\"table mbr-editable-content\" cellspacing=\"0\" width=\"100%\" code-editable-id=\"34\"><thead><tr></tr></thead><tbody><tr><td><a href=\"#\"><span class=\"fa fa-comment-o mbr-iconfont mbr-iconfont-btn\"></span><h5>Designers</h5></a></td><td><a href=\"#\"><span class=\"fa fa-volume-up mbr-iconfont mbr-iconfont-btn\"></span><h5>Suppliers</h5></a></td></tr></tbody></table></div>\n</section>",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);\nTABLE {\n  text-align: center;\n     \n}\nTD {\n  font-size: 24px;\n    \n  font-family: 'Oxygen', sans-serif;\n}\nB {\n  font-size: 36px;\n}\na:hover {\n    color: red;\n    text-decoration:none; \n   \n}\ntd:hover {border: 1px solid gray;}\n",
+          "_customTemplate": true,
+          "_anchor": "extTable1-3v",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSearch": false,
+            "rowСount": "1",
+            "colCount": "2",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/sky_1.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.4
+          },
+          "title": "TABLE",
+          "search": "Search:",
+          "info1": "Showing",
+          "info2": "entries",
+          "info3": "(filtered from",
+          "info4": "total entries)",
+          "table": "<thead><tr><th>Name</th><th>Name</th></tr></thead><tbody><tr><td><b>Designers Demand</b></td><td><b>Suppliers Demand</b></td></tr></tbody>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTable1",
+          "_customHTML": "<section class=\"mbr-section extTable1\" data-rv-view=\"255\" style=\"background-color:White; padding-top: 0px; padding-bottom: 0px;\">\n\n    <div class=\"container table-wrapper\" info3-text=\"(filtered from\" data-search=\"false\" search-text=\"Search:\" info1-text=\"Showing\" info2-text=\"entries\" info4-text=\"total entries)\">      \n        <table class=\"table mbr-editable-content\" cellspacing=\"0\" width=\"100%\" code-editable-id=\"302\"><thead><tr></tr></thead><tbody><tr><td><a href=\"#\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span><h6><br>Message</h6></a></td><td><a href=\"#\"><span class=\"mbri-gift mbr-iconfont mbr-iconfont-btn\"></span><h6><br>Activity</h6></a></td><td><a href=\"#\"><span class=\"etl-icon icon-chat mbr-iconfont mbr-iconfont-btn\"></span><h6><br>Reports</h6></a></td><td><a href=\"#\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span><h6><br>Video</h6></a></td></tr></tbody></table></div>\n</section>",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);\nTABLE {\n  text-align: center;\n    \n}\nTD {\n  font-size: 22px;\n    \n  font-family: 'Oxygen', sans-serif;\n}\nB {\n  font-size: 36px;\n}\na:hover {\n    color: red;\n    text-decoration:none; \n    background-color: white;\n}\ntd:hover {border: 1px solid gray;}",
+          "_customTemplate": true,
+          "_anchor": "extTable1-2u",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSearch": false,
+            "rowСount": "1",
+            "colCount": "2",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/sky_3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.4
+          },
+          "title": "TABLE",
+          "search": "Search:",
+          "info1": "Showing",
+          "info2": "entries",
+          "info3": "(filtered from",
+          "info4": "total entries)",
+          "table": "<thead><tr><th>Name</th><th>Name</th></tr></thead><tbody><tr><td><b>Designers Demand</b></td><td><b>Suppliers Demand</b></td></tr></tbody>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTable1",
+          "_customHTML": "<section class=\"mbr-section extTable1\" data-rv-view=\"255\" style=\"background-color:White; padding-top: 0px; padding-bottom: 0px;\">\n\n    <div class=\"container table-wrapper\" info3-text=\"(filtered from\" data-search=\"false\" search-text=\"Search:\" info1-text=\"Showing\" info2-text=\"entries\" info4-text=\"total entries)\">      \n        <table class=\"table mbr-editable-content\" cellspacing=\"0\" width=\"100%\" code-editable-id=\"61\"><thead><tr></tr></thead><tbody><tr><td><a href=\"#\">Buyers <span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span><h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"62\"><span style=\"font-style: normal;\"><br><strong>31,810</strong></span></h5></a></td><td><a href=\"#\">Suppliers <span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span><h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"63\"><span style=\"font-style: normal;\"><br><strong>1,432</strong></span></h5></a></td><td><a href=\"#\">Artists <span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span><h5 class=\"card-subtitle mbr-editable-content\" code-editable-id=\"64\"><br><span style=\"font-style: normal;\"><strong>12,122</strong></span></h5></a></td></tr></tbody></table></div>\n</section>",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);\nTABLE {\n  text-align: center;\n    \n}\nTD {\n  font-size: 22px;\n    \n  font-family: 'Oxygen', sans-serif;\n}\nB {\n  font-size: 36px;\n}\na:hover {\n    color: red;\n    text-decoration:none; \n    background-color: white;\n}\ntd:hover {border: 1px solid gray;}",
+          "_customTemplate": true,
+          "_anchor": "extTable1-3d",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "_params": {
+            "showBullets": true,
+            "fullWidth": false,
+            "spacing": "1",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#FFFFFF",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/029-laptop-512x512.png",
+                "thumb": "@PROJECT_PATH@/assets/images/029-laptop-512x512-512x512.png",
+                "alt": "",
+                "caption": "3,825 Designers",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/039-analytics-512x512.png",
+                "thumb": "@PROJECT_PATH@/assets/images/039-analytics-512x512-512x512.png",
+                "alt": "",
+                "caption": "1,392 Suppliers",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/023-cloud-computing-512x512.png",
+                "thumb": "@PROJECT_PATH@/assets/images/023-cloud-computing-512x512-512x512.png",
+                "alt": "",
+                "caption": "9,291 Instant Msg",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/046-presentation-512x512.png",
+                "thumb": "@PROJECT_PATH@/assets/images/046-presentation-512x512-512x512.png",
+                "alt": "",
+                "caption": "1,802 Activities",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/034-curriculum-512x512.png",
+                "thumb": "@PROJECT_PATH@/assets/images/034-curriculum-512x512-512x512.png",
+                "alt": "",
+                "caption": "9,212 Reports",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/047-presentation-512x512.png",
+                "thumb": "@PROJECT_PATH@/assets/images/047-presentation-512x512-512x512.png",
+                "alt": "",
+                "caption": "11,022 Videos",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/035-group-512x512.png",
+                "thumb": "@PROJECT_PATH@/assets/images/035-group-512x512-512x512.png",
+                "alt": "",
+                "caption": "3,321 News",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/004-smartphone-512x512.png",
+                "thumb": "@PROJECT_PATH@/assets/images/004-smartphone-512x512-512x512.png",
+                "alt": "",
+                "caption": "22,212 Products",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/014-briefcase-512x512.png",
+                "thumb": "@PROJECT_PATH@/assets/images/014-briefcase-512x512-512x512.png",
+                "alt": "",
+                "caption": "22,212 Products",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@PROJECT_PATH@/assets/images/033-id-card-512x512.png",
+                "thumb": "@PROJECT_PATH@/assets/images/033-id-card-512x512-512x512.png",
+                "alt": "",
+                "caption": "22,212 Products",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-3b",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);\n.mbr-gallery-item > div > span {\n  font-size: 30px;\n  text-align: center;\n  font-family: 'Roboto', sans-serif;\n}\n@media (max-width: 1366px) {\n    .mbr-gallery .mbr-gallery-item {\n      width: 20%; } }\n @media (max-width: 768px) {\n    .mbr-gallery .mbr-gallery-item {\n      width: 25%; } }\n  @media (max-width: 400px) {\n    .mbr-gallery .mbr-gallery-item {\n      width: 33.33%; } }",
+          "_customHTML": "<section class=\"mbr-gallery mbr-section mbr-section-nopadding mbr-slider-carousel\" data-filter=\"false\" data-rv-view=\"48\" style=\"background-color: rgb(255, 255, 255); padding-top: 0rem; padding-bottom: 0rem;\">\n    <!-- Filter -->\n    \n\n    <!-- Gallery -->\n    <div class=\"mbr-gallery-row\">\n        <div class=\" mbr-gallery-layout-default\">\n            <div>\n                <div>\n                    <div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Awesome\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"0\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/029-laptop-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Responsive\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"1\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/039-analytics-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Creative\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"2\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/023-cloud-computing-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Animated\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"3\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/046-presentation-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Awesome\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"4\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/034-curriculum-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Beautiful\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"5\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/047-presentation-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Responsive\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"6\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/035-group-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Animated\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"7\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/004-smartphone-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Animated\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"8\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/014-briefcase-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Animated\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"9\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/033-id-card-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"clearfix\"></div>\n        </div>\n    </div>\n\n    <!-- Lightbox -->\n    <div data-app-prevent-settings=\"\" class=\"mbr-slider modal fade carousel slide\" tabindex=\"-1\" data-keyboard=\"true\" data-interval=\"false\" id=\"lb-gallery1-3b\">\n        <div class=\"modal-dialog\">\n            <div class=\"modal-content\">\n                <div class=\"modal-body\">\n                    <ol class=\"carousel-indicators\">\n                        <li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"0\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"1\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"2\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"3\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"4\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"5\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"6\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"7\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"8\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" class=\" active\" data-slide-to=\"9\"></li>\n                    </ol>\n                    <div class=\"carousel-inner\">\n                        <div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/029-laptop-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/039-analytics-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/023-cloud-computing-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/046-presentation-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/034-curriculum-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/047-presentation-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/035-group-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/004-smartphone-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/014-briefcase-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item active\">\n                            <img src=\"@PROJECT_PATH@/assets/images/033-id-card-512x512.png\" alt=\"\">\n                        </div>\n                    </div>\n                    <a class=\"left carousel-control\" role=\"button\" data-slide=\"prev\" href=\"#lb-gallery1-3b\">\n                        <span class=\"icon-prev\" aria-hidden=\"true\"></span>\n                        <span class=\"sr-only\">Previous</span>\n                    </a>\n                    <a class=\"right carousel-control\" role=\"button\" data-slide=\"next\" href=\"#lb-gallery1-3b\">\n                        <span class=\"icon-next\" aria-hidden=\"true\"></span>\n                        <span class=\"sr-only\">Next</span>\n                    </a>\n\n                    <a class=\"close\" href=\"#\" role=\"button\" data-dismiss=\"modal\">\n                        <span aria-hidden=\"true\">×</span>\n                        <span class=\"sr-only\">Close</span>\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2r",
+          "_customHTML": "<iframe width=\"100%\" height=\"600\" frameborder=\"0\" scrolling=\"yes\" marginheight=\"0\" marginwidth=\"0\" src=\"https://suppliers-app.azurewebsites.net/\"></iframe> \n<h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size: 20px;text-align: center; background-color:#2e2e2e; padding-top: 20px; padding-bottom: 20px;\" code-editable-id=\"24\"><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSc8QvzXoe5hGYvYhUM0UsOrURJ8XcpToInXDZ564OLiTuikKA/viewform\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Global Designers / Join Now</a></h3>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "a:hover {\n    color: white;\n    text-decoration:none; \n   \n}",
+          "_customTemplate": true
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": 2,
+            "paddingBottom": 1,
+            "showArrows": true,
+            "showBullets": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/flight-mountains-sky-flying.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "visibleSlides": "6",
+            "slides": [
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/1.png",
+                    "link": "https://mobirise.com",
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/2.png",
+                    "link": "https://mobirise.com",
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "link": "https://mobirise.com",
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/4.png",
+                    "link": "https://mobirise.com",
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/5.png",
+                    "link": "https://mobirise.com",
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": true,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "link": "https://mobirise.com",
+                    "active": true
+                  }
+                }
+              }
+            ]
+          },
+          "title": "OUR CLIENTS",
+          "subtitle": "\"Our clients\" carousel with adjustable number of visible clients.",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTestimonials5",
+          "_anchor": "extTestimonials5-3h"
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSubtitle": false,
+            "iconsColor": "#333333",
+            "blocks": "3",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#e9e9e9",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader14_bg.jpg",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.5
+          },
+          "mainTitle": "TIMELINE BLOCK",
+          "mainSubtitle": "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+          "title1": "1. Multi Homepages",
+          "title2": "2. Responsive Design",
+          "title3": "3. Smart Watch",
+          "title4": "4. Design out of the box",
+          "title5": "5. Awesome Reports",
+          "title6": "6. Multi Homepages",
+          "title7": "7. Responsive Design",
+          "title8": "8. Smart Watch",
+          "title9": "9. Design out of the box",
+          "title10": "10. Awesome Reports",
+          "title11": "11. Design out of the box",
+          "title12": "12. Awesome Reports",
+          "text1": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text2": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text3": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text7": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text8": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text9": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text10": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text11": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "text12": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont-extFeatures2",
+              "linkInNewWindow": false,
+              "name": "cc-visa",
+              "family": "FontAwesome",
+              "active": true,
+              "size": "50",
+              "color": "#f40629"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "upload",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-extFeatures2",
+              "name": "layers",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media7": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "upload",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media8": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "linegraph",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media9": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media10": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media11": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "heart",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "media12": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-features6",
+              "name": "pencil",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures10",
+          "_anchor": "extFeatures10-3f",
+          "_styles": {
+            ".etl-icon": {
+              "color": "#333333"
+            }
+          }
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showText": false,
+            "showButtons": false,
+            "showVideo": false,
+            "VideoUrl": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+            "showArrow": true,
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/img_extHeader5_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#2e2e2e",
+            "bgVideoRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/embed/y9rJNq5GNCU?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/y9rJNq5GNCU",
+              "width": 1280,
+              "height": 720
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": "0"
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/play-button.svg"
+            },
+            "iconFont": {
+              "active": false,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "pencil",
+              "link": "#modalWindow",
+              "size": 0,
+              "color": "#e6e6e6",
+              "family": "et-line"
+            }
+          },
+          "title": "INTRO WITH VIDEO POPUP",
+          "text": "Full-screen intro with background image and video popup. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
+          "text2": "<label class=\"startPreset\" for=\"modal\">Watch Video</label>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extHeader5",
+          "_anchor": "extHeader5-39"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "countdown": "2017/10/01",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "file:///C:/Users/sc/AppData/Local/Mobirise.com/Mobirise/projectData/slider02-1400x9334.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#e9e9e9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "<br>Limited Time On Sale",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extCountdown1",
+          "_customHTML": "<section class=\"mbr-section extCountdown1 mbr-parallax-background\" data-rv-view=\"90\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/shutterstock-106005665-2000x1251.png&quot;); padding-top: 160px; padding-bottom: 160px;\">\n\n    \n\n    <div class=\"container\">\n        <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"37\"><br></h3>\n        \n    </div>\n</section>\n",
+          "_customCSS": ".mbr-section-title {\n  font-size: 24px;\n  color: #ffffff;\n}\n",
+          "_customTemplate": true,
+          "_anchor": "extCountdown1-3q",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "countdown": "2017/10/01",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/slider02-1400x9334.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#e9e9e9",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#151515",
+            "overlayOpacity": 0.75
+          },
+          "title": "<br>Limited Time On Sale",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extCountdown1",
+          "_anchor": "extCountdown1-1z",
+          "_customHTML": "<section class=\"mbr-section extCountdown1 mbr-parallax-background\" data-rv-view=\"90\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/slider02-1400x9334.png&quot;); padding-top: 120px; padding-bottom: 120px;\">\n\n    \n\n    <div class=\"container\">\n        <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"44\"><br></h3>\n        \n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-title {\n  font-size: 24px;\n  color: #ffffff;\n}\n",
+          "_customTemplate": true
+        },
+        {
+          "_params": {
+            "showTitle": false,
+            "showSearch": false,
+            "rowСount": "1",
+            "colCount": "2",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/sky_2.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#fff",
+            "overlayOpacity": 0.4
+          },
+          "title": "TABLE",
+          "search": "Search:",
+          "info1": "Showing",
+          "info2": "entries",
+          "info3": "(filtered from",
+          "info4": "total entries)",
+          "table": "<thead><tr><th>Name</th><th>Name</th></tr></thead><tbody><tr><td><b>Designers Demand</b></td><td><b>Suppliers Demand</b></td></tr></tbody>",
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTable1",
+          "_customHTML": "<section class=\"mbr-section extTable1\" data-rv-view=\"255\" style=\"background-color:black; padding-top: 0px; padding-bottom: 0px;\">\n\n    <div class=\"container table-wrapper\" info3-text=\"(filtered from\" data-search=\"false\" search-text=\"Search:\" info1-text=\"Showing\" info2-text=\"entries\" info4-text=\"total entries)\">      \n        <table class=\"table mbr-editable-content\" cellspacing=\"0\" width=\"100%\" code-editable-id=\"47\"><thead><tr></tr></thead><tbody><tr><td><a href=\"#\"><span class=\"fa fa-comment-o mbr-iconfont mbr-iconfont-btn\"></span><h5>Designers</h5></a></td><td><a href=\"#\"><span class=\"fa fa-volume-up mbr-iconfont mbr-iconfont-btn\"></span><h5>Suppliers</h5></a></td></tr></tbody></table></div>\n</section>",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);\nTABLE {\n  text-align: center;\n     \n}\nTD {\n  font-size: 24px;\n    \n  font-family: 'Oxygen', sans-serif;\n}\nB {\n  font-size: 36px;\n}\na:hover {\n    color: red;\n    text-decoration:none; \n   \n}\ntd:hover {border: 1px solid gray;}\n",
+          "_customTemplate": true,
+          "_anchor": "extTable1-2v",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "_styles": {
+            ".card-number": {
+              "color": "@primaryColor"
+            },
+            ".mbr-iconfont-features4": {
+              "color": "undefined !important"
+            },
+            ".wraper": {
+              "border-color": "undefined !important"
+            },
+            "H3": {
+              "font-size": "60px",
+              "color": "#ffffff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            "H4": {
+              "color": "#000000",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "24px"
+            },
+            "I": {
+              "color": "#232323",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.6,
+            "numbersColor": "@primaryColor"
+          },
+          "title1": "13,072 &nbsp;documents",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "2,910 &nbsp;video",
+          "subtitle2": "One of Bootstrap 4s big points",
+          "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "title3": "1,032 &nbsp;news",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "211,921 &nbsp;pcs",
+          "subtitle4": "Mobirise gives you the freedom",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "number1": "Report",
+          "number2": "Live !",
+          "number3": "News",
+          "number4": "Product",
+          "media1": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/vda-1000x667.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/slider10-750x486.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/sfw-ss15-andy-and-debb-1000x667.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/1-630x438.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures12",
+          "_anchor": "extFeatures12-1y"
+        },
+        {
+          "_styles": {
+            ".card-number": {
+              "color": "@primaryColor"
+            },
+            ".mbr-iconfont-features4": {
+              "color": "undefined !important"
+            },
+            ".wraper": {
+              "border-color": "undefined !important"
+            },
+            "H3": {
+              "font-size": "60px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#000000",
+              "text-align": "left"
+            },
+            "H4": {
+              "color": "#000000",
+              "font-size": "20px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_params": {
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "columns": "4",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.6,
+            "numbersColor": "@primaryColor"
+          },
+          "title1": "3,013 events",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "title2": "392 comments",
+          "subtitle2": "One of Bootstrap 4s big points",
+          "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "title3": "425 posts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "title4": "Join global designers and suppliers",
+          "subtitle4": "Mobirise gives you the freedom",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "number1": "Service",
+          "number2": "Solution",
+          "number3": "Demand",
+          "number4": "Join Free",
+          "media1": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/fabrics-moisture099-399x272.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media2": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/fabrics-moisture-790x522.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media3": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/fabrics-moisture-500x333.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "media4": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/fabrics-moisture-381x254.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures12",
+          "_anchor": "extFeatures12-29"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
+          "_name": "social-buttons4",
+          "_customHTML": "<section class=\"mbr-section mbr-section-md-padding\" data-rv-view=\"2997\" style=\"background-color: rgb(0, 0, 0); padding-top: 0px; padding-bottom: 0px;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n              \n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size:36px;text-align: center; background-color:#000000; padding-top: 25px; padding-bottom: 5px;\" code-editable-id=\"55\"><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSc8QvzXoe5hGYvYhUM0UsOrURJ8XcpToInXDZ564OLiTuikKA/viewform\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Global Designers / Join Now</a></h3>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customCSS": ".mbr-section-title, .btn-social {\n  color: #fff;\n}\na:hover {\n    color: red;\n    text-decoration:none; }",
+          "_customTemplate": true,
+          "_anchor": "social-buttons4-40",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": []
+        },
+        {
+          "_params": {
+            "showBullets": false,
+            "fullWidth": false,
+            "spacing": "0",
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "filterBgColor": false,
+            "bgColor": "#000000",
+            "showText": false,
+            "filter": false,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/angus-1677x1895-800x903.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angus-1677x1895.jpg",
+                "caption": "tw-angus-chiang",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/15565-1200x1795-800x1196.jpg",
+                "image": "@PROJECT_PATH@/assets/images/15565-1200x1795.jpg",
+                "caption": "tw-jamie-wei-huang",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/images-235x215-235x215.jpg",
+                "image": "@PROJECT_PATH@/assets/images/images-235x215.jpg",
+                "caption": "tw-shawnyi",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/about-jason-mobile-320x488-320x488.jpg",
+                "image": "@PROJECT_PATH@/assets/images/about-jason-mobile-320x488.jpg",
+                "caption": "Type caption here",
+                "active": false,
+                "alt": ""
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/wjn0zaci-512x512-512x512.jpg",
+                "image": "@PROJECT_PATH@/assets/images/wjn0zaci-512x512.jpg",
+                "caption": "cn-daniel-wong",
+                "active": true,
+                "alt": ""
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3067944114-6j7tghxl-eca095eb9190ec9881-ec82aceca784-black-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3067944114-6j7tghxl-eca095eb9190ec9881-ec82aceca784-black-2000x3000.jpg",
+                "caption": "<span style=\"font-size: 0.9em; line-height: 1.5;\"><a href=\"http://shokay-in-azure.azurewebsites.net/kr-a.av/\" target=\"_blank\"><b>이광호 (Lee Kwang-Ho)&nbsp;</b></a></span><br>",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3543142170-eujtps05-heich-es-heich-ed959cec8381ed9881-2000x2497-800x998.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3543142170-eujtps05-heich-es-heich-ed959cec8381ed9881-2000x2497.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3543142170-anb6l9un-eb9494ec9e90ec9db4eb8488-ed9484eba19ced9584-ec82aceca784-ecb59cebb3b5ed98b8-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3543142170-anb6l9un-eb9494ec9e90ec9db4eb8488-ed9484eba19ced9584-ec82aceca784-ecb59cebb3b5ed98b8-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2049278744-aqyptr2g-eab5acec97b0eca3bc-ecb59ceca784ec9ab0-eb9494ec9e90ec9db4eb8488-2000x2499-800x999.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2049278744-aqyptr2g-eab5acec97b0eca3bc-ecb59ceca784ec9ab0-eb9494ec9e90ec9db4eb8488-2000x2499.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2049278744-fwhtety5-lie-sangbogn-eb9494ec9e90ec9db4eb8488-ed9484eba19ced9584-2000x2499-800x999.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2049278744-fwhtety5-lie-sangbogn-eb9494ec9e90ec9db4eb8488-ed9484eba19ced9584-2000x2499.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2049278744-czmse4te-2000x2827-800x1130.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2049278744-czmse4te-2000x2827.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3067944114-ghx87cfp-2014sfw-eb9494ec9e90ec9db4eb8488ed9484eba19ced9584ec82aceca784-ec9584eba5b4ecbc80-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3067944114-ghx87cfp-2014sfw-eb9494ec9e90ec9db4eb8488ed9484eba19ced9584ec82aceca784-ec9584eba5b4ecbc80-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3543142170-5pscpotu-eca1b0ebaa85eba180ed9484eba19ced9584ec82aceca784-2000x2339-800x935.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3543142170-5pscpotu-eca1b0ebaa85eba180ed9484eba19ced9584ec82aceca784-2000x2339.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3543142170-xn0r4tuk-kiok-ed9484eba19ced9584ec9db4ebafb8eca780-2000x1795-800x718.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3543142170-xn0r4tuk-kiok-ed9484eba19ced9584ec9db4ebafb8eca780-2000x1795.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3067944114-f8l3hknj-ebb095ec8ab9eab1b4-2000x2945-800x1178.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3067944114-f8l3hknj-ebb095ec8ab9eab1b4-2000x2945.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3543142170-0ex7qmef-eba5b4ed80b8-2000x3563-800x1425.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3543142170-0ex7qmef-eba5b4ed80b8-2000x3563.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3543142170-wrjly692-ebaaaced858cebb080eb9dbceb85b8-ec98a4ec849ced9dac28sylvia-oh29-2000x3055-800x1222.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3543142170-wrjly692-ebaaaced858cebb080eb9dbceb85b8-ec98a4ec849ced9dac28sylvia-oh29-2000x3055.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3660603871-6fk8vxep-the-centaur-yeranji0-2000x2500-800x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3660603871-6fk8vxep-the-centaur-yeranji0-2000x2500.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3543142170-h3zif49g-2015sfweb9494ec9e90ec9db4eb8488ec9e90eba38c-sumisumi-2000x1608-800x643.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3543142170-h3zif49g-2015sfweb9494ec9e90ec9db4eb8488ec9e90eba38c-sumisumi-2000x1608.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3660603871-c2gtzbql-post-december-sohyan-bhaak-2000x2537-800x1014.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3660603871-c2gtzbql-post-december-sohyan-bhaak-2000x2537.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3067944114-t9e3yvna-ec84a0ec839deb8b98-ed9484eba19ced9584ec82aceca78428eab3a0ed9994eca78829-2000x2545-800x1018.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3067944114-t9e3yvna-ec84a0ec839deb8b98-ed9484eba19ced9584ec82aceca78428eab3a0ed9994eca78829-2000x2545.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3543142170-dqlokb9s-eca095-2000x2242-800x896.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3543142170-dqlokb9s-eca095-2000x2242.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3543142170-hwe7xylj-eb9494ec9e90ec9db4eb8488-eab980ecb2a0ec9b85-ed9484eba19ced95841tif-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3543142170-hwe7xylj-eb9494ec9e90ec9db4eb8488-eab980ecb2a0ec9b85-ed9484eba19ced95841tif-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3543142170-boh9a3hs-yang-heedeuk-2000x1334-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3543142170-boh9a3hs-yang-heedeuk-2000x1334.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3543142170-yzs4fbtd-suuwu-park28ebb095ec8898ec9ab029-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3543142170-yzs4fbtd-suuwu-park28ebb095ec8898ec9ab029-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3543142170-nrwgyxjw-sono-drs-deresa-choi-ecb59ceb8db0eba088ec82ac-2000x2998-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3543142170-nrwgyxjw-sono-drs-deresa-choi-ecb59ceb8db0eba088ec82ac-2000x2998.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2049278744-1jxtrwhe-songzio-profile-photo-800x1066.png",
+                "image": "@PROJECT_PATH@/assets/images/2049278744-1jxtrwhe-songzio-profile-photo.gif",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2049278744-wcgdb7g8-eb9494ec9e90ec9db4eb8488ed9484eba19ced9584-2000x2499-800x999.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2049278744-wcgdb7g8-eb9494ec9e90ec9db4eb8488ed9484eba19ced9584-2000x2499.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2049278744-lrmitznb-2000x1625-800x650.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2049278744-lrmitznb-2000x1625.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3067944114-myrnextc-howandwhatebb095ebb391eab79ced9484eba19ced9584ec82aceca784-2000x1925-800x770.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3067944114-myrnextc-howandwhatebb095ebb391eab79ced9484eba19ced9584ec82aceca784-2000x1925.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3543142170-ykux4tel-imseonoc-profile5b15d-2000x2131-800x852.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3543142170-ykux4tel-imseonoc-profile5b15d-2000x2131.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3543142170-zzh18mdg-ec9ca0ed989ceca784-ed9484eba19ced9584ec9aa9-ec8388ec82aceca784-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3543142170-zzh18mdg-ec9ca0ed989ceca784-ed9484eba19ced9584ec9aa9-ec8388ec82aceca784-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3543142170-htltpku5-eb9494ec9e90ec9db4eb8488ed9484eba19ced9584-2000x1333-800x533.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3543142170-htltpku5-eb9494ec9e90ec9db4eb8488ed9484eba19ced9584-2000x1333.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3543142170-wu1mtyol-ec9ea5eab491ed9aa8-k-2000x3100-800x1240.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3543142170-wu1mtyol-ec9ea5eab491ed9aa8-k-2000x3100.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3543142170-ocgectph-kakaotalk-photo-2015-02-04-13-32-2000x1333-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/3543142170-ocgectph-kakaotalk-photo-2015-02-04-13-32-2000x1333.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3067944114-xtju2mrl-02bakangchi-portrait-2000x1332-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3067944114-xtju2mrl-02bakangchi-portrait-2000x1332.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3067944114-xsez8mqh-eb9494ec9e90ec9db4eb8488-ed998dec9d80eca3bc-ed9484eba19ced9584-ec82aceca784-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3067944114-xsez8mqh-eb9494ec9e90ec9db4eb8488-ed998dec9d80eca3bc-ed9484eba19ced9584-ec82aceca784-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3067944114-qz6us1dw-2000x2837-800x1134.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3067944114-qz6us1dw-2000x2837.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3067944114-e5dir84h-ed9484eba19ced9584-ec82aceca784-2000x2735-800x1094.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3067944114-e5dir84h-ed9484eba19ced9584-ec82aceca784-2000x2735.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2049278744-ougdxhq3-designer-profile-sujinn-kim-soulpot-2000x2499-800x999.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2049278744-ougdxhq3-designer-profile-sujinn-kim-soulpot-2000x2499.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3543142170-glx3lby4-ec84a0ec839deb8b98ec82aceca784-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3543142170-glx3lby4-ec84a0ec839deb8b98ec82aceca784-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2049278744-hqizywse-doii-eb9494ec9e90ec9db4eb8488ed9484eba19ced9584-ec82aceca784-2000x2499-800x999.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2049278744-hqizywse-doii-eb9494ec9e90ec9db4eb8488ed9484eba19ced9584-ec82aceca784-2000x2499.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3067944114-jqa5x1rs-ebb095ecb698ebacb4ec84a0ec839deb8b98-2000x2666-800x1066.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3067944114-jqa5x1rs-ebb095ecb698ebacb4ec84a0ec839deb8b98-2000x2666.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3543142170-gnqsbz3g-nohke-j-portrait-2000x2673-800x1069.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3543142170-gnqsbz3g-nohke-j-portrait-2000x2673.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3067944114-lm24a9oy-kimseoryong-portrait-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3067944114-lm24a9oy-kimseoryong-portrait-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3067944114-zg21rifb-eab980eb8f99ec889c-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3067944114-zg21rifb-eab980eb8f99ec889c-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3067944114-2doel3ph-eb9494ec9e90ec9db4eb8488-ed9484eba19ced9584-2000x2000-800x800.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3067944114-2doel3ph-eb9494ec9e90ec9db4eb8488-ed9484eba19ced9584-2000x2000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2040980137-n0mjeagf-eab3a0ed839cec9aa9-2000x3001-800x1200.png",
+                "image": "@PROJECT_PATH@/assets/images/2040980137-n0mjeagf-eab3a0ed839cec9aa9-2000x3001.png",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2049278744-sv16qvz8-yujin-song-profile-2000x2495-800x998.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2049278744-sv16qvz8-yujin-song-profile-2000x2495.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3543142170-l75zs8qe-ed9484eba19ced9584ec82aceca784-2000x1889-800x755.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3543142170-l75zs8qe-ed9484eba19ced9584ec82aceca784-2000x1889.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3067944114-t6kens7b-eca3bced9aa8ec889c-ed9484eba19ced9584-ec82aceca784-2000x1332-800x532.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3067944114-t6kens7b-eca3bced9aa8ec889c-ed9484eba19ced9584-ec82aceca784-2000x1332.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2049278744-yvomu5me-choon-hee-gee-2000x2499-800x999.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2049278744-yvomu5me-choon-hee-gee-2000x2499.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3543142170-cgrotwmc-jarret-lee-ji-youn-2000x2999-800x1199.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3543142170-cgrotwmc-jarret-lee-ji-youn-2000x2999.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3067944114-elo6nitu-eab384ed959ced9dac-eb9494ec9e90ec9db4eb8488-ed9484eba19ced9584-ec9db4ebafb8eca780-2000x3007-800x1202.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3067944114-elo6nitu-eab384ed959ced9dac-eb9494ec9e90ec9db4eb8488-ed9484eba19ced9584-ec9db4ebafb8eca780-2000x3007.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2049278744-xbaihdnd-2000x1941-800x776.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2049278744-xbaihdnd-2000x1941.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2040934965-tpgbfoni-cres-2000x2702-800x1080.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2040934965-tpgbfoni-cres-2000x2702.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3067944114-ompbxdi7-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3067944114-ompbxdi7-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3067944114-gmxfjhqq-ec9ea5ed9895ecb2a0eb9494ec9e90ec9db4eb8488-ed9484eba19ced9584-2000x2545-800x1018.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3067944114-gmxfjhqq-ec9ea5ed9895ecb2a0eb9494ec9e90ec9db4eb8488-ed9484eba19ced9584-2000x2545.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/3067944114-xr1i4qas-eab68cebacb8ec8898-2000x3000-800x1200.jpg",
+                "image": "@PROJECT_PATH@/assets/images/3067944114-xr1i4qas-eab68cebacb8ec8898-2000x3000.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/87mm-seoul-2000x2499-800x999.jpg",
+                "image": "@PROJECT_PATH@/assets/images/87mm-seoul-2000x2499.jpg",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_styles": {
+            ".mbr-gallery-item > div > span SPAN": {
+              "font-size": "16px"
+            }
+          },
+          "_customCSS": "",
+          "_anchor": "gallery1-2n"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-3z",
+          "_customHTML": "<section class=\"mbr-section mbr-section-md-padding\" data-rv-view=\"2997\" style=\"background-color: rgb(0, 0, 0); padding-top: 0px; padding-bottom: 0px;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n              \n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size:36px;text-align: center; background-color:#000000; padding-top: 25px; padding-bottom: 5px;\" code-editable-id=\"57\"><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSc8QvzXoe5hGYvYhUM0UsOrURJ8XcpToInXDZ564OLiTuikKA/viewform\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Global Designers / Join Now</a></h3>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-title, .btn-social {\n  color: #fff;\n}\na:hover {\n    color: red;\n    text-decoration:none; }",
+          "_customTemplate": true
+        },
+        {
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "showBullets": true,
+            "bgColor": "#fff",
+            "timeout": "7",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/london-fashion-week-1220x686.png",
+                "active": true,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "FULL SCREEN SLIDER",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"#\" data-toolbar=\"-mbrBtnMove\">LONDON FW 2017</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slider02-1600x800.png",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "VIDEO SLIDE",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Slide with youtube video background and color overlay. Title and text are aligned to the left.",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"#\" data-toolbar=\"-mbrBtnMove\">PARIS FW 2017</a>",
+                "overlayOpacity": "0.3"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slider05-633x356.png",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDE",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"#\" data-toolbar=\"-mbrBtnMove\">NEW YORK FW 2017</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slider06-1500x1000.png",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDE",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"#\" data-toolbar=\"-mbrBtnMove\">BERLIN FW 2017</a>",
+                "overlayOpacity": "0.2"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/ermanno-scervino-men-spring-summer-2015-milan-fashion-week-680x450.png",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDE",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"#\" data-toolbar=\"-mbrBtnMove\">MILAN FW 2017</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slider07-951x445.png",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDE",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"#\" data-toolbar=\"-mbrBtnMove\">BEIJING FW 2018</a>",
+                "overlayOpacity": "0.1"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/slider04-1270x724.png",
+                "active": false,
+                "showButtons": true,
+                "showText": false,
+                "showTitle": false,
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "title": "IMAGE SLIDE",
+                "overlay": true,
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"#\" data-toolbar=\"-mbrBtnMove\">DUBAI FW 2017</a>",
+                "overlayOpacity": "0.1"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-1x"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showContacts": true,
+            "showSubtitle": false,
+            "showText": true,
+            "showForm": true,
+            "inverse": false,
+            "googleMap": {
+              "address": "Address:   4th.,fl, No.: 130, 2nd sec., Zhongxiao East Road. Taipei, Taiwan.",
+              "placeId": "ChIJAdEzhHypQjQRzKVyf-By3t4",
+              "state": "ok",
+              "stateDetails": ""
+            },
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extForm1_bg.jpg",
+            "parallax": false,
+            "bgColorRadio": true,
+            "bgColor": "#fafafa",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.1
+          },
+          "title": "DROP A MESSAGE",
+          "title1": "To : Service Center",
+          "title2": "Visit our office",
+          "subTitle1": "Ready for offers & cooperation",
+          "subTitle2": "Glad to meet new people",
+          "text1": "Address: &nbsp; 4th.,fl, No.: 130, 2nd sec., Zhongxiao East Road. Taipei, Taiwan.<br>Phone: +886 2 23435688 # 426<br><br>",
+          "text2": "1234 Street Name </br> City AA 99999",
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SEND MESSAGE</a>",
+          "form": {
+            "action": "simonchang1108@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone*"
+              },
+              "message": {
+                "visible": true,
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extForm4",
+          "_anchor": "extForm4-12",
+          "_styles": {
+            "H2": {
+              "font-size": "36px"
+            },
+            ".intro-box h4": {
+              "font-size": "16px"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/tb1fvfqqpxxxxb.xvxxxxxxxxxx-1530-1530x1164.png",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": "0.9"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/main-265x211.png",
+              "class": "card-img-top",
+              "width": 265,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false,
+              "active": true
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
+              "linkInNewWindow": false,
+              "name": "touch",
+              "family": "MobiriseIcons",
+              "link": "index.html",
+              "size": "90",
+              "newWindow": false,
+              "color": "#ffffff"
+            }
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "phone",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "map-pin",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-company-contacts3",
+              "name": "envelope",
+              "size": 0,
+              "family": "et-line"
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-sm btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>Contact us</a>",
+          "title1": "Categories",
+          "text1": "Our goal is to combine the use of new functional yarns by global fashion designers and fiber manufacturers to help entrepreneurs set up brands, build a global market and create more comfortable wear.",
+          "text2": "+886-2-23435688",
+          "text3": "4th.,fl, No.: 130, 2nd sec., Zhongxiao East Road. Taipei, Taiwan",
+          "text4": "sc101@digital-act.com",
+          "text5": "<li>Stockist</li><li>Press</li><li>Corporation</li><li>Join Designers</li><li>Join Suppliers</li>",
+          "text6": "<strong>Contacts</strong><br>Email: sc101@digital-act.com<br>Phone:&nbsp; +886-2-23435688&nbsp;<br>Fax: +886-2-23435666<br><br><br><strong>Address</strong><br>4th.,fl, No.: 130, 2nd sec., Zhongxiao East Road. Taipei, Taiwan<br>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "simonchang1108@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": false,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": false,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts3",
+          "_anchor": "contacts3-2o",
+          "_styles": {
+            ".btn": {
+              "font-family": "'Lato', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
+            },
+            "LI": {
+              "color": "#ffffff",
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            "P": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            },
+            ".list-group-text": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
+            }
+          }
+        },
+        {
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "mobile sytle 2017",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-28"
+        }
+      ]
+    }
+  }
+}

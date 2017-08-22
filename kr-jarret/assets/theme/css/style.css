@@ -1,6 +1,6 @@
 /*!
- * Default theme v2 (https://.com/)
- * Copyright 2016 
+ * Default theme v2 (https://mobirise.com/)
+ * Copyright 2016 Mobirise
  */
 .container {
   position: relative; }
@@ -629,8 +629,8 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 
 .mbr-section {
   position: relative;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 120px;
+  padding-bottom: 120px;
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-size: cover; }
@@ -641,7 +641,6 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   padding-bottom: 0;
   padding-top: 0;
   table-layout: fixed;
-   
   width: 100%; }
   .mbr-section-full > .mbr-table-cell {
     width: 100%; }
@@ -877,44 +876,35 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 
 /*-------
 
-   2e2e2e
+   Gallery
 
 -------*/
-.mbr-2e2e2e .mbr-2e2e2e-item {
+.mbr-gallery .mbr-gallery-item {
   position: relative;
   display: inline-block;
-  width: 14.28%; }
-  @media (max-width: 1920px) {
-    .mbr-2e2e2e .mbr-2e2e2e-item {
-      width: 10%; } }
-  @media (max-width: 1366px) {
-    .mbr-2e2e2e .mbr-2e2e2e-item {
-      width: 11.11%; } }
-  @media (max-width: 980px) {
-    .mbr-2e2e2e .mbr-2e2e2e-item {
-      width: 12.5%; } }
+  width: 25%; }
   @media (max-width: 768px) {
-    .mbr-2e2e2e .mbr-2e2e2e-item {
-      width: 20%; } }
+    .mbr-gallery .mbr-gallery-item {
+      width: 50%; } }
   @media (max-width: 400px) {
-    .mbr-2e2e2e .mbr-2e2e2e-item {
-      width: 33.33%; } }
+    .mbr-gallery .mbr-gallery-item {
+      width: 100%; } }
 
-.mbr-2e2e2e .mbr-2e2e2e-item img {
+.mbr-gallery .mbr-gallery-item img {
   width: 100%;
   opacity: 1;
   -webkit-transition: .2s opacity ease-in-out;
   transition: .2s opacity ease-in-out; }
 
-.mbr-2e2e2e .mbr-2e2e2e-item > a:hover img {
+.mbr-gallery .mbr-gallery-item > a:hover img {
   opacity: 1; }
 
-.mbr-2e2e2e .mbr-2e2e2e-item > a {
+.mbr-gallery .mbr-gallery-item > a {
   background: #fff;
   display: block;
   outline: none;
   position: relative; }
-  .mbr-2e2e2e .mbr-2e2e2e-item > a::before {
+  .mbr-gallery .mbr-gallery-item > a::before {
     content: "";
     position: absolute;
     left: 0;
@@ -930,7 +920,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     -webkit-transition: .2s opacity ease-in-out;
     transition: .2s opacity ease-in-out; }
 
-.mbr-2e2e2e .mbr-2e2e2e-item .icon {
+.mbr-gallery .mbr-gallery-item .icon {
   -webkit-transform: translateX(-50%) translateY(-50%);
   -webkit-transition: .2s opacity ease-in-out;
   color: #000;
@@ -943,7 +933,7 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   transform: translateX(-50%) translateY(-50%);
   transition: .2s opacity ease-in-out;
   width: 69px; }
-  .mbr-2e2e2e .mbr-2e2e2e-item .icon::before, .mbr-2e2e2e .mbr-2e2e2e-item .icon::after {
+  .mbr-gallery .mbr-gallery-item .icon::before, .mbr-gallery .mbr-gallery-item .icon::after {
     content: "";
     display: block;
     position: absolute;
@@ -951,19 +941,19 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     width: 1px;
     margin-left: 34.5px;
     background-color: #fff; }
-  .mbr-2e2e2e .mbr-2e2e2e-item .icon::after {
+  .mbr-gallery .mbr-gallery-item .icon::after {
     width: 69px;
     height: 1px;
     margin-left: 0;
     margin-top: 34.5px; }
 
-.mbr-2e2e2e .mbr-2e2e2e-item > a:hover .icon {
+.mbr-gallery .mbr-gallery-item > a:hover .icon {
   opacity: 1; }
 
-.mbr-2e2e2e .mbr-2e2e2e-item > a:hover::before {
+.mbr-gallery .mbr-gallery-item > a:hover::before {
   opacity: 0.9; }
 
-.mbr-2e2e2e-title {
+.mbr-gallery-title {
   font-family: Montserrat;
   font-size: 0.9em;
   position: absolute;
@@ -980,41 +970,41 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   -webkit-transition: .2s background ease-in-out;
   transition: .2s background ease-in-out; }
 
-.mbr-2e2e2e .mbr-2e2e2e-item > a:hover .mbr-2e2e2e-title {
+.mbr-gallery .mbr-gallery-item > a:hover .mbr-gallery-title {
   background: transparent !important; }
 
 /* remove spacing */
-.mbr-2e2e2e .mbr-2e2e2e-row.no-gutter {
+.mbr-gallery .mbr-gallery-row.no-gutter {
   margin: 0; }
 
-.mbr-2e2e2e .mbr-2e2e2e-row.no-gutter .mbr-2e2e2e-item {
+.mbr-gallery .mbr-gallery-row.no-gutter .mbr-gallery-item {
   padding: 0; }
 
 /* container */
-.mbr-2e2e2e .container.mbr-2e2e2e-layout-default {
+.mbr-gallery .container.mbr-gallery-layout-default {
   padding: 93px 0; }
 
 /* fix horizontal scrollbar */
-.mbr-2e2e2e .mbr-2e2e2e-layout-default,
-.mbr-2e2e2e .mbr-2e2e2e-layout-article {
+.mbr-gallery .mbr-gallery-layout-default,
+.mbr-gallery .mbr-gallery-layout-article {
   overflow: hidden; }
 
 /* lightbox */
-.mbr-2e2e2e .modal {
+.mbr-gallery .modal {
   position: fixed;
   overflow: hidden;
   padding-right: 0 !important; }
 
-.mbr-2e2e2e .modal-content {
+.mbr-gallery .modal-content {
   border-radius: 0; }
 
-.mbr-2e2e2e .modal-body {
+.mbr-gallery .modal-body {
   padding: 0; }
 
-.mbr-2e2e2e .modal-body img {
+.mbr-gallery .modal-body img {
   width: 100%; }
 
-.mbr-2e2e2e .modal .close {
+.mbr-gallery .modal .close {
   position: fixed;
   background: #1b1b1b;
   opacity: 0.5;
@@ -1036,12 +1026,12 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   -o-transition: opacity .3s ease;
   transition: opacity .3s ease; }
 
-.mbr-2e2e2e .modal .close:hover {
+.mbr-gallery .modal .close:hover {
   opacity: 1;
   background: #000;
   color: #fff; }
 
-.mbr-2e2e2e .modal.in .modal-dialog {
+.mbr-gallery .modal.in .modal-dialog {
   margin: 0 auto; }
 
 /* modal back color opacity */
@@ -1050,19 +1040,19 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   filter: alpha(opacity=80); }
 
 @media (max-width: 768px) {
-  .mbr-2e2e2e .carousel-indicators,
-  .mbr-2e2e2e .carousel-control,
-  .mbr-2e2e2e .modal .close {
+  .mbr-gallery .carousel-indicators,
+  .mbr-gallery .carousel-control,
+  .mbr-gallery .modal .close {
     position: fixed; } }
 /* fix fade in effect */
-.mbr-2e2e2e .modal.fade .modal-dialog {
+.mbr-gallery .modal.fade .modal-dialog {
   -webkit-transition: margin-top 0.3s ease-out;
   -moz-transition: margin-top 0.3s ease-out;
   -o-transition: margin-top 0.3s ease-out;
   transition: margin-top 0.3s ease-out; }
 
-.mbr-2e2e2e .modal.in .modal-dialog,
-.mbr-2e2e2e .modal.fade .modal-dialog {
+.mbr-gallery .modal.in .modal-dialog,
+.mbr-gallery .modal.fade .modal-dialog {
   -webkit-transform: none;
   -ms-transform: none;
   -o-transform: none;
@@ -1097,16 +1087,16 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   -o-transition: all 0.2s ease-in-out 0s;
   transition: all 0.2s ease-in-out 0s; }
 
-.mbr-2e2e2e .mbr-slider .carousel-control {
+.mbr-gallery .mbr-slider .carousel-control {
   position: fixed; }
   @media (max-width: 991px) {
-    .mbr-2e2e2e .mbr-slider .carousel-control {
+    .mbr-gallery .mbr-slider .carousel-control {
       bottom: 2.5rem;
       margin-top: 0;
       top: auto;
       z-index: 17; } }
 
-.mbr-2e2e2e .mbr-slider .carousel-inner > .active {
+.mbr-gallery .mbr-slider .carousel-inner > .active {
   display: block; }
 
 .mbr-slider .carousel-control.left {
@@ -1136,11 +1126,11 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     .mbr-slider .carousel-indicators {
       display: none; } }
 
-.mbr-2e2e2e .mbr-slider .carousel-indicators {
+.mbr-gallery .mbr-slider .carousel-indicators {
   position: fixed;
   margin-bottom: 2.5rem !important; }
   @media (max-width: 991px) {
-    .mbr-2e2e2e .mbr-slider .carousel-indicators {
+    .mbr-gallery .mbr-slider .carousel-indicators {
       margin-bottom: 3.625rem !important;
       padding-left: 2.5rem;
       padding-right: 2.5rem; } }
@@ -1221,8 +1211,8 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
       padding-top: 60px;
       padding-bottom: 60px; } }
 .mbr-cards .striped .card {
-  padding-left: 0%;
-  padding-right: 0%; }
+  padding-left: 10%;
+  padding-right: 10%; }
 .mbr-cards .striped .mbr-cards-col:nth-child(2n+1) {
   background: #2e2e2e;
   color: #fff; }
@@ -1239,11 +1229,6 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     .mbr-cards .card {
       padding-left: 0;
       padding-right: 0; } }
-@media (min-width: 400px) {
-  .mbr-cards-row {
-    display: table;
-    table-layout: fixed;
-    width: 50%; }
 @media (min-width: 992px) {
   .mbr-cards-row {
     display: table;

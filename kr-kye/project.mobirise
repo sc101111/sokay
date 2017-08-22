@@ -144,20 +144,20 @@
               "color": "#fff"
             },
             "DIV": {
-              "font-size": "25px",
-              "color": "#000000"
+              "font-size": "36px",
+              "color": "#ffffff"
             }
           },
           "_params": {
             "showTitle": true,
             "showText": false,
             "showButtons": false,
-            "inverse": true,
+            "inverse": false,
             "imageSize": "32",
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/miss-gee-collection-seoul-fashion-week-itscamilleco.com28-1600x1067.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/-bkk0618-900x598.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -173,7 +173,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/566cc29fcad359c391ec4914bc08eb12-709x886.jpg",
+              "src": "@PROJECT_PATH@/assets/images/-480x720.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -191,7 +191,7 @@
               "size": 250
             }
           },
-          "title": "<div>\n</div><div>Miss Gee Collection</div><div>지춘희(Choon Hee Gee) , Korea, Asia</div>",
+          "title": "<div>\n</div><div>KYE</div><div>계한희 , Korea, Asia</div>",
           "text": "",
           "_tags": [
             "Theme"
@@ -207,7 +207,7 @@
             "showSubtitle": true,
             "showDates": true,
             "iconsColor": "#000000",
-            "blocks": "2",
+            "blocks": "3",
             "paddingTop": "0",
             "paddingBottom": "0",
             "parallax": false,
@@ -224,7 +224,7 @@
             "overlayOpacity": "0.2"
           },
           "mainTitle": "TimeLine",
-          "bottomTitle": "Concept:&nbsp;<br>Women's clothes are the most beautiful when they are feminine. \"Based on the philosophy of fashion, it expresses the refined sensibility of sophisticated sophistication.",
+          "bottomTitle": "Concept:&nbsp;<br>KYE is a brand that strengthens fashion wit, humor and fun",
           "mainSubtitle": "",
           "title1": "Part I",
           "title2": "Part II",
@@ -250,9 +250,9 @@
           "date10": "10 October 2016",
           "date11": "11 November 2016",
           "date12": "12 December 2016",
-          "text1": "-2000–현재 서울패션위크\n<br>2012  Gee Sports 런칭\n<br>2007 KBS 백남준 추모 패션 퍼포먼스 발표\n<br>2001 섬유의 날 국무총리 표창 수여\n<br>2000  ELLE 매거진 패션인 대상수상\n<br>1991-1999 S.F.A.A. FASHION SHOW\n<br>1998  NEW YORK FASHION SHOW (NEW YORK)<br><br>",
-          "text2": "1993  대종상 영화제 의상상 수상 (그대 안의 블루)\n<br>1989  청담동 본사 OPEN\n<br>1988  OLYMPIC NIGHT SHOW (NEW YORK)\n<br>1987   ‘88 ART TO WEAR 전시회 (국립 현대미술관)\n<br>       COTTON SHOW (대한 방직협회)\n<br>1984  GEE CHOON-HEE FASHION SHOW (서울하얏트호텔)\n<br>1980  GEE CHOON-HEE FASHION SHOW (서울조선호텔)\n<br>1979  미스지콜렉션 Miss Gee Collection 런칭",
-          "text3": "- 2010 SELECTED 2010 SEOUL 10 DESIGNERS BY SEOUL METROPOLITAN GOVERNMENT \n<br>- 2009~2010 GENERATION NEXT(SEOUL FAHION WEEK) : DAILY PROJECT, SEOUL \n<br>- 2007 F/W COLLECTION SHOW : DAILY PROJECT, SEOUL \n<br>- 2007 LAUNCHING OF 'PAUL &amp; ALICE‘&nbsp;",
+          "text1": "2011. 6~ \n<br>카이 (KYE)디렉터\n<br>카이 브랜드 설립\n<br>2010. 9- 2011. 4\n<br>센트럴세인트마틴 예술 대학원 -패션디자인 남성복 석사 최연소 졸업\n<br>2006.9- 2010.5\n<br>센트럴 세인트마틴 예술 대학교-패션디자인 남성복 학사 최연소 입학\n<br>",
+          "text2": "2007\n<br>HOUSE OF GOD-디자인 어시스턴트\n<br>디렉터 Adam Entwistle의 어시스턴트로 근무\n<br>2006\n<br>HORACE-디자인 인턴\n<br>디자인 컨셉 수립 과정 참여/디렉터 보조업무",
+          "text3": "The KYE brand is derived from the name of designer Han Hye, and made its debut in London Fashion Week in February 2011.\n<br>KYE is a brand that strengthens fashion wit, humor and fun rather than seeking chic fashion that is fashion-conscious, and its main target audience is a customer who can afford to enjoy fashion and is aiming at foreign and domestic customers .\n<br>Therefore, KYE's competitiveness is a combination of contemporary yet funky style and unique styling that can only be shown by designer Han Hee, who has not tried hard as a domestic designer.\n<br>In particular, his work has earned a reputation for excellence in unleashing artistic motives into commercial products. Kai's Director Han Hye is a young graduate student and graduate student at Central Saint Martin University in London. She is involved in a variety of fashion fields including stylist, non-directed stylist, broadcast panel, and collaboration with overseas brands.",
           "text4": "• 2010~         : 후즈넥스트, 코트리, 트라노이, 터치 전시회 참가/참가중\n<br>• 2010          : 제1회 New York Concept Korea 참가\n<br>• 2010          : Seoul fashion week 헌정디자이너선정 수상\n<br>• 2009 ~2011    : 대한민국 패션품질 대상 수상&nbsp;",
           "text5": "• 2014          : 제9회 아시아 모델 어워즈 국제문화교류상 수상\n<br>• 2012          : 제5회 코리아 패션대상 대통령상 수상\n<br>• 2011,2012     : 세계패션그룹 (FGI) 회장&nbsp;",
           "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam erat libero, bibendum in libero tempor, luctus volutpat ligula. Integer fringilla porttitor pretium. Nam erat felis, iaculis id justo ut, ullamcorper feugiat elit. Proin vel lectus auctor, porttitor ligula vitae, convallis leo. In eget massa elit.",
@@ -399,7 +399,7 @@
               "text-align": "left"
             },
             ".mbr-section-title": {
-              "text-align": "left",
+              "text-align": "center",
               "font-size": "14px",
               "font-family": "'Oswald', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
@@ -427,8 +427,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-14-9-o-1be2pvnh7110210tr5q81nden8v27-664x1000-664x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/collection-14-9-o-1be2pvnh7110210tr5q81nden8v27-664x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2049734799-ywk8ti3n-657be58fce8983996d1baeb5e8639235b1698d4e-542x814-542x814.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2049734799-ywk8ti3n-657be58fce8983996d1baeb5e8639235b1698d4e-542x814.jpg",
                 "caption": "",
                 "active": false,
                 "alt": ""
@@ -438,8 +438,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-14-9-o-1be2pvnh7124h1ouprplikrcjs2b-664x1000-664x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/collection-14-9-o-1be2pvnh7124h1ouprplikrcjs2b-664x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2049734799-xqzjd4de-639746f3bb65149b0c9019b60e529779955dab8f-542x814-542x814.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2049734799-xqzjd4de-639746f3bb65149b0c9019b60e529779955dab8f-542x814.jpg",
                 "caption": "",
                 "active": false,
                 "alt": ""
@@ -449,8 +449,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-14-9-o-1be2pvnh792j1dku1fndelc12942f-664x1000-664x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/collection-14-9-o-1be2pvnh792j1dku1fndelc12942f-664x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2049734799-xfpz9x5h-b9a8a29158ef97e53fe032912b4c7c88811ce973-542x814-542x814.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2049734799-xfpz9x5h-b9a8a29158ef97e53fe032912b4c7c88811ce973-542x814.jpg",
                 "caption": "",
                 "active": false,
                 "alt": ""
@@ -460,8 +460,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-14-9-o-1be2pvnh714ebgqdo2r1q0kf3v29-664x1000-664x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/collection-14-9-o-1be2pvnh714ebgqdo2r1q0kf3v29-664x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2049734799-puh5zuvf-a50f73a22e4ab76b32f6bc1efcb763aeeccdf7ef-542x814-542x814.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2049734799-puh5zuvf-a50f73a22e4ab76b32f6bc1efcb763aeeccdf7ef-542x814.jpg",
                 "caption": "Type caption here",
                 "active": false,
                 "alt": ""
@@ -471,8 +471,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-14-9-o-1be2pvnh76dr5mn1ndlk0k19h42d-664x1000-664x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/collection-14-9-o-1be2pvnh76dr5mn1ndlk0k19h42d-664x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2049734799-ng2lctiz-216e3d5ab0d4954b9c2f9a481ac9c03d9387426c-542x814-542x814.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2049734799-ng2lctiz-216e3d5ab0d4954b9c2f9a481ac9c03d9387426c-542x814.jpg",
                 "caption": "",
                 "active": false,
                 "alt": ""
@@ -482,8 +482,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-14-9-o-1be2pvnh72ddcl0tta1ms515p42c-664x1000-664x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/collection-14-9-o-1be2pvnh72ddcl0tta1ms515p42c-664x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2049734799-htg2vflw-a7cfa4e6465c1c6cdbe1daf84e3186c773655d56-542x814-542x814.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2049734799-htg2vflw-a7cfa4e6465c1c6cdbe1daf84e3186c773655d56-542x814.jpg",
                 "caption": "",
                 "active": false,
                 "alt": ""
@@ -493,8 +493,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-14-9-o-1be2pvnh71scmemi15jb5ob1hl32e-664x1000-664x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/collection-14-9-o-1be2pvnh71scmemi15jb5ob1hl32e-664x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2049734799-blsrxsza-9fa76cfce93064ec986516e87e4ba98b42a32f00-542x814-542x814.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2049734799-blsrxsza-9fa76cfce93064ec986516e87e4ba98b42a32f00-542x814.jpg",
                 "caption": "",
                 "active": false,
                 "alt": ""
@@ -504,8 +504,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-14-9-o-1be2pvnh71rof16gh3ga1rri49k2a-664x1000-664x1000.jpg",
-                "image": "@PROJECT_PATH@/assets/images/collection-14-9-o-1be2pvnh71rof16gh3ga1rri49k2a-664x1000.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/2049734799-2nrms5hp-cf50fea7c9202d88b399b24b4034c3aabb1dca4a-542x814-542x814.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2049734799-2nrms5hp-cf50fea7c9202d88b399b24b4034c3aabb1dca4a-542x814.jpg",
                 "caption": "",
                 "active": true,
                 "alt": ""
@@ -560,8 +560,8 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/OqsXndQ5eI4?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/OqsXndQ5eI4",
+              "url": "https://www.youtube.com/embed/xNbOjIwMvLk?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/xNbOjIwMvLk",
               "width": 1280,
               "height": 720
             },
@@ -569,7 +569,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0"
           },
-          "title": "<span style=\"font-size: 30px;\">Miss Gee Collection</span><br><div>지춘희 , Korea, Asia</div>",
+          "title": "<span style=\"font-size: 30px;\">KYE</span><br><div>계한희 , Korea, Asia</div>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Art</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Product</a>"
         },
@@ -582,8 +582,8 @@
             "showForm": true,
             "inverse": false,
             "googleMap": {
-              "address": "울특별시 강남구 압구정로60길 12",
-              "placeId": "ChIJ56rtRHikfDURgNaCHHR0Ask",
+              "address": " 서울시 강남구 신사동 557-25번지 끌레르빌 201호",
+              "placeId": "ChIJe1JOPIijfDURTq0vz2sdGhY",
               "state": "ok",
               "stateDetails": ""
             },
@@ -601,15 +601,15 @@
             "overlayOpacity": 0.1
           },
           "title": "DROP A MESSAGE",
-          "title1": "To : 지춘희",
+          "title1": "To : 계한희",
           "title2": "Visit our office",
           "subTitle1": "Ready for offers & cooperation",
           "subTitle2": "Glad to meet new people",
-          "text1": "Address: &nbsp;울특별시 강남구 압구정로60길 12&nbsp;(우)135-954\t<br>Phone:&nbsp;02.548.9026<br>Fax:&nbsp;02.545.3043<br><br>",
+          "text1": "Address: &nbsp; 서울시 강남구 신사동 557-25번지 끌레르빌 201호<br>Phone:&nbsp;070-7523-2870<br><br><br>",
           "text2": "1234 Street Name </br> City AA 99999",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND MESSAGE</a>",
           "form": {
-            "action": "gee.pr@missgee.com",
+            "action": "kyekyekye@gmail.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
