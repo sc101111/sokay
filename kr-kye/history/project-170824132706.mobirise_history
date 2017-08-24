@@ -21,8 +21,7 @@
         "isRtl": false
       },
       "additionalSetColors": [
-        "#2e2e2e",
-        "#04a914"
+        "#2e2e2e"
       ]
     },
     "versionFirst": "3.12.1",
@@ -35,7 +34,7 @@
       "email": "simonchang1108@gmail.com"
     },
     "publishType": "local",
-    "publishPath": "file:///D:/wamp/www/korea/kr-andydebb"
+    "publishPath": "file:///D:/wamp/www/korea/kr-bigpark"
   },
   "pages": {
     "index.html": {
@@ -147,7 +146,7 @@
               "color": "#fff"
             },
             "DIV": {
-              "font-size": "30px",
+              "font-size": "36px",
               "color": "#ffffff"
             }
           },
@@ -156,13 +155,13 @@
             "showText": false,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "31",
+            "imageSize": "42",
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/17596240_1134359226674627_5349301996740411392_n-1080x1080.jpg",
             "parallax": true,
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -176,7 +175,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/20130829101719-400x600.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2012032108434538495-500x333.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -194,7 +193,7 @@
               "size": 250
             }
           },
-          "title": "<div>\n</div><div>ANDY &amp; DEBB</div><div>김석원 / 윤원정 , Korea, Asia</div>",
+          "title": "<div>\n</div><div>BIG PARK</div><div>박윤수 , Korea, Asia</div>",
           "text": "",
           "_tags": [
             "Theme"
@@ -209,14 +208,14 @@
             "showTitle": true,
             "showSubtitle": true,
             "showDates": true,
-            "iconsColor": "#f3c649",
-            "blocks": "2",
+            "iconsColor": "#41a85f",
+            "blocks": "4",
             "paddingTop": "0",
             "paddingBottom": "0",
             "parallax": false,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#efefef",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/white-flower-pattern-background_1236-338x338.jpg",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -227,7 +226,7 @@
             "overlayOpacity": "0.2"
           },
           "mainTitle": "TimeLine",
-          "bottomTitle": "Concept:&nbsp;<div>Romantic Minimalism \n</div><div>- Romantic : yeoseongjeog, hwalyeoham, Elegant, Vivid &amp; Rich colors \n</div><div>- Minimal : jungseongjeog, gujojeog, Simple, Chic, Mono-tone\n</div><div>- Romantic Minimalism : wiui du gaji gaenyeom-eul jeogjeolhi johwasikin ANDY &amp; DEBBman-ui imiji\n</div><div>Romantic Minimalism\n</div><div>- Romantic: feminine, glamorous, Elegant, Vivid &amp; Rich colors\n</div><div>- Minimal: Neutral, Structural, Simple, Chic, Mono-tone\n</div><div>- Romantic Minimalism: An image of ANDY &amp; DEBB that harmonizes the two concepts properly</div>",
+          "bottomTitle": "Concept: UPSCALE CASUALWEAR BIG PARK to pursue an adventurous lifestyle. Based on a variety of culture and travel based on storytelling, BIG PARK will showcase its original WOW drop collection and dream of \"THE BIG LIFE &amp; SPACE\" through exciting work with creators in various fields of contemporary life.",
           "mainSubtitle": "",
           "title1": "Part I",
           "title2": "Part II",
@@ -253,8 +252,8 @@
           "date10": "10 October 2016",
           "date11": "11 November 2016",
           "date12": "12 December 2016",
-          "text1": "1 2004-2016 : Seoul Fashion Week\n<br>2. 2008-2010 : Newyork Fashion Week\n<br>3. 2010 &nbsp; &nbsp; &nbsp;: concept korea”fashion collective 2010”(newyork)\n<br>4. 2010 &nbsp; &nbsp; &nbsp;: 서울패션위크 10주년 ‘10인의 헌정 디자이너’선정\n<br>5. 2009 &nbsp; &nbsp; &nbsp;: 제2회 코리아패션대상 ‘지식경제부장관 표창’\n<br>6. 2004 &nbsp; &nbsp; &nbsp;: 제8회 서울패션인상 올해의 신인 디자이너상 수상&nbsp;",
-          "text2": "4. 2010      : 서울패션위크 10주년 ‘10인의 헌정 디자이너’선정 \n<br>5. 2009      : 제2회 코리아패션대상 ‘지식경제부장관 표창’ \n<br>6. 2004      : 제8회 서울패션인상 올해의 신인 디자이너상 수상&nbsp;",
+          "text1": "2010-present Seoul Fashion Week Collection\n<br>2017 Face of Asia award of contribution in international cultural exchange by minister of cui\n<br>fashion show for face of asia\n<br>\n<br>2015\n<br>15SS 1st POP-UP Store Project, Hyundai Department Store\n<br>Daegu Textile Complex DTC Planning Exhibition\n<br>Selected as Korea's leading brand by Global Fashion Capitals, Museum at FIT New York\n<br>New York Fashion Week 2015 FW Show, Beautique NY, U.S.A\n<br>\n<br>\n<br>2014\n<br>New York Fashion Week 2015 SS, EDIT Trade Show New York, U.S.A\n<br>New York Fashion Week 2015 SS Presentation Show, Mondrian Soho Rooftop, NY\n<br>New York Fashion Week 2014 FW Concept Korea, Lincoln Center NY, U.S.A.\n<br>New York Fashion Week 2014 FW, EDIT Trade Show New York, U.S.A\n<br>MMCA National Museum of Contemporary Art Art Zone Collaboration Exhibition<br>",
+          "text2": "2013 \n<br>New York Fashion Week 2014 SS Concept Korea, Lincoln Center NY, U.S.A. \n<br>Seoul City Hall uniform design \n<br>Incheon Asian Games Opening Fashion Show\n<br>2012 \n<br>London Fashion Week 2014 FW, Chaple Market London, U.K \n<br>SS / FW 2012 'MCM BY BIG PARK' Ready-to-Wear Collaboration \n<br>2011 \n<br>Participated in Korea Heritage Fashion Show (Kyeongbok Palace) \n<br>2012 SS BIG PARK Launching Presentation, London Fashion Week, MC Motors London, UK \n<br>P + by PARK YON SOO Launching Presentation, London, U.K. \n<br>CEO Yoon So-mi \n<br>Present) Professor, Department of Fashion Management, Tanyang University \n<br>1989-present \n<br>Participated in SFAA Collection, SEOUL Collection \n<br>2011-present \n<br>Appointed Professor of Fashion Management, Tanyang University \n<br>2008-2011 \n<br>ESTEE-LAUDER Collaboration Design \n<br>1989-2011 \n<br>Participated in SFAA SEOUL Collection 43 times \n<br>2010 \n<br>National Cycling Team Uniform Design \n<br>Kangwon Foreign Language High School Uniform Design \n<br>Incheon sky high school uniform design \n<br>Beringer Wine, Duckhorn Wine Lable Design \n<br>Participated in Korean fashion culture festival and fashion show (National Museum of Korea) \n<br>\n<br>Participated in International Fashion Art Biennale (Seoul Arts Center) \n<br>Seoul Design Festival (COEX C Hall, Samsung-dong) \n<br>2009-2010 \n<br>COMPASSION Charity Show 'Because I Love You' (3 times) \n<br>2009 \n<br>Hyundai Capital volleyball uniform design \n<br>2006-2009 \n<br>Central m &amp; b Herren Magazine Creative Director \n<br>2008 \n<br>Established SuiStar Co., Ltd. \n<br>BC Great Partner's Day Fashion Show (W HOTEL) \n<br>Incheon International Airport uniform design \n<br>Incheon International Airport employee uniform fashion show<br>",
           "text3": "Kangwon Land High1 Resort Kits Design \n<br>2004-2006 \n<br>Adjunct Professor, Department of Clothing Textile, Ewha Womans University \n<br>2003-2006 \n<br>President of Seoul Fashion Artist Association (SFAA) \n<br>2001 \n<br>New KOREA STREAM commemorating the visit to Korea \n<br>2000 \n<br>Samsung Group uniform design \n<br>1999 \n<br>PARIS PRET-A-PORTER \n<br>1998 \n<br>NEW YORK COLLECTION \n<br>1996 \n<br>OSACA WORLD COLLECTION \n<br>TENCEL SHOW (British Embassy)<br>",
           "text4": "1995 \n<br>Participated in Gwangju Biennale, FACT \n<br>1994 \n<br>ASEAN FASHION TRADE EXPO \n<br>1980-1990 \n<br>Central Design Group (JDG COLLECTION) Participated 15 times \n<br>1989 \n<br>ASEAN FASHION WEEK (HONGKONG) \n<br>1988 \n<br>NEW YORK PRET-A-PORTER \n<br>1987 \n<br>Exhibited ART TO WEAR twice (National Museum of Contemporary Art) \n<br>1985 \n<br>Established All-Style Park Yoon-soo \n<br>Participated in COTTON SHOW 2 times (Korea Textile Association)",
           "text5": "• 2014          : 제9회 아시아 모델 어워즈 국제문화교류상 수상\n<br>• 2012          : 제5회 코리아 패션대상 대통령상 수상\n<br>• 2011,2012     : 세계패션그룹 (FGI) 회장&nbsp;",
@@ -393,7 +392,7 @@
           "_anchor": "extFeatures13-1n",
           "_styles": {
             ".etl-icon": {
-              "color": "#f3c649"
+              "color": "#41a85f"
             },
             ".mbr-section-title DIV": {
               "font-size": "14px",
@@ -430,8 +429,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-12-3-o-1af3me52948t164ko8vedl1jab2l-780x1174-780x1174.jpg",
-                "image": "@PROJECT_PATH@/assets/images/collection_12_3_o_1af3me52948t164ko8vedl1jab2l-780x1174.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collection-14-347-o-1be2m5c2810b71ktnrtc1obf1mob1t-667x1000-667x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collection_14_347_o_1be2m5c2810b71ktnrtc1obf1mob1t-667x1000.jpg",
                 "caption": "",
                 "active": false,
                 "alt": ""
@@ -441,8 +440,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-12-3-o-1af3me52915r5brp1tpv1h7odkl2j-780x1175-780x1175.jpg",
-                "image": "@PROJECT_PATH@/assets/images/collection_12_3_o_1af3me52915r5brp1tpv1h7odkl2j-780x1175.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collection-14-347-o-1be2m5c286cf1lctvvj1qfk51m1r-667x1000-667x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collection_14_347_o_1be2m5c286cf1lctvvj1qfk51m1r-667x1000.jpg",
                 "caption": "",
                 "active": false,
                 "alt": ""
@@ -452,8 +451,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-12-3-o-1af3me5296m51c1jeqc1e5nee92b-780x1174-780x1174.jpg",
-                "image": "@PROJECT_PATH@/assets/images/collection_12_3_o_1af3me5296m51c1jeqc1e5nee92b-780x1174.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collection-14-347-o-1be2m5c281o1t58c1om4lbbq591q-667x1000-667x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collection_14_347_o_1be2m5c281o1t58c1om4lbbq591q-667x1000.jpg",
                 "caption": "",
                 "active": false,
                 "alt": ""
@@ -463,8 +462,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-12-3-o-1af3me5291r5almi16qn6aetbi29-780x1174-780x1174.jpg",
-                "image": "@PROJECT_PATH@/assets/images/collection_12_3_o_1af3me5291r5almi16qn6aetbi29-780x1174.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collection-14-347-o-1be2m5c29go1n531l771hlkug36-667x1000-667x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collection_14_347_o_1be2m5c29go1n531l771hlkug36-667x1000.jpg",
                 "caption": "Type caption here",
                 "active": false,
                 "alt": ""
@@ -474,8 +473,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-12-3-o-1af3me529s7h152b1ftp1js5qf92f-780x1174-780x1174.jpg",
-                "image": "@PROJECT_PATH@/assets/images/collection_12_3_o_1af3me529s7h152b1ftp1js5qf92f-780x1174.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collection-14-347-o-1be2m5c28v4k1n8srrvgfl14du1p-667x1000-667x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collection_14_347_o_1be2m5c28v4k1n8srrvgfl14du1p-667x1000.jpg",
                 "caption": "",
                 "active": false,
                 "alt": ""
@@ -485,8 +484,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-12-3-o-1af3me529qgm13o9b245hd95q2d-780x1175-780x1175.jpg",
-                "image": "@PROJECT_PATH@/assets/images/collection_12_3_o_1af3me529qgm13o9b245hd95q2d-780x1175.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collection-14-347-o-1be2m5c28rcr8pv1dp91icn1hdr1s-667x1000-667x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collection_14_347_o_1be2m5c28rcr8pv1dp91icn1hdr1s-667x1000.jpg",
                 "caption": "",
                 "active": false,
                 "alt": ""
@@ -496,8 +495,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-12-3-o-1af3me529bkahmj1qonpubfou2h-780x1174-780x1174.jpg",
-                "image": "@PROJECT_PATH@/assets/images/collection_12_3_o_1af3me529bkahmj1qonpubfou2h-780x1174.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collection-14-347-o-1be2m5c28gu4k9o1uur1vhjvig1v-667x1000-667x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collection_14_347_o_1be2m5c28gu4k9o1uur1vhjvig1v-667x1000.jpg",
                 "caption": "",
                 "active": false,
                 "alt": ""
@@ -507,8 +506,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/collection-12-3-o-1af3me5291v3ko965hc1td67er2n-780x1174-780x1174.jpg",
-                "image": "@PROJECT_PATH@/assets/images/collection_12_3_o_1af3me5291v3ko965hc1td67er2n-780x1174.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/collection-14-347-o-1be2m5c28db1frl18esft24561u-667x1000-667x1000.jpg",
+                "image": "@PROJECT_PATH@/assets/images/collection_14_347_o_1be2m5c28db1frl18esft24561u-667x1000.jpg",
                 "caption": "",
                 "active": true,
                 "alt": ""
@@ -546,11 +545,7 @@
               "color": "#ffffff"
             },
             ".mbr-section-title DIV": {
-              "font-size": "25px",
-              "color": "#c1c1c1"
-            },
-            ".mbr-section-title SPAN": {
-              "color": "#c1c1c1"
+              "font-size": "30px"
             }
           },
           "_anchor": "header4-s",
@@ -567,8 +562,8 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/7aHzqVQgFFI?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/7aHzqVQgFFI",
+              "url": "https://www.youtube.com/embed/xl7c6gLiGGQ?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/xl7c6gLiGGQ",
               "width": 1280,
               "height": 720
             },
@@ -576,7 +571,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0"
           },
-          "title": "<span style=\"font-size: 30px;\">ANDY &amp; DEBB</span><br><div>Designer : 김석원 / 윤원정<br><div>Korea, Asia</div></div>",
+          "title": "<span style=\"font-size: 30px;\">BIG PARK</span><br><div>Designer : 박윤수<br><div>Korea, Asia</div></div>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Art</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Product</a>"
         },
@@ -589,8 +584,8 @@
             "showForm": true,
             "inverse": false,
             "googleMap": {
-              "address": "서울시 성동구 아차산로 15길  ",
-              "placeId": "ChIJ6UD7O8CkfDURNKOtryzsKRQ",
+              "address": "84-21 chung dam dong, kang nam gu, seoul",
+              "placeId": "ChIJn_Rbb3ikfDURVO5R3WnNDLk",
               "state": "ok",
               "stateDetails": ""
             },
@@ -608,15 +603,15 @@
             "overlayOpacity": 0.1
           },
           "title": "DROP A MESSAGE",
-          "title1": "To : &nbsp;ANDY &amp; DEBB",
+          "title1": "To : 박윤수",
           "title2": "Visit our office",
           "subTitle1": "Ready for offers & cooperation",
           "subTitle2": "Glad to meet new people",
-          "text1": "Address: &nbsp;서울시 성동구 아차산로 15길 7&nbsp;(성수동2가 대건빌딩2;3층)<br>Phone:&nbsp;02-467-1293<br>Fax:&nbsp;02-2205-4315<br>",
+          "text1": "Address: &nbsp;84-21 chung dam dong, kang nam gu, seoul, s.korea<br>Phone:&nbsp;02-515-0083<br>Fax:&nbsp;02-517-7884\t<br>",
           "text2": "1234 Street Name </br> City AA 99999",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND MESSAGE</a>",
           "form": {
-            "action": "webmaster@andyndebb.com",
+            "action": "info@bigparkys.com",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
