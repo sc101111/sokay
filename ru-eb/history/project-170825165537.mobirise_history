@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "designers",
+    "name": "My Site",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -28,15 +28,14 @@
     "versionFirst": "3.12.1",
     "uniqCompNum": 63,
     "versionPublish": "4.2.0",
-    "path": "file:///D:/git/shokay",
+    "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
     "mcShopcart": {
       "email": "simonchang1108@gmail.com"
     },
     "publishType": "local",
-    "publishPath": "file:///D:/wamp/www/russia/ru-eb",
-    "screenshot": "screenshot.png"
+    "publishPath": "file:///D:/wamp/www/russia/ru-eb"
   },
   "pages": {
     "index.html": {
@@ -442,7 +441,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/p13l-1920x2747-800x1144.jpg",
                 "image": "@PROJECT_PATH@/assets/images/p13l-1920x2747.jpg",
                 "caption": "",
-                "active": false,
+                "active": true,
                 "alt": ""
               },
               {
@@ -563,7 +562,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/p20l-1349x1930-800x1144.jpg",
                 "image": "@PROJECT_PATH@/assets/images/p20l-1349x1930.jpg",
                 "caption": "",
-                "active": true,
+                "active": false,
                 "alt": ""
               }
             ]

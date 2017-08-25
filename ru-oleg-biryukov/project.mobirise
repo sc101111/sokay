@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "designers",
+    "name": "My Site",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -26,17 +26,14 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 63,
+    "uniqCompNum": 72,
     "versionPublish": "4.2.0",
-    "path": "file:///D:/git/shokay",
+    "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
     "mcShopcart": {
       "email": "simonchang1108@gmail.com"
-    },
-    "publishType": "local",
-    "publishPath": "file:///D:/wamp/www/russia/ru-eb",
-    "screenshot": "screenshot.png"
+    }
   },
   "pages": {
     "index.html": {
@@ -160,10 +157,10 @@
             "imageSize": "30",
             "paddingTop": "2",
             "paddingBottom": "0",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/p0l-1920x1298.jpg",
             "parallax": true,
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#2e2e2e",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -177,7 +174,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/news-20203-n-798x1196.jpg",
+              "src": "@PROJECT_PATH@/assets/images/186089855-376x614.jpg",
               "link": "",
               "alt": "",
               "title": "",
@@ -195,7 +192,7 @@
               "size": 250
             }
           },
-          "title": "<div>\n</div><div>Elena Bryntsalova</div><div>Russia, Europe/Asia</div>",
+          "title": "<div>\n</div><div>BIRYUKOV</div><div>&nbsp;Oleg Biryukov, Russia, Europe/Asia</div>",
           "text": "",
           "_tags": [
             "Theme"
@@ -211,7 +208,7 @@
             "showSubtitle": true,
             "showDates": true,
             "iconsColor": "#2969b0",
-            "blocks": "3",
+            "blocks": "2",
             "paddingTop": "0",
             "paddingBottom": "0",
             "parallax": false,
@@ -228,7 +225,7 @@
             "overlayOpacity": "0.2"
           },
           "mainTitle": "TimeLine",
-          "bottomTitle": "Concept:&nbsp;<div>The heroine of Elena Bryntsalova’s debut collection is an up-to-date,<span style=\"font-weight: normal;\"> </span>practical, elegant and creative woman, who values the essense of functionality and beauty.</div>",
+          "bottomTitle": "Concept:&nbsp;<div>The general style of the mark BIRYUKOV could be characterized as restrained and laconic. It is peculiar to a models an intellectual smartness and asceticism.</div>",
           "mainSubtitle": "",
           "title1": "Part I",
           "title2": "Part II",
@@ -254,8 +251,8 @@
           "date10": "10 October 2016",
           "date11": "11 November 2016",
           "date12": "12 December 2016",
-          "text1": "Elena Bryntsalova is a young Russian designer who has been interested in fashion since she was a child. This passion led her at the age of 16 to attend fashion design courses at Parsons, The New School for Design, New York. At 18 she graduated from school and attended a fashion course at Central Saint Martins, London. The young designer continued her education attending the BA Fashion Design course, at the prestigious Instituto Marangoni in London.\n<br>\n<br>In spite of her young age Elena Bryntsalova's commercial view of fashion is dominant throughout her elaborately designed collection. Practicality combined with elegance are the main features of her brand.\n<br>\n<br>One of the sources of inspiration for her debut collection are the lead characters of the series «Gossip Girl», blending intellectuality, independence, effortlessness and gloss. The collection was designed for ladies, who feel at large and appreciate quality, comfort and are in style. The designer’s first collection can be succinctly described in three words: contrast, chic and universalism.&nbsp;",
-          "text2": "Contrast\n<br>Traditionally feminine and glamorous A-silhouettes, as well as hourglass shapes are accentuated by oversized coats or jackets and highlighted with intentionally rough massive shoes that symbolize independence and decisiveness. Modern and functional neoprene is opposed to delicate and romantic silk and lace.\n<br>\n<br>Chic\n<br>Features from the late 60s, the 80s and the Roman times add glamour to the contemporary style of the collection. Bustier-dresses made of frosted lace with original flounces, delicate lace tops, oriental silk zoave pants with laced insets, minis and maxis with sequined ornaments, dresses and fitted jackets with patch shoulders, that resemble cruise collections and yacht blazers or the tunics of Roman legionaries.\n<br>",
+          "text1": "Mr. Oleg Biryukov deliberately not aspire after embellishment and luxuries , he achieves result by precise cut , qualitative materials and by high level of performance. After winning the national competition “The Dress of the Year” in 1998 , the reputation of the designer - minimalist assigned to Mr. Biryukov.\n<br>\n<br>«Courage of making a simple things leading him to laconicism and minimalism – true testing stand for designer» (ELLE magazine). His models specific at their minimalism , color solutions and elegance . Each collection continue the development of the style , at the basis of that style – logical constructional solution and asceticism , stylish modesty , simplicity and discretion of the details . He doesn't aimed to embellishment and luxuries deliberately. It is the VOGUE magazine opinion that : \"Oleg Biryukov making clothes , we want to buy immediately. It has his own composed stylishness and pleasant feeling of reliability. It seems that it made especially for you . He doesn't covering by pretty ideas and words , but speak truthful , that the most important clothes has to be purchased and wearied\". At the same time he perfects one's style and proclaiming: \"I would never will sew labels on the outside , in order to show the clothes made by Biryukov. I would like to be recognized without label\".<br>",
+          "text2": "<br>The Designer considered that his clothes to appeal , on the first place , to create the harmony and to underline individuality . His heroine chooses the best . She able to value the simplicity in case if it’s perfect and chooses magnificence in case if it’s charming . \n<br>\n<br>Every artist has his own colour spectrum to give preference to. Biryukov has also minimalist one . Always black and white in preference , but also restrained natural colour of flax , wool and cotton , that gives feeling of comfort and confident adequacy. \n<br>\n<br>At 2006-2007 years the seasonal collections of BIRYUKOV were presented at international fashion exhibitions CPD (Düsseldorf), CPM (Moscow), and at the Moscow Fashion Week.&nbsp;",
           "text3": "Universalism \n<br>The collection consists of high quality garments in black and white colours that make this collection relevant from day to night. Looks can easily be transformed into evening styles with the removal off the bulky jacket and the change of accessories, letting the gold features of the collection play their night factor. The collection accentuates every womens curves, giving her a slim and outlined silhouette.<br>",
           "text4": "1995 \n<br>Participated in Gwangju Biennale, FACT \n<br>1994 \n<br>ASEAN FASHION TRADE EXPO \n<br>1980-1990 \n<br>Central Design Group (JDG COLLECTION) Participated 15 times \n<br>1989 \n<br>ASEAN FASHION WEEK (HONGKONG) \n<br>1988 \n<br>NEW YORK PRET-A-PORTER \n<br>1987 \n<br>Exhibited ART TO WEAR twice (National Museum of Contemporary Art) \n<br>1985 \n<br>Established All-Style Park Yoon-soo \n<br>Participated in COTTON SHOW 2 times (Korea Textile Association)",
           "text5": "• 2014          : 제9회 아시아 모델 어워즈 국제문화교류상 수상\n<br>• 2012          : 제5회 코리아 패션대상 대통령상 수상\n<br>• 2011,2012     : 세계패션그룹 (FGI) 회장&nbsp;",
@@ -419,10 +416,6 @@
           }
         },
         {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery1",
           "_params": {
             "showBullets": true,
             "fullWidth": false,
@@ -430,147 +423,105 @@
             "paddingTop": 0,
             "paddingBottom": 0,
             "filterBgColor": false,
-            "bgColor": "#000000",
+            "bgColor": "#FFFFFF",
             "showText": false,
             "filter": false,
             "images": [
               {
-                "tags": "Responsive",
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p13l-1920x2747-800x1144.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p13l-1920x2747.jpg",
-                "caption": "",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p26l-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p26l-2000x1334.jpg",
-                "caption": "",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p24l-2000x1334-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p24l-2000x1334.jpg",
-                "caption": "",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p27l-1349x1930-800x1144.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p27l-1349x1930.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "alt": "",
                 "caption": "Type caption here",
-                "active": false,
-                "alt": ""
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
               },
               {
                 "tags": "Creative",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p23l-1349x1930-800x1144.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p23l-1349x1930.jpg",
-                "caption": "",
-                "active": false,
-                "alt": ""
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
               },
               {
-                "tags": "Creative",
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p15l-1342x1920-800x1144.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p15l-1342x1920.jpg",
-                "caption": "",
-                "active": false,
-                "alt": ""
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
               },
               {
-                "tags": "Creative",
+                "tags": "Awesome",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p7l-1920x1281-800x533.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p7l-1920x1281.jpg",
-                "caption": "",
-                "active": false,
-                "alt": ""
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
               },
               {
-                "tags": "Responsive",
+                "tags": "Beautiful",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p1l-1865x1245-800x534.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p1l-1865x1245.jpg",
-                "caption": "",
-                "active": false,
-                "alt": ""
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
               },
               {
                 "tags": "Responsive",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p22l-1349x1930-800x1144.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p22l-1349x1930.jpg",
-                "caption": "",
-                "active": false,
-                "alt": ""
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
               },
               {
-                "tags": "Responsive",
+                "tags": "Animated",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p16l-1342x1920-800x1144.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p16l-1342x1920.jpg",
-                "caption": "",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p11l-1342x1920-800x1144.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p11l-1342x1920.jpg",
-                "caption": "",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p20l-1349x1930-800x1144.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p20l-1349x1930.jpg",
-                "caption": "",
-                "active": true,
-                "alt": ""
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "alt": "",
+                "caption": "Type caption here"
               }
             ]
           },
-          "_anchor": "gallery1-z",
           "articleLayout": false,
-          "allItem": "All"
+          "allItem": "All",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1z",
+          "_customCSS": "",
+          "_customHTML": "<section class=\"mbr-gallery mbr-section mbr-section-nopadding mbr-slider-carousel\" data-filter=\"false\" data-rv-view=\"164\" style=\"background-color: rgb(255, 255, 255); padding-top: 0rem; padding-bottom: 0rem;\">\n    <!-- Filter -->\n    \n\n    <!-- Gallery -->\n    <div class=\"mbr-gallery-row\">\n        <div class=\" mbr-gallery-layout-default\">\n            <div>\n                <div>\n                    <div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0\" data-video-url=\"false\" data-tags=\"Awesome\">\n                        <div href=\"#lb-gallery1-1z\" data-slide-to=\"0\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"d:/1.jpg\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0\" data-video-url=\"false\" data-tags=\"Responsive\">\n                        <div href=\"#lb-gallery1-1z\" data-slide-to=\"1\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"d:/2.jpg\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0\" data-video-url=\"false\" data-tags=\"Creative\">\n                        <div href=\"#lb-gallery1-1z\" data-slide-to=\"2\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"d:/3.jpg\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0\" data-video-url=\"false\" data-tags=\"Animated\">\n                        <div href=\"#lb-gallery1-1z\" data-slide-to=\"3\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"d:/4.jpg\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0\" data-video-url=\"false\" data-tags=\"Awesome\">\n                        <div href=\"#lb-gallery1-1z\" data-slide-to=\"4\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"d:/5.jpg\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0\" data-video-url=\"false\" data-tags=\"Beautiful\">\n                        <div href=\"#lb-gallery1-1z\" data-slide-to=\"5\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"d:/6.jpg\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0\" data-video-url=\"false\" data-tags=\"Responsive\">\n                        <div href=\"#lb-gallery1-1z\" data-slide-to=\"6\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"d:/7.jpg\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__mobirise3 mbr-gallery-item--p0\" data-video-url=\"false\" data-tags=\"Responsive\">\n                        <div href=\"#lb-gallery1-1z\" data-slide-to=\"6\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"d:/8.jpg\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"clearfix\"></div>\n        </div>\n    </div>\n\n    <!-- Lightbox -->\n    <div data-app-prevent-settings=\"\" class=\"mbr-slider modal fade carousel slide\" tabindex=\"-1\" data-keyboard=\"true\" data-interval=\"false\" id=\"lb-gallery1-1z\">\n        <div class=\"modal-dialog\">\n            <div class=\"modal-content\">\n                <div class=\"modal-body\">\n                    <ol class=\"carousel-indicators\">\n                        <li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-1z\" class=\" active\" data-slide-to=\"0\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-1z\" data-slide-to=\"1\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-1z\" data-slide-to=\"2\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-1z\" data-slide-to=\"3\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-1z\" data-slide-to=\"4\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-1z\" data-slide-to=\"5\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-1z\" data-slide-to=\"6\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-1z\" data-slide-to=\"7\"></li>\n                    </ol>\n                    <div class=\"carousel-inner\">\n                        <div class=\"carousel-item active\">\n                            <img src=\"@THEME_PATH@/components/_images/gallery/bike.jpg\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@THEME_PATH@/components/_images/gallery/code-man.jpg\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@THEME_PATH@/components/_images/gallery/coworkers.jpg\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@THEME_PATH@/components/_images/gallery/desktop.jpg\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@THEME_PATH@/components/_images/gallery/room-laptop.jpg\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@THEME_PATH@/components/_images/gallery/table.jpg\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@THEME_PATH@/components/_images/gallery/windows-books.jpg\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@THEME_PATH@/components/_images/gallery/working-area.jpg\" alt=\"\">\n                        </div>\n                    </div>\n                    <a class=\"left carousel-control\" role=\"button\" data-slide=\"prev\" href=\"#lb-gallery1-1z\">\n                        <span class=\"icon-prev\" aria-hidden=\"true\"></span>\n                        <span class=\"sr-only\">Previous</span>\n                    </a>\n                    <a class=\"right carousel-control\" role=\"button\" data-slide=\"next\" href=\"#lb-gallery1-1z\">\n                        <span class=\"icon-next\" aria-hidden=\"true\"></span>\n                        <span class=\"sr-only\">Next</span>\n                    </a>\n\n                    <a class=\"close\" href=\"#\" role=\"button\" data-dismiss=\"modal\">\n                        <span aria-hidden=\"true\">×</span>\n                        <span class=\"sr-only\">Close</span>\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true
         },
         {
           "_inherit": "header1",
@@ -620,8 +571,8 @@
             "bgColor": "#a07e49",
             "bgVideoRadio": true,
             "bgVideo": {
-              "url": "https://www.youtube.com/embed/aIOU2qxIAg0?rel=0&amp;showinfo=0&autoplay=0&loop=0",
-              "rawUrl": "https://youtu.be/aIOU2qxIAg0",
+              "url": "https://www.youtube.com/embed/_UVEjgcahgc?rel=0&amp;showinfo=0&autoplay=0&loop=0",
+              "rawUrl": "https://youtu.be/_UVEjgcahgc",
               "width": 1280,
               "height": 720
             },
@@ -629,7 +580,7 @@
             "overlayColor": "#000000",
             "overlayOpacity": "0"
           },
-          "title": "<span style=\"font-size: 30px;\">Elena Bryntsalova</span><br><div><div>Russia, Europe</div></div>",
+          "title": "<span style=\"font-size: 30px;\">BIRYUKOV</span><br><div><div>Russia, Europe</div></div>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Art</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">One Product</a>"
         },
@@ -637,7 +588,7 @@
           "_params": {
             "showTitle": true,
             "showContacts": true,
-            "showSubtitle": false,
+            "showSubtitle": true,
             "showText": true,
             "showForm": true,
             "inverse": false,
@@ -661,15 +612,15 @@
             "overlayOpacity": 0.1
           },
           "title": "DROP A MESSAGE",
-          "title1": "To : &nbsp;Elena Bryntsalova",
+          "title1": "To : &nbsp;BIRYUKOV<br>",
           "title2": "Visit our office",
-          "subTitle1": "Ready for offers & cooperation",
+          "subTitle1": "Tel: +7 812 740-49-19<br>Fax: +7 812 230-23-51",
           "subTitle2": "Glad to meet new people",
           "text1": "",
           "text2": "1234 Street Name </br> City AA 99999",
           "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-black\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND MESSAGE</a>",
           "form": {
-            "action": "fashion@elenabryntsalova.ru",
+            "action": "info@biryukov.ru",
             "alerts": {
               "success": "Thanks for filling out form!"
             },
