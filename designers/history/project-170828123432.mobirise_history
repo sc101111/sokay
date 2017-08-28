@@ -27,9 +27,7 @@
     "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
-    "screenshot": "screenshot.png",
-    "publishType": "local",
-    "publishPath": "@PROJECT_PATH@"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -109,32 +107,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/r1-255x255-255x255.png",
-                "image": "@PROJECT_PATH@/assets/images/r1-255x255.png",
-                "caption": "tw-angus-chiang",
-                "active": true,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/d0b1d0b5d0b7-d0bdd0b0d0b7d0b2d0b0d0bdd0b8d18f-273x184-273x184.jpg",
-                "image": "@PROJECT_PATH@/assets/images/d0b1d0b5d0b7-d0bdd0b0d0b7d0b2d0b0d0bdd0b8d18f-273x184.jpg",
-                "caption": "tw-angus-chiang",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/image1-442x476-442x476.png",
                 "image": "@PROJECT_PATH@/assets/images/image1-442x476.png",
                 "caption": "tw-angus-chiang",
-                "active": false,
+                "active": true,
                 "alt": ""
               },
               {
