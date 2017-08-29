@@ -34,9 +34,7 @@
     "mcShopcart": {
       "email": "simonchang1108@gmail.com"
     },
-    "screenshot": "screenshot.png",
-    "publishType": "local",
-    "publishPath": "file:///D:/wamp/www/georgia/ge-aka"
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -162,7 +160,7 @@
             "paddingTop": "2",
             "paddingBottom": "0",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/aka%20nanita-1400x934.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/aka-nanita-1400x934.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#7c706b",
@@ -491,8 +489,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/_aka0177-1363x2048.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/-aka0177-1363x2048-800x1202.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-aka0177-1363x2048.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aka0177-1363x2048-800x1202.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -502,8 +500,8 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/_aka0023-1363x2048.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/-aka0023-1363x2048-800x1202.jpg",
+                "image": "@PROJECT_PATH@/assets/images/-aka0023-1363x2048.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/aka0023-1363x2048-800x1202.jpg",
                 "alt": "",
                 "caption": "Type caption here",
                 "active": false
@@ -513,7 +511,7 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "image": "@PROJECT_PATH@/assets/images/1065_akananita-932x1400.jpg",
+                "image": "@PROJECT_PATH@/assets/images/1065-akananita-932x1400.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/1065-akananita-932x1400-800x1201.jpg",
                 "alt": "",
                 "caption": "Type caption here",
