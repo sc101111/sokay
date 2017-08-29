@@ -23,7 +23,7 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 66,
-    "versionPublish": "4.2.3",
+    "versionPublish": "4.2.2",
     "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
@@ -109,32 +109,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/0c1a879a98533547d20fa3e799588f5a-fashion-designer-america-640x640-640x640.jpg",
-                "image": "@PROJECT_PATH@/assets/images/0c1a879a98533547d20fa3e799588f5a--fashion-designer-america-640x640.jpg",
-                "caption": "tw-angus-chiang",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/201604112013511065784885-544x800-544x800.jpg",
-                "image": "@PROJECT_PATH@/assets/images/201604112013511065784885-544x800.jpg",
-                "caption": "tw-angus-chiang",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/r1-255x255-255x255.png",
                 "image": "@PROJECT_PATH@/assets/images/r1-255x255.png",
                 "caption": "tw-angus-chiang",
-                "active": false,
+                "active": true,
                 "alt": ""
               },
               {
@@ -849,7 +827,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/4fffb6fa72cac3e83077dc10902c65a3-520x780-520x780.jpg",
                 "image": "@PROJECT_PATH@/assets/images/4fffb6fa72cac3e83077dc10902c65a3-520x780.jpg",
                 "caption": "Type caption here",
-                "active": true,
+                "active": false,
                 "alt": ""
               }
             ]
@@ -872,13 +850,12 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "worldwide desingers review 2017",
+          "text": "desingers review 2017",
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
-          "_anchor": "footer1-1t",
-          "_customCSS": ""
+          "_anchor": "footer1-1t"
         },
         {
           "_tags": [
