@@ -27,7 +27,9 @@
     "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -199,31 +201,9 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/nsb8fxjsnyu-608x1080-608x1080.jpg",
-                "image": "@PROJECT_PATH@/assets/images/nsb8fxjsnyu-608x1080.jpg",
-                "caption": "Type caption here",
-                "active": true,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/b61aecdcde88e282e76cfdf533490be2-960x686-800x571.jpg",
-                "image": "@PROJECT_PATH@/assets/images/b61aecdcde88e282e76cfdf533490be2-960x686.jpg",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/0c1a879a98533547d20fa3e799588f5a-fashion-designer-america-640x640-640x640-640x640.jpg",
-                "image": "@PROJECT_PATH@/assets/images/0c1a879a98533547d20fa3e799588f5a-fashion-designer-america-640x640-640x640.jpg",
-                "caption": "Type caption here",
+                "thumb": "@PROJECT_PATH@/assets/images/0c1a879a98533547d20fa3e799588f5a-fashion-designer-america-640x640-640x640.jpg",
+                "image": "@PROJECT_PATH@/assets/images/0c1a879a98533547d20fa3e799588f5a--fashion-designer-america-640x640.jpg",
+                "caption": "tw-angus-chiang",
                 "active": false,
                 "alt": ""
               },
@@ -961,7 +941,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/4fffb6fa72cac3e83077dc10902c65a3-520x780-520x780.jpg",
                 "image": "@PROJECT_PATH@/assets/images/4fffb6fa72cac3e83077dc10902c65a3-520x780.jpg",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "alt": ""
               }
             ]
