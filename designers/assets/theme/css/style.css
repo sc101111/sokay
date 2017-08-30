@@ -629,8 +629,8 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 
 .mbr-section {
   position: relative;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  padding-top: 120px;
+  padding-bottom: 120px;
   background-position: 50% 50%;
   background-repeat: no-repeat;
   background-size: cover; }
@@ -641,7 +641,6 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   padding-bottom: 0;
   padding-top: 0;
   table-layout: fixed;
-   
   width: 100%; }
   .mbr-section-full > .mbr-table-cell {
     width: 100%; }
@@ -883,22 +882,40 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
 .mbr-gallery .mbr-gallery-item {
   position: relative;
   display: inline-block;
-  width: 14.28%; }
-  @media (max-width: 1920px) {
+  width: 20%; }
+   @media (max-width: 1920px) {
+    .mbr-gallery .mbr-gallery-item {
+      width: 8.33%; } }
+	  @media (max-width: 1620px) {
+    .mbr-gallery .mbr-gallery-item {
+      width: 9.09%; } }
+   @media (max-width: 1367px) {
     .mbr-gallery .mbr-gallery-item {
       width: 10%; } }
-  @media (max-width: 1366px) {
+  @media (max-width: 1100px) {
     .mbr-gallery .mbr-gallery-item {
       width: 11.11%; } }
-  @media (max-width: 980px) {
+	    @media (max-width: 900px) {
     .mbr-gallery .mbr-gallery-item {
       width: 12.5%; } }
-  @media (max-width: 768px) {
+	     @media (max-width: 768px) {
+    .mbr-gallery .mbr-gallery-item {
+      width: 14.28%; } }
+	    @media (max-width: 650px) {
+    .mbr-gallery .mbr-gallery-item {
+      width: 16.66%; } }
+	    @media (max-width: 550px) {
     .mbr-gallery .mbr-gallery-item {
       width: 20%; } }
-  @media (max-width: 400px) {
+	    @media (max-width: 450px) {
+    .mbr-gallery .mbr-gallery-item {
+      width: 25%; } }
+	   @media (max-width: 375px) {
     .mbr-gallery .mbr-gallery-item {
       width: 33.33%; } }
+  @media (max-width: 300px) {
+    .mbr-gallery .mbr-gallery-item {
+      width: 50%; } }
 
 .mbr-gallery .mbr-gallery-item img {
   width: 100%;
@@ -1221,8 +1238,8 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
       padding-top: 60px;
       padding-bottom: 60px; } }
 .mbr-cards .striped .card {
-  padding-left: 0%;
-  padding-right: 0%; }
+  padding-left: 10%;
+  padding-right: 10%; }
 .mbr-cards .striped .mbr-cards-col:nth-child(2n+1) {
   background: #2e2e2e;
   color: #fff; }
@@ -1239,11 +1256,6 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
     .mbr-cards .card {
       padding-left: 0;
       padding-right: 0; } }
-@media (min-width: 400px) {
-  .mbr-cards-row {
-    display: table;
-    table-layout: fixed;
-    width: 50%; }
 @media (min-width: 992px) {
   .mbr-cards-row {
     display: table;
@@ -2189,3 +2201,35 @@ html.is-builder .article .lead:not([data-app-remove-it]) + div .btn {
 	top: 0;
 	left: -2400px;
 }
+
+目前歐洲設計家, 已開始在國際市場自行賣票, 以德國,荷蘭為主
+https://www.viagogo.com/secure/search?q=fashion
+
+accupass國際模組沒啟動,看您要不要把沒啟動的市場代理起來...
+
+Iphone8 (edition) : 143.59mm x 70.94mm x 7.57mm 
+397 x 693 points (screen size: css)
+人在
+Iphone7                    : 138.30mm x 67.10mm x 7.10mm
+
+他們的合作計劃不錯, 不妨加入他們在北歐的銷售管道.
+ 
+Matthew 27:45 
+From noon until three in the afternoon darkness came over all the land
+
+全球設計家沒有國際合作方案...也沒官網
+
+花法科技有限公司 的AR VR 沒做進APP, 也是外包嵌入,現場秀,做做樣子.
+Hosa也是一樣.
+
+看了花法科技有限公司的 FAFA设计师服务平台, 並沒有建立全球智慧型語系,幣別自動轉換,
+產品放在知名通路商上效益比較好,請總裁授權歐洲通路商的合作管道.或是連絡窗口.
+
+歐洲英法等知名的yak agents, 大都選用西藏yak的報價, 不同於青海,四川,蒙古,新彊的報價.
+
+實現智慧化前先要把 語系,幣別 做成自動轉換在地 IPV4/6 (GEO),然後兩端的設計家及廠商,才有清楚的差異化.因為我們已經進入全球在地化的階段.
+
+因為大陸的設計思維是一鍵的概念,
+
+實現智慧化前建議請將 語系,幣別 做成自動轉換在地 IPV4/6 (GEO),然後兩端的設計家及廠商,才有清楚的差異化,知道我們已經進入全球在地化的階段.
+歐洲通路商已經在做穿戴科技的全方位經營.
