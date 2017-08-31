@@ -19,11 +19,10 @@
         "isAnimatedOnScroll": true,
         "isScrollToTopButton": false,
         "isRtl": false
-      },
-      "additionalSetColors": []
+      }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 72,
+    "uniqCompNum": 70,
     "versionPublish": "4.2.3",
     "path": "@PROJECT_PATH@",
     "favicon": "",
@@ -45,95 +44,49 @@
       "components": [
         {
           "_styles": {
-            ".hide-buttons .nav-btn": {
-              "display": "none !important"
+            ".mbr-section-title, p": {
+              "color": "#fff"
             },
-            ".navbar-caption": {
-              "color": "#ffffff"
-            },
-            ".navbar-toggler": {
-              "color": "#ffffff"
-            },
-            ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
-            },
-            ".link, .dropdown-item": {
-              "color": "#ffffff"
-            },
-            ".link": {
-              "font-size": "1.5rem"
-            },
-            ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.624rem"
-            },
-            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#141414"
-            },
-            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#262626!important"
-            },
-            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#2e2e2e"
-            },
-            ".bg-color.transparent .link": {
+            ".mbr-section-title": {
               "color": "#ffffff",
-              "transition": "none"
+              "text-align": "center"
             },
-            ".bg-color.transparent.opened .link": {
-              "transition": "color .2s ease-in-out"
+            ".mbr-section-title FONT": {
+              "color": "#000000",
+              "font-size": "30px"
             },
-            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
-              "color": "@primaryColor"
-            },
-            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#c0a375!important"
-            },
-            ".btn": {
+            ".lead H4": {
+              "color": "#ffffff",
               "font-size": "20px"
             }
           },
-          "_params": {
-            "logo": false,
-            "showBrand": false,
-            "hideButtons": true,
-            "sticky": false,
-            "collapsed": true,
-            "transparent": true,
-            "bgColor": "#2e2e2e",
-            "fontSize": "1.5",
-            "fontName": {},
-            "fontColor": "#ffffff",
-            "fontHoverColor": "@primaryColor"
-          },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.123contactform.com/form-2764113/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=0&amp;item_name=&amp;currency_code=USD\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>Latest Notice</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=0&amp;item_name=&amp;currency_code=USD\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Supplier's Demand</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=0&amp;item_name=&amp;currency_code=USD\"><span class=\"imind-suit mbr-iconfont mbr-iconfont-btn\"></span>Designer's Demand</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_xclick&amp;amount=0&amp;item_name=&amp;currency_code=USD\"><span class=\"fa fa-cc-paypal mbr-iconfont mbr-iconfont-btn\"></span>Visa/Master</a></li>",
-          "logo": {
-            "image": {
-              "active": true,
-              "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/logo-150x80.png",
-              "height": 128,
-              "alt": "Mobirise",
-              "link": "",
-              "title": "",
-              "linkInNewWindow": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-menu",
-              "linkInNewWindow": false,
-              "name": "magic-stick",
-              "family": "MobiriseIcons",
-              "link": "https://mobirise.com",
-              "size": 0
-            }
-          },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\"></a>",
           "_tags": [
             "Theme"
           ],
-          "_name": "menu",
-          "_anchor": "menu-1y"
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-1a",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fashion-design-slide-1-2000x833.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#F2F2F2",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.2"
+          },
+          "title": "<font color=\"#000000\">Global Fashion Events</font>",
+          "text": "<h4><b>Review By Nations</b></h4>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"#\">SEE ALL TEMPLATES</a>"
         },
         {
           "_params": {
@@ -145,7 +98,7 @@
             "columnsColor": "#2e2e2e",
             "paddingTop": "0",
             "paddingBottom": "1",
-            "columns": "6",
+            "columns": "5",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -221,7 +174,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ca.svg",
+              "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/de.svg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -246,9 +199,9 @@
           "title5": "Germany<br>",
           "subtitle5": "Choose from the large selection of blocks",
           "caption5": "Berlin Fashion Week<br>Mercedes-Benz Fashionweek Berlin<br>Fashion Week Düsseldorf<br>Munich Fashion Week<br>Bread &amp; Butter Berlin<br>Heldenmarkt Stuttgart<br>Just Married Hof,<br>Laundry and more Expo<br>Mmc Dessous Paradise<br>Moda Made in Italy<br>Rostock Wedding Fair<br>Spirit and Life Dortmund,<br>Top Hair International<br>Wedding Fair Wedding &amp; Celebrations",
-          "title6": "Canada",
+          "title6": "Germany",
           "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Black Fashion Week Montreal\n<br>Eco Fashion Week Vancouver\n<br>Montreal Fashion Week\n<br>Saskatchewan Fahsion Week\n<br>Toronto Men's Fashion Week\n<br>Vancouver Fashion Week\n<br>Western Canada Fashion Week\n<br>World Master Card Fashion Week",
+          "caption6": "Berlin Fashion Week<br>Mercedes-Benz Fashionweek Berlin<br>Fashion Week Düsseldorf<br>Munich Fashion Week<br>Bread &amp; Butter Berlin<br>Heldenmarkt Stuttgart<br>Just Married Hof,<br>Laundry and more Expo<br>Mmc Dessous Paradise<br>Moda Made in Italy<br>Rostock Wedding Fair<br>Spirit and Life Dortmund,<br>Top Hair International<br>Wedding Fair Wedding &amp; Celebrations",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -363,7 +316,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/ng.svg",
+              "src": "@PROJECT_PATH@/assets/images/ca.svg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -373,9 +326,9 @@
               "linkInNewWindow": false
             }
           },
-          "title2": "<font color=\"#000000\">Nigeria</font>",
+          "title2": "<font color=\"#000000\">Canada</font>",
           "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "Nigeria FashionExpo\n<br>Fashion and Ready-to-Wear Garment Exhibition\n<br>Port Harcourt Fashion Festival\n<br>Africa Fashion Week Nigeria\n<br>African Kids and Teens Fashion Week\n<br>London Fashion Festival (LFF) Lagos\n<br>Nexus Luxury Party\n<br>Nigerian Handmade Local Fabrics and Handicrafts Exhibition\n<br>Fashionomics",
+          "caption2": "Black Fashion Week Montreal<br>Eco Fashion Week Vancouver<br>Montreal Fashion Week<br>Saskatchewan Fahsion Week<br>Toronto Men's Fashion Week<br>Vancouver Fashion Week<br>Western Canada Fashion Week<br>World Master Card Fashion Week",
           "button2": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
@@ -594,7 +547,7 @@
           },
           "title6": "Africa",
           "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "<span style=\"font-size: 1rem; line-height: 1.5;\">Dakar Fashion Week</span><br>    Fashion Week Zanzibar<br>    Hub of Africa Addis Fashion Week<br>South Africa Fashion Week<br>    Swahili Fashion Week (Tanzania)<br>    Zimbabwe Fashion Week<br>    Fashion Week Tunis<br>Professional Beauty Durban<br>SA Fashion Week<br>The Wedding Expo Johannesburg<br>",
+          "caption6": "<span style=\"font-size: 1rem; line-height: 1.5;\">Dakar Fashion Week</span><br>    Fashion Week Zanzibar<br>    Hub of Africa Addis Fashion Week<br>    Lagos Fashion &amp; Design Week<br>    Nigeria Fashion Week<br>    South Africa Fashion Week<br>    Swahili Fashion Week (Tanzania)<br>    Zimbabwe Fashion Week<br>    Fashion Week Tunis<br>Professional Beauty Durban<br>SA Fashion Week<br>The Wedding Expo Johannesburg<br>",
           "button6": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\">MORE</a>"
         },
         {
@@ -1464,6 +1417,92 @@
               "color": "#ffffff"
             }
           }
+        },
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "1.05rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "1.137rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#171c2c"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#232c44!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#28324e"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-q",
+          "_params": {
+            "logo": true,
+            "showBrand": false,
+            "hideButtons": true,
+            "sticky": false,
+            "collapsed": false,
+            "transparent": true,
+            "bgColor": "#28324e",
+            "fontSize": "1.05",
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor"
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/030-worldwide-128x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "#",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "#",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Designer</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://docs.google.com/forms/d/e/1FAIpQLSc8QvzXoe5hGYvYhUM0UsOrURJ8XcpToInXDZ564OLiTuikKA/viewform?c=0&amp;w=1\">Join us free (designer)</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.123contactform.com/form-2764113/\">Join us free (supplier)</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"#/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
