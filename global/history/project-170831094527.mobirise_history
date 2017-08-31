@@ -23,11 +23,13 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 70,
-    "versionPublish": "4.2.3",
+    "versionPublish": "4.1.2",
     "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -35,7 +37,7 @@
         "main": true,
         "title": "",
         "meta_descr": "",
-        "header_custom": "<style>\n.card-wrapper {min-height: 1px;}\n</style>",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": ""
       },
@@ -112,7 +114,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/gb.svg",
+              "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/gb.svg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -124,7 +126,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/us.svg",
+              "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/us.svg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -136,7 +138,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/us.svg",
+              "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/us.svg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -148,7 +150,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/fr.svg",
+              "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/fr.svg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -160,7 +162,7 @@
           },
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/de.svg",
+              "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/de.svg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -172,7 +174,7 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/de.svg",
+              "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/de.svg",
               "class": "card-img-top",
               "width": 600,
               "active": true,

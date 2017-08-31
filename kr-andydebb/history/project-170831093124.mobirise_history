@@ -27,15 +27,13 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 61,
-    "versionPublish": "4.2.3",
+    "versionPublish": "4.1.7",
     "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
     "mcShopcart": {
       "email": "simonchang1108@gmail.com"
-    },
-    "publishType": "local",
-    "publishPath": "file:///D:/wamp/www/korea/kr-andydebb"
+    }
   },
   "pages": {
     "index.html": {
@@ -214,9 +212,9 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "bgImageRadio": false,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/white-flower-pattern-background-1236-338x338.jpg",
             "bgVideoRadio": false,
             "bgVideo": {
@@ -397,23 +395,15 @@
             },
             ".mbr-section-title DIV": {
               "font-size": "14px",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "text-align": "left",
-              "color": "#ffffff"
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "left"
             },
             ".mbr-section-title": {
               "text-align": "center",
-              "font-size": "20px",
+              "font-size": "14px",
               "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#ffffff"
-            },
-            "P": {
-              "color": "#ffffff"
-            },
-            "H4": {
-              "color": "#ffffff"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             }
           }
         },

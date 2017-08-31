@@ -1,7 +1,7 @@
-@import url(../../../https://fonts.googleapis.com/css?family=Lato:400,300,700);
-@import url(../../../https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(../../../https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 
 
 
@@ -697,35 +697,38 @@ h6,
 }
 #msg-box8-1a .mbr-section-title {
   color: #ffffff;
+  text-align: center;
 }
 #msg-box8-1a .mbr-section-title FONT {
   color: #000000;
+  font-size: 30px;
 }
 #msg-box8-1a .lead H4 {
   color: #ffffff;
+  font-size: 20px;
 }
-#features1-1o .striped .mbr-cards-col:nth-child(2n+1) {
+#features1-1x .striped .mbr-cards-col:nth-child(2n+1) {
   background-color: #2e2e2e;
 }
-#features1-1o .mbr-cards-col:nth-child(odd) .card-text SPAN {
+#features1-1x .mbr-cards-col:nth-child(odd) .card-text SPAN {
   font-size: 14px;
   text-align: left;
   font-family: 'Lato', sans-serif;
 }
-#features1-1o .mbr-cards-col:nth-child(odd) .card-text DIV {
+#features1-1x .mbr-cards-col:nth-child(odd) .card-text DIV {
   text-align: right;
   font-family: 'Lato', sans-serif;
   font-size: 16px;
 }
-#features1-1o .mbr-cards-col:nth-child(even) .card-text {
+#features1-1x .mbr-cards-col:nth-child(even) .card-text {
   text-align: left;
   font-family: 'Lato', sans-serif;
 }
-#features1-1o .mbr-cards-col:nth-child(odd) .card-text {
+#features1-1x .mbr-cards-col:nth-child(odd) .card-text {
   text-align: left;
   font-family: 'Lato', sans-serif;
 }
-#features1-1o .mbr-cards-col:nth-child(odd) .card-title {
+#features1-1x .mbr-cards-col:nth-child(odd) .card-title {
   text-align: center;
 }
 #features1-1p .striped .mbr-cards-col:nth-child(2n+1) {
@@ -879,11 +882,11 @@ h6,
   color: #ffffff;
 }
 #menu-q .link {
-  font-size: 1.3rem;
+  font-size: 1.05rem;
 }
 #menu-q .dropdown-item,
 #menu-q .nav-dropdown-sm .link {
-  font-size: 1.408rem;
+  font-size: 1.137rem;
 }
 #menu-q .link:hover,
 #menu-q .dropdown-item:hover,

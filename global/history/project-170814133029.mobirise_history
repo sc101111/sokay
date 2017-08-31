@@ -1,7 +1,7 @@
 {
   "settings": {
     "currentPage": "index.html",
-    "name": "global events",
+    "name": "designers",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,9 +22,9 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 70,
-    "versionPublish": "4.2.3",
-    "path": "@PROJECT_PATH@",
+    "uniqCompNum": 69,
+    "versionPublish": "4.1.2",
+    "path": "file:///D:/git/shokay",
     "favicon": "",
     "noImageResize": "",
     "screenshot": "screenshot.png"
@@ -35,7 +35,7 @@
         "main": true,
         "title": "",
         "meta_descr": "",
-        "header_custom": "<style>\n.card-wrapper {min-height: 1px;}\n</style>",
+        "header_custom": "",
         "footer_custom": "",
         "html_before": ""
       },
@@ -87,6 +87,11 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"#\">SEE ALL TEMPLATES</a>"
         },
         {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features1",
+          "_anchor": "features1-1o",
           "_params": {
             "showImages": true,
             "showTitles": true,
@@ -122,6 +127,10 @@
               "linkInNewWindow": false
             }
           },
+          "title1": "UK",
+          "subtitle1": "United Kindoms",
+          "caption1": "<div style=\"text-align: left;\">Aberdeen Fashion Week<br>Africa Fashion Week London<br>Birmingham International Fashion Week<br>Brighton Fashion Week<br>Cheltenham Fashion Week<br>Cork Fashion Week<br>Global Kids Fashion Week<br>Graduate Fashion Week<br>Hull Fashion Week<br>Liverpool Fashion Week<br>London Fashion Week<br>London Collections (Men and Women)<br>Norwich Fashion Week<br>Oxford Fashion Week<br>Edinburgh Online FW</div><div style=\"text-align: left;\">Moda Lingerie &amp; Swimwear<br>Moda Woman<br>Scoop International Fashion Show<br>Your Wedding Exhibition</div>",
+          "button1": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/us.svg",
@@ -134,6 +143,10 @@
               "linkInNewWindow": false
             }
           },
+          "title2": "USA",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">African Fashion Week Chicago</span><br>    All Things Ankara Fashion Week<br>    Austin Fashion Week<br>    Birmingham Fashion Week<br>    Boston Curvy Fashion Week<br>    College Fashion Week<br>    Columbus Fashion Week<br>    Couture Fashion Week<br>    Curves Fashion Week<br>    Chicago Couture Fashion Week<br>    Cincinnatie Fashion Week<br>    Fashion Week New Orleans<br>    Fashion Week Brooklyn<br>    Fashion Week Cleveland<br>    Fashion Week El Paseo<br>    Fashion Week Las Vegas<br>Indianapolis Midwest Fashion Week<br>Little Rock Fashion Week<br>",
+          "button2": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\">MORE</a>",
           "media3": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/us.svg",
@@ -146,6 +159,10 @@
               "linkInNewWindow": false
             }
           },
+          "title3": "USA",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "<span style=\"font-size: 1rem; line-height: 1.5;\">Mercedes-Benz Fashion Week Swim Miami</span><br>Miami International Fashion Week<br>Miami Fashion Week<br>Miami Swim Show<br>New Jersey<br>NY Bridal Fashion Week<br>Mercedes-Benz Fashionweek New York<br>Los Angeles Fashion Week<br>Orange County Fashion Week<br>Oneofakind Baton Rouge Fashion Week<br>Philadelphia Small Business Fashion Week<br>Pittsburg Fashion Week<br>Santa Fe Fashion Week<br>Queer Fashion Week<br>Utah Fashion Week<br>West Palm Beach Fashion Week<br>",
+          "button3": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\">MORE</a>",
           "media4": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/fr.svg",
@@ -158,6 +175,10 @@
               "linkInNewWindow": false
             }
           },
+          "title4": "France",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "<span style=\"font-size: 1rem; line-height: 1.5;\">Paris Fashion Week</span><br>Pulp Fashion Week<br>Texworld Paris<br>Apparel Sourcing Paris<br>Interfiliere Paris<br>La Rencontre Du Mariage Et Du Pacs Strasbourg<br>MCB Creations And Trends Show<br>Premiere Vision-France<br>Salon Du Mariage Casino De Royat<br>Vendome Luxury Tradeshow<br>",
+          "button4": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/de.svg",
@@ -170,6 +191,10 @@
               "linkInNewWindow": false
             }
           },
+          "title5": "Germany<br>",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Berlin Fashion Week<br>Mercedes-Benz Fashionweek Berlin<br>Fashion Week Düsseldorf<br>Munich Fashion Week<br>Bread &amp; Butter Berlin<br>Heldenmarkt Stuttgart<br>Just Married Hof,<br>Laundry and more Expo<br>Mmc Dessous Paradise<br>Moda Made in Italy<br>Rostock Wedding Fair<br>Spirit and Life Dortmund,<br>Top Hair International<br>Wedding Fair Wedding &amp; Celebrations",
+          "button5": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\">MORE</a>",
           "media6": {
             "image": {
               "src": "@PROJECT_PATH@/assets/images/de.svg",
@@ -182,65 +207,20 @@
               "linkInNewWindow": false
             }
           },
-          "title1": "UK",
-          "subtitle1": "United Kindoms",
-          "caption1": "<div style=\"text-align: left;\">Aberdeen Fashion Week<br>Africa Fashion Week London<br>Birmingham International FW<br>Brighton Fashion Week<br>Cheltenham Fashion Week<br>Cork Fashion Week<br>Global Kids Fashion Week<br>Graduate Fashion Week<br>Hull Fashion Week<br>Liverpool Fashion Week<br>London Fashion Week<br>London Collections&nbsp;<br>Norwich Fashion Week<br>Oxford Fashion Week<br>Edinburgh Online FW</div><div style=\"text-align: left;\">Moda Lingerie &amp; Swimwear<br>Moda Woman<br>Scoop International Fashion Show<br>Your Wedding Exhibition</div>",
-          "title2": "USA",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "<span style=\"font-size: 1rem; line-height: 1.5;\">African Fashion Week Chicago</span><br>    All Things Ankara Fashion Week<br>    Austin Fashion Week<br>    Birmingham Fashion Week<br>    Boston Curvy Fashion Week<br>    College Fashion Week<br>    Columbus Fashion Week<br>    Couture Fashion Week<br>    Curves Fashion Week<br>    Chicago Couture Fashion Week<br>    Cincinnatie Fashion Week<br>    Fashion Week New Orleans<br>    Fashion Week Brooklyn<br>    Fashion Week Cleveland<br>    Fashion Week El Paseo<br>    Fashion Week Las Vegas<br>Indianapolis Midwest Fashion Week<br>Little Rock Fashion Week<br>",
-          "title3": "USA",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "<span style=\"font-size: 1rem; line-height: 1.5;\">Mercedes-Benz FW Swim Miami</span><br>Miami International Fashion Week<br>Miami Fashion Week<br>Miami Swim Show<br>New Jersey<br>NY Bridal Fashion Week<br>Mercedes-Benz Fashionweek New York<br>Los Angeles FW<br>Orange County FW<br>Oneofakind Baton Rouge Fashion Week<br>Philadelphia Small Business FW<br>Pittsburg Fashion Week<br>Santa Fe Fashion Week<br>Queer Fashion Week<br>Utah Fashion Week<br>West Palm Beach Fashion Week<br>",
-          "title4": "France",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "<span style=\"font-size: 1rem; line-height: 1.5;\">Paris Fashion Week</span><br>Pulp Fashion Week<br>Texworld Paris<br>Apparel Sourcing Paris<br>Interfiliere Paris<br>La Rencontre Du Mariage Et Du Pacs Strasbourg<br>MCB Creations And Trends Show<br>Premiere Vision-France<br>Salon Du Mariage Casino De Royat<br>Vendome Luxury Tradeshow<br>",
-          "title5": "Germany<br>",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Berlin Fashion Week<br>Mercedes-Benz Fashionweek Berlin<br>Fashion Week Düsseldorf<br>Munich Fashion Week<br>Bread &amp; Butter Berlin<br>Heldenmarkt Stuttgart<br>Just Married Hof,<br>Laundry and more Expo<br>Mmc Dessous Paradise<br>Moda Made in Italy<br>Rostock Wedding Fair<br>Spirit and Life Dortmund,<br>Top Hair International<br>Wedding Fair Wedding &amp; Celebrations",
           "title6": "Germany",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Berlin Fashion Week<br>Mercedes-Benz Fashionweek Berlin<br>Fashion Week Düsseldorf<br>Munich Fashion Week<br>Bread &amp; Butter Berlin<br>Heldenmarkt Stuttgart<br>Just Married Hof,<br>Laundry and more Expo<br>Mmc Dessous Paradise<br>Moda Made in Italy<br>Rostock Wedding Fair<br>Spirit and Life Dortmund,<br>Top Hair International<br>Wedding Fair Wedding &amp; Celebrations",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
+          "button6": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\">MORE</a>",
+          "_customHTML": "<section class=\"mbr-cards mbr-section mbr-section-nopadding\" data-rv-view=\"77\" style=\"background-color: rgb(255, 255, 255);\">\n\n        \n\n    <div class=\"mbr-cards-row row striped\">\n\n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 0px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/gb.svg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"62\">UK</h4>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"63\"></p><div style=\"text-align: left;\">Aberdeen Fashion Week<br>Africa Fashion Week London<br>Birmingham International Fashion Week<br>Brighton Fashion Week<br>Cheltenham Fashion Week<br>Cork Fashion Week<br>Global Kids Fashion Week<br>Graduate Fashion Week<br>Hull Fashion Week<br>Liverpool Fashion Week<br>London Fashion Week<br>London Collections (Men and Women)<br>Norwich Fashion Week<br>Oxford Fashion Week<br>Edinburgh Online FW</div><div style=\"text-align: left;\">Moda Lingerie &amp; Swimwear<br>Moda Woman<br>Scoop International Fashion Show<br>Your Wedding Exhibition</div><p></p>\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 0px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/us.svg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"64\">USA</h4>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"65\"><span style=\"font-size: 1rem; line-height: 1.5;\">African Fashion Week Chicago</span><br>    All Things Ankara Fashion Week<br>    Austin Fashion Week<br>    Birmingham Fashion Week<br>    Boston Curvy Fashion Week<br>    College Fashion Week<br>    Columbus Fashion Week<br>    Couture Fashion Week<br>    Curves Fashion Week<br>    Chicago Couture Fashion Week<br>    Cincinnatie Fashion Week<br>    Fashion Week New Orleans<br>    Fashion Week Brooklyn<br>    Fashion Week Cleveland<br>    Fashion Week El Paseo<br>    Fashion Week Las Vegas<br>Indianapolis Midwest Fashion Week<br>Little Rock Fashion Week<br></p>\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 0px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/us.svg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"66\">USA</h4>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"67\"><span style=\"font-size: 1rem; line-height: 1.5;\">Mercedes-Benz Fashion Week Swim Miami</span><br>Miami International Fashion Week<br>Miami Fashion Week<br>Miami Swim Show<br>New Jersey<br>NY Bridal Fashion Week<br>Mercedes-Benz Fashionweek New York<br>Los Angeles Fashion Week<br>Orange County Fashion Week<br>Oneofakind Baton Rouge Fashion Week<br>Philadelphia Small Business Fashion Week<br>Pittsburg Fashion Week<br>Santa Fe Fashion Week<br>Queer Fashion Week<br>Utah Fashion Week<br>West Palm Beach Fashion Week<br></p>\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 0px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/fr.svg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"68\">France</h4>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"69\"><span style=\"font-size: 1rem; line-height: 1.5;\">Paris Fashion Week</span><br>Pulp Fashion Week<br>Texworld Paris<br>Apparel Sourcing Paris<br>Interfiliere Paris<br>La Rencontre Du Mariage Et Du Pacs Strasbourg<br>MCB Creations And Trends Show<br>Premiere Vision-France<br>Salon Du Mariage Casino De Royat<br>Vendome Luxury Tradeshow<br></p>\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        <div class=\"mbr-cards-col col-xs-12 col-lg-2\" style=\"padding-top: 0px; padding-bottom: 40px;\">\n            <div class=\"container\">\n                <div class=\"card cart-block\">\n                    <div class=\"card-img\"><img src=\"@PROJECT_PATH@/assets/images/de.svg\" class=\"card-img-top\"></div>\n                    <div class=\"card-block\">\n                        <h4 class=\"card-title mbr-editable-content\" code-editable-id=\"70\">Germany<br></h4>\n                        \n                        <p class=\"card-text mbr-editable-content\" code-editable-id=\"71\">Berlin Fashion Week<br>Mercedes-Benz Fashionweek Berlin<br>Fashion Week Düsseldorf<br>Munich Fashion Week<br>Bread &amp; Butter Berlin<br>Heldenmarkt Stuttgart<br>Just Married Hof,<br>Laundry and more Expo<br>Mmc Dessous Paradise<br>Moda Made in Italy<br>Rostock Wedding Fair<br>Spirit and Life Dortmund,<br>Top Hair International<br>Wedding Fair Wedding &amp; Celebrations</p>\n                        \n                    </div>\n                </div>\n            </div>\n        </div>\n        \n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);\n@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);\n.striped .mbr-cards-col:nth-child(2n+1) {\n  background-color: #2e2e2e;\n}\n.mbr-cards-col:nth-child(odd) .card-text SPAN {\n  font-size: 14px;\n  text-align: left;\n  font-family: 'Lato', sans-serif;\n}\n.mbr-cards-col:nth-child(odd) .card-text DIV {\n  text-align: right;\n  font-family: 'Lato', sans-serif;\n  font-size: 16px;\n}\n.mbr-cards-col:nth-child(even) .card-text {\n  text-align: left;\n  font-family: 'Lato', sans-serif;\n}\n.mbr-cards-col:nth-child(odd) .card-text {\n  text-align: left;\n  font-family: 'Lato', sans-serif;\n}\n.mbr-cards-col:nth-child(odd) .card-title {\n  text-align: center;\n}\n",
+          "_customTemplate": true,
           "_styles": {
             ".striped .mbr-cards-col:nth-child(2n+1)": {
               "background-color": "#2e2e2e"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-text SPAN": {
-              "font-size": "14px",
-              "text-align": "left",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-text DIV": {
-              "text-align": "right",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700",
-              "font-size": "16px"
-            },
-            ".mbr-cards-col:nth-child(even) .card-text": {
-              "text-align": "left",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-text": {
-              "text-align": "left",
-              "font-family": "'Lato', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lato:400,300,700"
-            },
-            ".mbr-cards-col:nth-child(odd) .card-title": {
-              "text-align": "center"
             }
-          },
-          "_anchor": "features1-1x"
+          }
         },
         {
           "_tags": [
@@ -310,7 +290,7 @@
           },
           "title1": "Italy",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Milan Fashion Week<br>Mercedes-Benz Fashion Week Milan<br>MIPEL<br>Ferrara Sposi<br>Mare D Amare<br>Milano Moda Donna<br><span style=\"text-align: left; font-size: 1rem; line-height: 1.5;\">Super&nbsp;</span><br>Venezia Sposi<br>",
+          "caption1": "Milan Fashion Week<br>Mercedes-Benz Fashion Week Milan<br>MIPEL<br>Ferrara Sposi<br>Mare D Amare<br>Milano Moda Donna<br><span style=\"text-align: left; font-size: 1rem; line-height: 1.5;\">Super</span><br>Venezia Sposi<br>",
           "button1": "<a data-app-btn=\"true\" href=\"#\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
@@ -1520,7 +1500,7 @@
             "overlayColor": "#444444",
             "overlayOpacity": 0.8
           },
-          "text": "Global Fashion Events"
+          "text": "Global Fashion Week and Textile Exhibitions"
         }
       ]
     }
