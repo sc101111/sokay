@@ -27,7 +27,9 @@
     "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -199,32 +201,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/2016-timati-base-730x438-730x438.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2016-timati-base-730x438.jpg",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/alexandra-vanushina-539x707-539x707.jpg",
-                "image": "@PROJECT_PATH@/assets/images/alexandra-vanushina-539x707.jpg",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/nsb8fxjsnyu-608x1080-608x1080.jpg",
                 "image": "@PROJECT_PATH@/assets/images/nsb8fxjsnyu-608x1080.jpg",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "alt": ""
               },
               {
@@ -346,17 +326,6 @@
                 "image": "@PROJECT_PATH@/assets/images/15565-1200x1795.jpg",
                 "caption": "tw-jamie-wei-huang",
                 "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/0918-shiatzy-chen-interview-portrait-606x441-606x441.jpg",
-                "image": "@PROJECT_PATH@/assets/images/0918-shiatzy-chen-interview-portrait-606x441.jpg",
-                "caption": "Type caption here",
-                "active": true,
                 "alt": ""
               },
               {
