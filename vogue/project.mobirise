@@ -100,7 +100,7 @@
             }
           },
           "_params": {
-            "logo": false,
+            "logo": true,
             "showBrand": true,
             "hideButtons": false,
             "sticky": false,
@@ -116,7 +116,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/th-110x110.jpg",
+              "src": "@PROJECT_PATH@/assets/images/logo-150x80.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -211,7 +211,7 @@
           ],
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobirise mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "_name": "msg-box3",
-          "_customHTML": "<section class=\"mbr-section article\" data-rv-view=\"396\" style=\"background-color: #fff; padding-top: 2px; padding-bottom: 1px; text-align: center;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n            <p>    </p><h4> VOGUE MINI+服務項目:<br> 1. 時尚雜誌內容上APP.  2. 影視名星影片推廣欣賞.  3. 時尚話題社群經營.  4. 高清影片贊助來客黏著度. 是以影片吸引客群並閱讀文章. </h4><p>\n                \n                \n            </p></div>\n        </div>\n    </div>\n</section>\n",
+          "_customHTML": "<section class=\"mbr-section article\" data-rv-view=\"396\" style=\"background-color: #fff; padding-top: 2px; padding-bottom: 1px; text-align: center;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n          <h4><font face=\"microsoft jhenghei\"><strong> VOGUE MINI+服務項目:<br> 1. 時尚雜誌內容上APP.  2. 影視名星影片推廣欣賞.  3. 時尚話題社群經營.  4. 高清影片贊助來客黏著度. 是以影片吸引客群並閱讀文章.</strong></font></h4></div>\n        </div>\n    </div>\n</section>\n",
           "_customCSS": ".mbr-section-title, p {\n  color: #000;\n}\n.btn {\n  font-size: 100px;\n}\n.mbr-section-title {\n  font-size: 36px;\n  color: #ffffff;\n}\np {\n    font-family: \"Microsoft YaHei\";\n} ",
           "_customTemplate": true,
           "_anchor": "msg-box3-1w",
@@ -317,7 +317,7 @@
           ],
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobirise mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "_name": "msg-box3",
-          "_customHTML": "<section class=\"mbr-section article\" data-rv-view=\"396\" style=\"background-color: #fff; padding-top: 2px; padding-bottom: 1px; text-align: center;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n            <p>    </p><h4> 本公司APP特點與Vogue Mini差異性:<br> 1. 介紹新進及主流時尚設計師, 類似於VOGUE雜誌內容上APP.  2. 本公司尚無簽約合作廠商. Vogue簽約影視名星影片合作,影音推廣.  3. 本公司社群主模組尚未確定framework, Vogue有編輯團隊經營時尚話題.  4. 本公司尚無授權影片在APP觀賞, Vogue高清影片贊助來客黏著度. 是以影片吸引客群並閱讀文章. </h4><p>\n                \n                \n            </p></div>\n        </div>\n    </div>\n</section>\n",
+          "_customHTML": "<section class=\"mbr-section article\" data-rv-view=\"396\" style=\"background-color: #fff; padding-top: 2px; padding-bottom: 1px; text-align: center;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n            <h4><font face=\"microsoft jhenghei\"><strong>本公司APP特點與Vogue Mini差異性:<br> 1. 介紹新進及主流時尚設計師, 類似於VOGUE雜誌內容上APP.  2. 本公司尚無簽約合作廠商. Vogue簽約影視名星影片合作,影音推廣.  3. 本公司社群主模組尚未確定framework, Vogue有編輯團隊經營時尚話題.  4. 本公司尚無授權影片在APP觀賞, Vogue高清影片贊助來客黏著度. 是以影片吸引客群並閱讀文章. </strong></font></h4></div>        </div>\n    </div>\n</section>\n",
           "_customCSS": ".mbr-section-title, p {\n  color: #000;\n}\n.btn {\n  font-size: 100px;\n}\n.mbr-section-title {\n  font-size: 36px;\n  color: #ffffff;\n}\np {\n    font-family: \"Microsoft YaHei\";\n} ",
           "_customTemplate": true,
           "_anchor": "msg-box3-1y",
