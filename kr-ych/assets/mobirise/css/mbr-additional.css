@@ -1,7 +1,10 @@
-@import url(../../../https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
-@import url(../../../https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(../../../https://fonts.googleapis.com/css?family=Lora:400,700);
-@import url(../../../https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+
+
 
 
 
@@ -672,13 +675,6 @@ h6,
 .theme-border {
   border: 1px solid #c0a375;
 }
-#msg-box6-1e .mbr-section-title,
-#msg-box6-1e .lead p {
-  color: #fff;
-}
-#msg-box6-1e .btn {
-  font-size: 16px;
-}
 #header4-s .mbr-section-title {
   text-align: left;
   font-size: 48px;
@@ -692,70 +688,95 @@ h6,
 #header4-s .mbr-section-lead SPAN {
   font-size: 30px;
 }
-#menu-q .hide-buttons .nav-btn {
+#extFeatures13-15 .etl-icon {
+  color: #000000;
+}
+#extFeatures13-15 .mbr-section-title DIV {
+  font-size: 16px;
+  font-family: 'Lato', sans-serif;
+  text-align: left;
+  color: #ffffff;
+}
+#extFeatures13-15 .mbr-section-title {
+  text-align: left;
+  font-size: 16px;
+  font-family: 'Lato', sans-serif;
+  color: #ffffff;
+}
+#extFeatures13-15 P {
+  color: #ffffff;
+  text-align: left;
+}
+#extFeatures13-15 H4 {
+  color: #c1c1c1;
+}
+#menu-12 .hide-buttons .nav-btn {
   display: none !important;
 }
-#menu-q .navbar-caption {
+#menu-12 .navbar-caption {
   color: #ffffff;
 }
-#menu-q .navbar-toggler {
+#menu-12 .navbar-toggler {
   color: #ffffff;
 }
-#menu-q .close-icon::before,
-#menu-q .close-icon::after {
+#menu-12 .close-icon::before,
+#menu-12 .close-icon::after {
   background-color: #ffffff;
 }
-#menu-q .link,
-#menu-q .dropdown-item {
+#menu-12 .link,
+#menu-12 .dropdown-item {
   color: #ffffff;
 }
-#menu-q .link {
-  font-size: 1.4rem;
+#menu-12 .link {
+  font-size: 1.5rem;
 }
-#menu-q .dropdown-item,
-#menu-q .nav-dropdown-sm .link {
-  font-size: 1.516rem;
+#menu-12 .dropdown-item,
+#menu-12 .nav-dropdown-sm .link {
+  font-size: 1.624rem;
 }
-#menu-q .link:hover,
-#menu-q .dropdown-item:hover,
-#menu-q .link:focus,
-#menu-q .dropdown-item:focus {
+#menu-12 .link:hover,
+#menu-12 .dropdown-item:hover,
+#menu-12 .link:focus,
+#menu-12 .dropdown-item:focus {
   color: #c0a375;
 }
-#menu-q .link[aria-expanded="true"],
-#menu-q .dropdown-menu {
-  background: #0e0e0e;
+#menu-12 .link[aria-expanded="true"],
+#menu-12 .dropdown-menu {
+  background: #141414;
 }
-#menu-q .nav-dropdown-sm .link:focus,
-#menu-q .nav-dropdown-sm .link:hover,
-#menu-q .nav-dropdown-sm .dropdown-item:focus,
-#menu-q .nav-dropdown-sm .dropdown-item:hover {
-  background: #202020!important;
+#menu-12 .nav-dropdown-sm .link:focus,
+#menu-12 .nav-dropdown-sm .link:hover,
+#menu-12 .nav-dropdown-sm .dropdown-item:focus,
+#menu-12 .nav-dropdown-sm .dropdown-item:hover {
+  background: #262626!important;
 }
-#menu-q .navbar,
-#menu-q .nav-dropdown-sm,
-#menu-q .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-q .nav-dropdown-sm .dropdown-menu {
-  background: #282828;
+#menu-12 .navbar,
+#menu-12 .nav-dropdown-sm,
+#menu-12 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-12 .nav-dropdown-sm .dropdown-menu {
+  background: #2e2e2e;
 }
-#menu-q .bg-color.transparent .link {
+#menu-12 .bg-color.transparent .link {
   color: #ffffff;
   transition: none;
 }
-#menu-q .bg-color.transparent.opened .link {
+#menu-12 .bg-color.transparent.opened .link {
   transition: color 0.2s ease-in-out;
 }
-#menu-q .bg-color.transparent.opened .link:hover,
-#menu-q .bg-color.transparent.opened .link:focus {
+#menu-12 .bg-color.transparent.opened .link:hover,
+#menu-12 .bg-color.transparent.opened .link:focus {
   color: #c0a375;
 }
-#menu-q .link[aria-expanded="true"],
-#menu-q .dropdown-item[aria-expanded="true"] {
+#menu-12 .link[aria-expanded="true"],
+#menu-12 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#menu-q .btn {
+#menu-12 .btn {
   font-size: 20px;
 }
-#extForm4-12 H2 {
+#extForm4-13 H2 {
   font-size: 36px;
+}
+#extForm4-13 .intro-box h4 {
+  font-size: 16px;
 }
