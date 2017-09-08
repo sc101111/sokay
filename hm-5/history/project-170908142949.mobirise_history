@@ -25,14 +25,16 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 197,
+    "uniqCompNum": 194,
     "versionPublish": "4.2.4",
     "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
     "mcShopcart": {
       "email": "simonchang1108@gmail.com"
-    }
+    },
+    "publishType": "local",
+    "publishPath": "file:///D:/wamp/www/yak"
   },
   "pages": {
     "index.html": {
@@ -91,7 +93,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "@primaryColor!important"
+              "color": "#ffffff!important"
             },
             ".btn": {
               "font-size": "20px"
@@ -110,11 +112,11 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.123contactform.com/form-2764113/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"#\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>Sell Your Tickets</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"#\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Supplier's Demand</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"#\"><span class=\"imind-suit mbr-iconfont mbr-iconfont-btn\"></span>Designer's Demand</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white-outline btn-white\" href=\"#\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Request</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.123contactform.com/form-2764113/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"#\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span>Sell Your Tickets</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"#\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Supplier's Demand</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"#\"><span class=\"imind-suit mbr-iconfont mbr-iconfont-btn\"></span>Designer's Demand</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary-outline btn-primary\" href=\"#\"><span class=\"mbri-edit mbr-iconfont mbr-iconfont-btn\"></span>Request</a></li>",
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/cn.svg",
+              "src": "file:///D:/wamp/www/taiwan/tw-shokay/assets/images/cn.svg",
               "height": 128,
               "alt": "Mobirise",
               "link": "",
@@ -135,60 +137,60 @@
             "Theme"
           ],
           "_name": "menu",
-          "_anchor": "menu-5g"
+          "_anchor": "menu-4z"
         },
         {
           "_params": {
             "autoplay": false,
             "animType": "fade",
-            "theme": "absent",
+            "theme": "angular",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/shokay2017collection-1593x900.jpg",
+                "image": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-1593x900.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "file:///D:/wamp/www/taiwan/tw-shokay/assets/images/shokay2017collection-850x480.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/shokay2017collection-85x48.png",
+                "src": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-850x480.jpg",
+                "tooltip": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/shokay2017collection-1-1593x900.jpg",
+                "image": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-1592x900.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "file:///D:/wamp/www/taiwan/tw-shokay/assets/images/shokay2017collection-15-850x480.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/shokay2017collection-1-85x48.png",
+                "src": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-846x478.jpg",
+                "tooltip": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-84x48.png",
                 "title": "title 2",
                 "text": "text 2",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/shokay2017collection-2-1593x900.jpg",
+                "image": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-1600x898.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "file:///D:/wamp/www/taiwan/tw-shokay/assets/images/shokay2017collection-10-850x480.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/shokay2017collection-2-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
+                "src": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-849x477.jpg",
+                "tooltip": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-85x47.png",
+                "title": "title 3",
+                "text": "text 3",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/shokay2017collection-3-1593x900.jpg",
+                "image": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-1595x900.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "file:///D:/wamp/www/taiwan/tw-shokay/assets/images/shokay2017collection-25-850x480.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/shokay2017collection-3-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
+                "src": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-851x480.jpg",
+                "tooltip": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-1-85x47.png",
+                "title": "title 1",
+                "text": "text 1",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/shokay2017collection-4-1593x900.jpg",
+                "image": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-1600x899.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "file:///D:/wamp/www/taiwan/tw-shokay/assets/images/shokay2017collection-1-850x480.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/shokay2017collection-4-85x48.png",
+                "src": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-2-850x478.jpg",
+                "tooltip": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-2-85x47.png",
                 "title": "title 2",
                 "text": "text 2",
                 "active": false
@@ -218,7 +220,7 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-5e"
+          "_anchor": "wowslider-4u"
         },
         {
           "_params": {
@@ -227,7 +229,7 @@
             "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/slider02-1400x933.png",
+            "bgImage": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/slider02-1400x933.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#e9e9e9",

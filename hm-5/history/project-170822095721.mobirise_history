@@ -3,8 +3,8 @@
     "currentPage": "index.html",
     "name": "My Site",
     "theme": {
-      "name": "mobirise3",
-      "title": "Mobirise 3",
+      "name": "3",
+      "title": " 3",
       "styling": {
         "primaryColor": "#ffffff",
         "secondaryColor": "#bfcecb",
@@ -67,11 +67,11 @@
             "overlayOpacity": 0.5
           },
           "title": "MODERN STYLES",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
+          "text": "<p> has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
           "_tags": [
             "Theme"
           ],
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-mobirise mbr-iconfont mbr-iconfont-btn\"></span></a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri- mbr-iconfont mbr-iconfont-btn\"></span></a>",
           "_name": "msg-box3",
           "_anchor": "msg-box3-3t",
           "_customCSS": ".mbr-section-title, p {\n  color: #000;\n}\n.btn {\n  font-size: 100px;\n}\n.mbr-section-title {\n  font-size: 36px;\n  color: #ffffff;\n}\n",
@@ -89,7 +89,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "file:///C:/Users/sc/AppData/Local/Mobirise.com/Mobirise/projectData/sky_2.jpg",
+            "bgImage": "file:///C:/Users/sc/AppData/Local/.com//projectData/sky_2.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -108,7 +108,7 @@
           "info3": "(filtered from",
           "info4": "total entries)",
           "table": "<thead><tr><th>Name</th><th>Name</th></tr></thead><tbody><tr><td><b>Designers Demand</b></td><td><b>Suppliers Demand</b></td></tr></tbody>",
-          "alias": "mobirise3-blocks/components",
+          "alias": "3-blocks/components",
           "_tags": [
             "Extension"
           ],
@@ -127,7 +127,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/sky.jpg",
+            "bgImage": "@ADDONS_PATH@/3-blocks/components/_images/sky.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -146,7 +146,7 @@
           "info3": "(filtered from",
           "info4": "total entries)",
           "table": "<thead><tr><th>Name</th><th>Name</th></tr></thead><tbody><tr><td><b>Designers Demand</b></td><td><b>Suppliers Demand</b></td></tr></tbody>",
-          "alias": "mobirise3-blocks/components",
+          "alias": "3-blocks/components",
           "_tags": [
             "Extension"
           ],
@@ -181,7 +181,7 @@
           },
           "title": "PRE MADE BLOCKS",
           "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">SEE LIVE DEMO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://.com\">SEE LIVE DEMO</a>",
           "_tags": [
             "Theme"
           ],
@@ -219,7 +219,7 @@
           },
           "title": "TRENDY WEBSITE BLOCKS",
           "text": "Cut down the development time with drag-and-drop website builder.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">VIEW VIDEO TUTORIAL</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://.com\">VIEW VIDEO TUTORIAL</a>",
           "_tags": [
             "Theme"
           ],
@@ -298,7 +298,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/sky_1.jpg",
+            "bgImage": "file:///C:/Users/User/AppData/Local/.com//projectData/sky_1.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -317,7 +317,7 @@
           "info3": "(filtered from",
           "info4": "total entries)",
           "table": "<thead><tr><th>Name</th><th>Name</th></tr></thead><tbody><tr><td><b>Designers Demand</b></td><td><b>Suppliers Demand</b></td></tr></tbody>",
-          "alias": "mobirise3-blocks/components",
+          "alias": "3-blocks/components",
           "_tags": [
             "Extension"
           ],
@@ -338,7 +338,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/sky_3.jpg",
+            "bgImage": "file:///C:/Users/User/AppData/Local/.com//projectData/sky_3.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -357,7 +357,7 @@
           "info3": "(filtered from",
           "info4": "total entries)",
           "table": "<thead><tr><th>Name</th><th>Name</th></tr></thead><tbody><tr><td><b>Designers Demand</b></td><td><b>Suppliers Demand</b></td></tr></tbody>",
-          "alias": "mobirise3-blocks/components",
+          "alias": "3-blocks/components",
           "_tags": [
             "Extension"
           ],
@@ -376,7 +376,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extTabs1.jpg",
+            "bgImage": "@ADDONS_PATH@/3-blocks/components/_images/img_extTabs1.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#cccccc",
@@ -395,13 +395,13 @@
           "title5": "Tab heading 5",
           "title6": "Tab heading 6",
           "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-3e\" aria-expanded=\"false\">Responsive</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-3e\" aria-expanded=\"false\">Creative</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-3e\" aria-expanded=\"true\">Animated</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-3e\" aria-expanded=\"false\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-3e\" aria-expanded=\"false\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-3e\" aria-expanded=\"true\">Beautiful</a></li>",
-          "text1": "Sites made with Mobirise are 100% mobile-friendly according the latest Google Test and Google loves those websites (officially)!",
-          "text2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "text1": "Sites made with  are 100% mobile-friendly according the latest Google Test and Google loves those websites (officially)!",
+          "text2": " themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
           "text3": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
           "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
           "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
-          "alias": "mobirise3-blocks/components",
+          "alias": "3-blocks/components",
           "_tags": [
             "Extension"
           ],
@@ -437,7 +437,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/1.png",
-                    "link": "https://mobirise.com",
+                    "link": "https://.com",
                     "active": true
                   }
                 }
@@ -447,7 +447,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/2.png",
-                    "link": "https://mobirise.com",
+                    "link": "https://.com",
                     "active": true
                   }
                 }
@@ -457,7 +457,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/3.png",
-                    "link": "https://mobirise.com",
+                    "link": "https://.com",
                     "active": true
                   }
                 }
@@ -467,7 +467,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/4.png",
-                    "link": "https://mobirise.com",
+                    "link": "https://.com",
                     "active": true
                   }
                 }
@@ -477,7 +477,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/5.png",
-                    "link": "https://mobirise.com",
+                    "link": "https://.com",
                     "active": true
                   }
                 }
@@ -487,7 +487,7 @@
                 "media": {
                   "image": {
                     "src": "@PROJECT_PATH@/assets/images/3.png",
-                    "link": "https://mobirise.com",
+                    "link": "https://.com",
                     "active": true
                   }
                 }
@@ -496,7 +496,7 @@
           },
           "title": "OUR CLIENTS",
           "subtitle": "\"Our clients\" carousel with adjustable number of visible clients.",
-          "alias": "mobirise3-blocks/components",
+          "alias": "3-blocks/components",
           "_tags": [
             "Extension"
           ],
@@ -655,7 +655,7 @@
             "bgColorRadio": true,
             "bgColor": "#e9e9e9",
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extHeader14_bg.jpg",
+            "bgImage": "@ADDONS_PATH@/3-blocks/components/_images/img_extHeader14_bg.jpg",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -811,7 +811,7 @@
               "family": "et-line"
             }
           },
-          "alias": "mobirise3-blocks/components",
+          "alias": "3-blocks/components",
           "_tags": [
             "Extension"
           ],
@@ -832,7 +832,7 @@
             "VideoUrl": "https://www.youtube.com/watch?v=Tq7p44IA-1U",
             "showArrow": true,
             "bgImageRadio": false,
-            "bgImage": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/img_extHeader5_bg.jpg",
+            "bgImage": "file:///C:/Users/User/AppData/Local/.com//projectData/img_extHeader5_bg.jpg",
             "parallax": false,
             "bgColorRadio": false,
             "bgColor": "#2e2e2e",
@@ -850,7 +850,7 @@
           "media": {
             "image": {
               "active": true,
-              "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/play-button.svg"
+              "src": "file:///C:/Users/User/AppData/Local/.com//projectData/play-button.svg"
             },
             "iconFont": {
               "active": false,
@@ -865,8 +865,8 @@
           "title": "INTRO WITH VIDEO POPUP",
           "text": "Full-screen intro with background image and video popup. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vel sunt, neque voluptatibus excepturi laboriosam possimus adipisci quidem dolores omnis, nemo dolore eligendi blanditiis voluptatem in, doloribus hic aperiam maiores fugit.",
           "text2": "<label class=\"startPreset\" for=\"modal\">Watch Video</label>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "alias": "mobirise3-blocks/components",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://.com\">MORE</a>",
+          "alias": "3-blocks/components",
           "_tags": [
             "Extension"
           ],
@@ -880,7 +880,7 @@
             "paddingTop": "0",
             "paddingBottom": "1",
             "bgImageRadio": true,
-            "bgImage": "file:///C:/Users/sc/AppData/Local/Mobirise.com/Mobirise/projectData/slider02-1400x9334.png",
+            "bgImage": "file:///C:/Users/sc/AppData/Local/.com//projectData/slider02-1400x9334.png",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#e9e9e9",
@@ -893,7 +893,7 @@
             "overlayOpacity": 0.75
           },
           "title": "<br>Limited Time On Sale",
-          "alias": "mobirise3-blocks/components",
+          "alias": "3-blocks/components",
           "_tags": [
             "Extension"
           ],
@@ -925,7 +925,7 @@
             "overlayOpacity": 0.75
           },
           "title": "<br>Limited Time On Sale",
-          "alias": "mobirise3-blocks/components",
+          "alias": "3-blocks/components",
           "_tags": [
             "Extension"
           ],
@@ -946,7 +946,7 @@
             "paddingTop": "0",
             "paddingBottom": "0",
             "bgImageRadio": false,
-            "bgImage": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/sky_2.jpg",
+            "bgImage": "file:///C:/Users/User/AppData/Local/.com//projectData/sky_2.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -965,7 +965,7 @@
           "info3": "(filtered from",
           "info4": "total entries)",
           "table": "<thead><tr><th>Name</th><th>Name</th></tr></thead><tbody><tr><td><b>Designers Demand</b></td><td><b>Suppliers Demand</b></td></tr></tbody>",
-          "alias": "mobirise3-blocks/components",
+          "alias": "3-blocks/components",
           "_tags": [
             "Extension"
           ],
@@ -1016,7 +1016,7 @@
             "paddingBottom": "0",
             "columns": "4",
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "bgImage": "@ADDONS_PATH@/3-blocks/components/_images/img_extFeatures4_bg.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -1031,20 +1031,20 @@
           },
           "title1": "13,072 &nbsp;documents",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and  has been equipped to develop websites using this framework.",
           "title2": "2,910 &nbsp;video",
           "subtitle2": "One of Bootstrap 4s big points",
-          "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "caption2": " themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
           "title3": "1,032 &nbsp;news",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and  makes it easy for you to use them on your website easily and freely.",
           "title4": "211,921 &nbsp;pcs",
-          "subtitle4": "Mobirise gives you the freedom",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "subtitle4": " gives you the freedom",
+          "caption4": " gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://.com\" class=\"btn btn-primary\">MORE</a>",
           "number1": "Report",
           "number2": "Live !",
           "number3": "News",
@@ -1137,7 +1137,7 @@
               "size": 0
             }
           },
-          "alias": "mobirise3-blocks/components",
+          "alias": "3-blocks/components",
           "_tags": [
             "Extension"
           ],
@@ -1179,7 +1179,7 @@
             "paddingBottom": "0",
             "columns": "4",
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFeatures4_bg.jpg",
+            "bgImage": "@ADDONS_PATH@/3-blocks/components/_images/img_extFeatures4_bg.jpg",
             "parallax": true,
             "bgColorRadio": true,
             "bgColor": "#fff",
@@ -1194,20 +1194,20 @@
           },
           "title1": "3,013 events",
           "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and  has been equipped to develop websites using this framework.",
           "title2": "392 comments",
           "subtitle2": "One of Bootstrap 4s big points",
-          "caption2": "Mobirise themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
+          "caption2": " themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
           "title3": "425 posts",
           "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and  makes it easy for you to use them on your website easily and freely.",
           "title4": "Join global designers and suppliers",
-          "subtitle4": "Mobirise gives you the freedom",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "subtitle4": " gives you the freedom",
+          "caption4": " gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://.com\" class=\"btn btn-primary\">MORE</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://.com\" class=\"btn btn-primary\">MORE</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://.com\" class=\"btn btn-primary\">MORE</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://.com\" class=\"btn btn-primary\">MORE</a>",
           "number1": "Service",
           "number2": "Solution",
           "number3": "Demand",
@@ -1300,7 +1300,7 @@
               "size": 0
             }
           },
-          "alias": "mobirise3-blocks/components",
+          "alias": "3-blocks/components",
           "_tags": [
             "Extension"
           ],
@@ -1325,7 +1325,7 @@
             "Theme"
           ],
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages//1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com//\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com//\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-2r",
           "_customHTML": "<iframe width=\"100%\" height=\"600\" frameborder=\"0\" scrolling=\"yes\" marginheight=\"0\" marginwidth=\"0\" src=\"https://suppliers-app.azurewebsites.net/\"></iframe> \n<h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size: 20px;text-align: center; background-color:#2e2e2e; padding-top: 20px; padding-bottom: 20px;\" code-editable-id=\"389\"><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSc8QvzXoe5hGYvYhUM0UsOrURJ8XcpToInXDZ564OLiTuikKA/viewform\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Global Designers / Join Now</a></h3>",
@@ -2106,7 +2106,7 @@
               "stateDetails": ""
             },
             "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extForm1_bg.jpg",
+            "bgImage": "@ADDONS_PATH@/3-blocks/components/_images/img_extForm1_bg.jpg",
             "parallax": false,
             "bgColorRadio": true,
             "bgColor": "#fafafa",
@@ -2154,7 +2154,7 @@
               }
             }
           },
-          "alias": "mobirise3-blocks/components",
+          "alias": "3-blocks/components",
           "_tags": [
             "Extension"
           ],
@@ -2197,7 +2197,7 @@
               "class": "mbr-iconfont mbr-iconfont-logo-contacts3",
               "linkInNewWindow": false,
               "name": "touch",
-              "family": "MobiriseIcons",
+              "family": "Icons",
               "link": "index.html",
               "size": "90",
               "newWindow": false,

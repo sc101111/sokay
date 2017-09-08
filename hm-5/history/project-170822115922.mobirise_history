@@ -25,14 +25,16 @@
       ]
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 140,
+    "uniqCompNum": 145,
     "versionPublish": "4.1.7",
     "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
     "mcShopcart": {
       "email": "simonchang1108@gmail.com"
-    }
+    },
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -75,10 +77,93 @@
           "_name": "msg-box3",
           "_anchor": "msg-box3-3t",
           "_customCSS": ".mbr-section-title, p {\n  color: #000;\n}\n.btn {\n  font-size: 100px;\n}\n.mbr-section-title {\n  font-size: 36px;\n  color: #ffffff;\n}\n",
-          "_customHTML": "<section class=\"mbr-section article\" data-rv-view=\"396\" style=\"background-color: #057EAF; padding-top: 2px; padding-bottom: 1px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n               <img src=\"d:/logo-4.png\" width=\"70\" height=\"40\">\n                \n                \n            </div>\n        </div>\n    </div>\n\n</section>",
+          "_customHTML": "<section class=\"mbr-section article\" data-rv-view=\"396\" style=\"background-color: #057EAF; padding-top: 2px; padding-bottom: 1px;\">\n\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n               <img src=\"d:/logo-4.png\" width=\"70\" height=\"40\">\n                \n                \n            </div>\n        </div>\n    </div>\n</section>\n",
           "_PHPplaceholders": [],
           "_JSplaceholders": [],
           "_customTemplate": true
+        },
+        {
+          "_params": {
+            "autoplay": false,
+            "animType": "fade",
+            "theme": "angular",
+            "slides": [
+              {
+                "image": "file:///C:/Users/User/AppData/Local/.com//projectData/22xx-1024x800.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "file:///C:/Users/User/AppData/Local/.com//projectData/22xx-1200x800.png",
+                "tooltip": "file:///C:/Users/User/AppData/Local/.com//projectData/22xx-85x800.png",
+                "title": "title 2",
+                "text": "text 2",
+                "active": true
+              },
+              {
+                "image": "file:///C:/Users/User/AppData/Local/.com//projectData/ah-egypt-1024x800.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "file:///C:/Users/User/AppData/Local/.com//projectData/ah-egypt-1200x800.png",
+                "tooltip": "file:///C:/Users/User/AppData/Local/.com//projectData/ah-egypt-85x800.png",
+                "title": "title 2",
+                "text": "text 2",
+                "active": false
+              },
+              {
+                "image": "file:///C:/Users/User/AppData/Local/.com//projectData/norine-farah-egypt-1024x800.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "file:///C:/Users/User/AppData/Local/.com//projectData/norine%20farah-egypt-1200x800.png",
+                "tooltip": "file:///C:/Users/User/AppData/Local/.com//projectData/norine-farah-egypt-85x800.png",
+                "title": "title 3",
+                "text": "text 3",
+                "active": false
+              },
+              {
+                "image": "file:///C:/Users/User/AppData/Local/.com//projectData/2-1024x800.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "file:///C:/Users/User/AppData/Local/.com//projectData/2-1200x800.png",
+                "tooltip": "file:///C:/Users/User/AppData/Local/.com//projectData/2-85x800.png",
+                "title": "title 1",
+                "text": "text 1",
+                "active": false
+              },
+              {
+                "image": "file:///C:/Users/User/AppData/Local/.com//projectData/22xxx-1024x800.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "file:///C:/Users/User/AppData/Local/.com//projectData/22xxx-1200x800.png",
+                "tooltip": "file:///C:/Users/User/AppData/Local/.com//projectData/22xxx-85x800.png",
+                "title": "title 3",
+                "text": "text 3",
+                "active": false
+              }
+            ],
+            "fullScreen": true,
+            "showCaptions": false,
+            "hideControls": false,
+            "responsive": "2",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "captionsEffect": "slide",
+            "showBullets": false,
+            "bgColor": "#ffffff",
+            "timeout": "1",
+            "duration": "0.5",
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1024x576",
+            "width": "1024",
+            "height": "576"
+          },
+          "articleLayout": false,
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_anchor": "wowslider-3w"
         },
         {
           "_params": {
@@ -113,181 +198,12 @@
             "Extension"
           ],
           "_name": "extTable1",
-          "_customHTML": "<section class=\"mbr-section extTable1\" data-rv-view=\"255\" style=\"background-color:black; padding-top: 0px; padding-bottom: 0px;\">\n\n    <div class=\"container table-wrapper\" info3-text=\"(filtered from\" data-search=\"false\" search-text=\"Search:\" info1-text=\"Showing\" info2-text=\"entries\" info4-text=\"total entries)\">      \n        <table class=\"table mbr-editable-content\" cellspacing=\"0\" width=\"100%\" code-editable-id=\"278\"><thead><tr></tr></thead><tbody><tr><td><a href=\"#\"><span class=\"fa fa-comment-o mbr-iconfont mbr-iconfont-btn\"></span><h5>Designers</h5></a></td><td><a href=\"#\"><span class=\"fa fa-volume-up mbr-iconfont mbr-iconfont-btn\"></span><h5>Suppliers</h5></a></td></tr></tbody></table></div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section extTable1\" data-rv-view=\"255\" style=\"background-color:black; padding-top: 0px; padding-bottom: 0px;\">\n\n    <div class=\"container table-wrapper\" info3-text=\"(filtered from\" data-search=\"false\" search-text=\"Search:\" info1-text=\"Showing\" info2-text=\"entries\" info4-text=\"total entries)\">      \n        <table class=\"table mbr-editable-content\" cellspacing=\"0\" width=\"100%\" code-editable-id=\"34\"><thead><tr></tr></thead><tbody><tr><td><a href=\"#\"><span class=\"fa fa-comment-o mbr-iconfont mbr-iconfont-btn\"></span><h5>Designers</h5></a></td><td><a href=\"#\"><span class=\"fa fa-volume-up mbr-iconfont mbr-iconfont-btn\"></span><h5>Suppliers</h5></a></td></tr></tbody></table></div>\n</section>",
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);\nTABLE {\n  text-align: center;\n     \n}\nTD {\n  font-size: 24px;\n    \n  font-family: 'Oxygen', sans-serif;\n}\nB {\n  font-size: 36px;\n}\na:hover {\n    color: red;\n    text-decoration:none; \n   \n}\ntd:hover {border: 1px solid gray;}\n",
           "_customTemplate": true,
-          "_anchor": "extTable1-3v"
-        },
-        {
-          "_params": {
-            "showTitle": false,
-            "showSearch": false,
-            "rowСount": "1",
-            "colCount": "2",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/3-blocks/components/_images/sky.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#fff",
-            "overlayOpacity": 0.4
-          },
-          "title": "TABLE",
-          "search": "Search:",
-          "info1": "Showing",
-          "info2": "entries",
-          "info3": "(filtered from",
-          "info4": "total entries)",
-          "table": "<thead><tr><th>Name</th><th>Name</th></tr></thead><tbody><tr><td><b>Designers Demand</b></td><td><b>Suppliers Demand</b></td></tr></tbody>",
-          "alias": "3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extTable1",
-          "_anchor": "extTable1-1s",
-          "_customHTML": "<section class=\"mbr-section extTable1\" data-rv-view=\"255\" style=\"background-color:White; padding-top: 0px; padding-bottom: 0px;\">\n\n    <div class=\"container table-wrapper\" info3-text=\"(filtered from\" data-search=\"false\" search-text=\"Search:\" info1-text=\"Showing\" info2-text=\"entries\" info4-text=\"total entries)\">      \n        <table class=\"table mbr-editable-content\" cellspacing=\"0\" width=\"100%\" code-editable-id=\"26\"><thead><tr></tr></thead><tbody><tr><td><a href=\"#\"><span class=\"fa fa-comment-o mbr-iconfont mbr-iconfont-btn\"></span><h5>Designers</h5></a></td><td><a href=\"#\"><span class=\"fa fa-volume-up mbr-iconfont mbr-iconfont-btn\"></span><h5>Suppliers</h5></a></td></tr></tbody></table></div>\n</section>",
+          "_anchor": "extTable1-3v",
           "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);\nTABLE {\n  text-align: center;\n}\nTD {\n  font-size: 24px;\n    \n  font-family: 'Oxygen', sans-serif;\n}\nB {\n  font-size: 36px;\n}\na:hover {\n    color: red;\n    text-decoration:none; \n    background-color: white;\n}\ntd:hover {border: 1px solid gray;}\n",
-          "_customTemplate": true
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#F2F2F2",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "PRE MADE BLOCKS",
-          "text": "Create awesome mobile-friendly websites. No coding and free.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://.com\">SEE LIVE DEMO</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box1",
-          "_anchor": "msg-box1-3s"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#fff"
-            },
-            ".mbr-section-subtitle": {
-              "color": "#a0a0a0"
-            }
-          },
-          "_params": {
-            "showTitle": true,
-            "showText": true,
-            "showButtons": true,
-            "inverse": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "title": "TRENDY WEBSITE BLOCKS",
-          "text": "Cut down the development time with drag-and-drop website builder.",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://.com\">VIEW VIDEO TUTORIAL</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box2",
-          "_anchor": "msg-box2-3r"
-        },
-        {
-          "_params": {
-            "autoplay": true,
-            "animType": "fade",
-            "theme": "vernisage",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/slider02-1600x300.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/slider02-600x300.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/slider02-85x300.png",
-                "title": "title 1",
-                "text": "text 1",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/slider02-1-1600x300.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/slider02-1-600x300.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/slider02-1-85x300.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/slider02-3-1600x300.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "@PROJECT_PATH@/assets/images/slider02-2-600x300.png",
-                "tooltip": "@PROJECT_PATH@/assets/images/slider02-2-85x300.png",
-                "title": "title 3",
-                "text": "text 3",
-                "active": false
-              }
-            ],
-            "fullScreen": true,
-            "showCaptions": false,
-            "hideControls": false,
-            "responsive": "2",
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "captionsEffect": "slide",
-            "showBullets": false,
-            "bgColor": "#ffffff",
-            "timeout": 2,
-            "duration": 2,
-            "customSize": true,
-            "customWidth": "1400",
-            "customHeight": "500",
-            "size": "1024x576",
-            "width": "1400",
-            "height": "500"
-          },
-          "articleLayout": false,
-          "alias": "wowslider",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "wowslider",
-          "_anchor": "wowslider-3j"
+          "_JSplaceholders": []
         },
         {
           "_params": {
@@ -368,140 +284,6 @@
           "_anchor": "extTable1-3d",
           "_PHPplaceholders": [],
           "_JSplaceholders": []
-        },
-        {
-          "_params": {
-            "showTitles": true,
-            "tabs": "3",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/3-blocks/components/_images/img_extTabs1.jpg",
-            "parallax": false,
-            "bgColorRadio": true,
-            "bgColor": "#cccccc",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": true,
-            "overlayColor": "#151515",
-            "overlayOpacity": 0.2
-          },
-          "title1": "BOOST YOUR RANKING",
-          "title2": "BOOTSTRAP BUILDER",
-          "title3": "TRENDY WEBSITE BLOCKS",
-          "title4": "Tab heading 4",
-          "title5": "Tab heading 5",
-          "title6": "Tab heading 6",
-          "tabTitle": "<li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab1extTabs1-3e\" aria-expanded=\"false\">Responsive</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab2extTabs1-3e\" aria-expanded=\"false\">Creative</a></li><li class=\"nav-item\" style=\"display: inline-block;\"><a class=\"nav-link active\" role=\"tab\" data-toggle=\"tab\" href=\"#tab3extTabs1-3e\" aria-expanded=\"true\">Animated</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab4extTabs1-3e\" aria-expanded=\"false\">Awesome</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab5extTabs1-3e\" aria-expanded=\"false\">Amazing</a></li><li class=\"nav-item\" style=\"display: none;\"><a class=\"nav-link\" role=\"tab\" data-toggle=\"tab\" href=\"#tab6extTabs1-3e\" aria-expanded=\"true\">Beautiful</a></li>",
-          "text1": "Sites made with  are 100% mobile-friendly according the latest Google Test and Google loves those websites (officially)!",
-          "text2": " themes are based on Bootstrap 3 and Bootstrap 4 - most powerful mobile first framework. Now, even if you're not code-savvy, you can be a part of an exciting growing bootstrap community.",
-          "text3": "Choose from the large selection of latest pre-made blocks - full-screen intro, bootstrap carousel, content slider, responsive image gallery with lightbox, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "text4": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
-          "text5": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
-          "text6": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque quis quam in risus pulvinar ultrices eget non sem. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae proin accumsan odio.",
-          "alias": "3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extTabs1",
-          "_anchor": "extTabs1-3e"
-        },
-        {
-          "_params": {
-            "showTitle": true,
-            "showSubtitle": true,
-            "autoplay": true,
-            "timeout": 5,
-            "paddingTop": 2,
-            "paddingBottom": 1,
-            "showArrows": true,
-            "showBullets": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/flight-mountains-sky-flying.jpg",
-            "parallax": false,
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#000",
-            "overlayOpacity": 0.5,
-            "visibleSlides": "6",
-            "slides": [
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/1.png",
-                    "link": "https://.com",
-                    "active": true
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/2.png",
-                    "link": "https://.com",
-                    "active": true
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
-                    "link": "https://.com",
-                    "active": true
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/4.png",
-                    "link": "https://.com",
-                    "active": true
-                  }
-                }
-              },
-              {
-                "active": false,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/5.png",
-                    "link": "https://.com",
-                    "active": true
-                  }
-                }
-              },
-              {
-                "active": true,
-                "media": {
-                  "image": {
-                    "src": "@PROJECT_PATH@/assets/images/3.png",
-                    "link": "https://.com",
-                    "active": true
-                  }
-                }
-              }
-            ]
-          },
-          "title": "OUR CLIENTS",
-          "subtitle": "\"Our clients\" carousel with adjustable number of visible clients.",
-          "alias": "3-blocks/components",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "extTestimonials5",
-          "_anchor": "extTestimonials5-3h"
         },
         {
           "_params": {
@@ -633,22 +415,141 @@
             "Theme"
           ],
           "_name": "gallery1",
-          "_styles": {
-            ".mbr-gallery-item > div > span": {
-              "font-size": "30px",
-              "text-align": "center",
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
-            }
+          "_anchor": "gallery1-3b",
+          "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Roboto:400,300,700);\n.mbr-gallery-item > div > span {\n  font-size: 30px;\n  text-align: center;\n  font-family: 'Roboto', sans-serif;\n}\n@media (max-width: 1366px) {\n    .mbr-gallery .mbr-gallery-item {\n      width: 20%; } }\n @media (max-width: 768px) {\n    .mbr-gallery .mbr-gallery-item {\n      width: 25%; } }\n  @media (max-width: 400px) {\n    .mbr-gallery .mbr-gallery-item {\n      width: 33.33%; } }",
+          "_customHTML": "<section class=\"mbr-gallery mbr-section mbr-section-nopadding mbr-slider-carousel\" data-filter=\"false\" data-rv-view=\"48\" style=\"background-color: rgb(255, 255, 255); padding-top: 0rem; padding-bottom: 0rem;\">\n    <!-- Filter -->\n    \n\n    <!-- Gallery -->\n    <div class=\"mbr-gallery-row\">\n        <div class=\" mbr-gallery-layout-default\">\n            <div>\n                <div>\n                    <div class=\"mbr-gallery-item mbr-gallery-item__3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Awesome\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"0\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/029-laptop-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Responsive\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"1\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/039-analytics-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Creative\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"2\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/023-cloud-computing-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Animated\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"3\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/046-presentation-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Awesome\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"4\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/034-curriculum-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Beautiful\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"5\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/047-presentation-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Responsive\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"6\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/035-group-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Animated\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"7\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/004-smartphone-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Animated\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"8\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/014-briefcase-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div><div class=\"mbr-gallery-item mbr-gallery-item__3 mbr-gallery-item--p1\" data-video-url=\"false\" data-tags=\"Animated\">\n                        <div href=\"#lb-gallery1-3b\" data-slide-to=\"9\" data-toggle=\"modal\">\n                            \n                            \n\n                            <img src=\"@PROJECT_PATH@/assets/images/033-id-card-512x512-512x512.png\" alt=\"\">\n                            \n                            <span class=\"icon-focus\"></span>\n                            \n                        </div>\n                    </div>\n                </div>\n            </div>\n            <div class=\"clearfix\"></div>\n        </div>\n    </div>\n\n    <!-- Lightbox -->\n    <div data-app-prevent-settings=\"\" class=\"mbr-slider modal fade carousel slide\" tabindex=\"-1\" data-keyboard=\"true\" data-interval=\"false\" id=\"lb-gallery1-3b\">\n        <div class=\"modal-dialog\">\n            <div class=\"modal-content\">\n                <div class=\"modal-body\">\n                    <ol class=\"carousel-indicators\">\n                        <li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"0\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"1\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"2\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"3\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"4\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"5\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"6\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"7\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" data-slide-to=\"8\"></li><li data-app-prevent-settings=\"\" data-target=\"#lb-gallery1-3b\" class=\" active\" data-slide-to=\"9\"></li>\n                    </ol>\n                    <div class=\"carousel-inner\">\n                        <div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/029-laptop-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/039-analytics-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/023-cloud-computing-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/046-presentation-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/034-curriculum-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/047-presentation-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/035-group-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/004-smartphone-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item\">\n                            <img src=\"@PROJECT_PATH@/assets/images/014-briefcase-512x512.png\" alt=\"\">\n                        </div><div class=\"carousel-item active\">\n                            <img src=\"@PROJECT_PATH@/assets/images/033-id-card-512x512.png\" alt=\"\">\n                        </div>\n                    </div>\n                    <a class=\"left carousel-control\" role=\"button\" data-slide=\"prev\" href=\"#lb-gallery1-3b\">\n                        <span class=\"icon-prev\" aria-hidden=\"true\"></span>\n                        <span class=\"sr-only\">Previous</span>\n                    </a>\n                    <a class=\"right carousel-control\" role=\"button\" data-slide=\"next\" href=\"#lb-gallery1-3b\">\n                        <span class=\"icon-next\" aria-hidden=\"true\"></span>\n                        <span class=\"sr-only\">Next</span>\n                    </a>\n\n                    <a class=\"close\" href=\"#\" role=\"button\" data-dismiss=\"modal\">\n                        <span aria-hidden=\"true\">×</span>\n                        <span class=\"sr-only\">Close</span>\n                    </a>\n                </div>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customTemplate": true
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#2e2e2e",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
           },
-          "_anchor": "gallery1-3b"
+          "_tags": [
+            "Theme"
+          ],
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages//1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com//\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com//\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-2r",
+          "_customHTML": "<iframe width=\"100%\" height=\"600\" frameborder=\"0\" scrolling=\"yes\" marginheight=\"0\" marginwidth=\"0\" src=\"https://suppliers-app.azurewebsites.net/\"></iframe> \n<h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size: 20px;text-align: center; background-color:#2e2e2e; padding-top: 20px; padding-bottom: 20px;\" code-editable-id=\"24\"><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSc8QvzXoe5hGYvYhUM0UsOrURJ8XcpToInXDZ564OLiTuikKA/viewform\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Global Designers / Join Now</a></h3>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": "a:hover {\n    color: white;\n    text-decoration:none; \n   \n}",
+          "_customTemplate": true
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showSubtitle": true,
+            "autoplay": true,
+            "timeout": 5,
+            "paddingTop": 2,
+            "paddingBottom": 1,
+            "showArrows": true,
+            "showBullets": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/flight-mountains-sky-flying.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#000",
+            "overlayOpacity": 0.5,
+            "visibleSlides": "6",
+            "slides": [
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/1.png",
+                    "link": "https://.com",
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/2.png",
+                    "link": "https://.com",
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "link": "https://.com",
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/4.png",
+                    "link": "https://.com",
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": false,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/5.png",
+                    "link": "https://.com",
+                    "active": true
+                  }
+                }
+              },
+              {
+                "active": true,
+                "media": {
+                  "image": {
+                    "src": "@PROJECT_PATH@/assets/images/3.png",
+                    "link": "https://.com",
+                    "active": true
+                  }
+                }
+              }
+            ]
+          },
+          "title": "OUR CLIENTS",
+          "subtitle": "\"Our clients\" carousel with adjustable number of visible clients.",
+          "alias": "3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extTestimonials5",
+          "_anchor": "extTestimonials5-3h"
         },
         {
           "_params": {
             "showTitle": false,
             "showSubtitle": false,
             "iconsColor": "#333333",
-            "blocks": "12",
+            "blocks": "3",
             "paddingTop": "0",
             "paddingBottom": "0",
             "parallax": false,
@@ -898,7 +799,7 @@
             "Extension"
           ],
           "_name": "extCountdown1",
-          "_customHTML": "<section class=\"mbr-section extCountdown1 mbr-parallax-background\" data-rv-view=\"90\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/shutterstock-106005665-2000x1251.png&quot;); padding-top: 160px; padding-bottom: 160px;\">\n\n    \n\n    <div class=\"container\">\n        <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"59\"><br></h3>\n        \n    </div>\n</section>\n",
+          "_customHTML": "<section class=\"mbr-section extCountdown1 mbr-parallax-background\" data-rv-view=\"90\" style=\"background-image: url(&quot;@PROJECT_PATH@/assets/images/shutterstock-106005665-2000x1251.png&quot;); padding-top: 160px; padding-bottom: 160px;\">\n\n    \n\n    <div class=\"container\">\n        <h3 class=\"mbr-section-title display-2 mbr-editable-content\" code-editable-id=\"37\"><br></h3>\n        \n    </div>\n</section>\n",
           "_customCSS": ".mbr-section-title {\n  font-size: 24px;\n  color: #ffffff;\n}\n",
           "_customTemplate": true,
           "_anchor": "extCountdown1-3q",
@@ -970,7 +871,7 @@
             "Extension"
           ],
           "_name": "extTable1",
-          "_customHTML": "<section class=\"mbr-section extTable1\" data-rv-view=\"255\" style=\"background-color:black; padding-top: 0px; padding-bottom: 0px;\">\n\n    <div class=\"container table-wrapper\" info3-text=\"(filtered from\" data-search=\"false\" search-text=\"Search:\" info1-text=\"Showing\" info2-text=\"entries\" info4-text=\"total entries)\">      \n        <table class=\"table mbr-editable-content\" cellspacing=\"0\" width=\"100%\" code-editable-id=\"278\"><thead><tr></tr></thead><tbody><tr><td><a href=\"#\"><span class=\"fa fa-comment-o mbr-iconfont mbr-iconfont-btn\"></span><h5>Designers</h5></a></td><td><a href=\"#\"><span class=\"fa fa-volume-up mbr-iconfont mbr-iconfont-btn\"></span><h5>Suppliers</h5></a></td></tr></tbody></table></div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section extTable1\" data-rv-view=\"255\" style=\"background-color:black; padding-top: 0px; padding-bottom: 0px;\">\n\n    <div class=\"container table-wrapper\" info3-text=\"(filtered from\" data-search=\"false\" search-text=\"Search:\" info1-text=\"Showing\" info2-text=\"entries\" info4-text=\"total entries)\">      \n        <table class=\"table mbr-editable-content\" cellspacing=\"0\" width=\"100%\" code-editable-id=\"47\"><thead><tr></tr></thead><tbody><tr><td><a href=\"#\"><span class=\"fa fa-comment-o mbr-iconfont mbr-iconfont-btn\"></span><h5>Designers</h5></a></td><td><a href=\"#\"><span class=\"fa fa-volume-up mbr-iconfont mbr-iconfont-btn\"></span><h5>Suppliers</h5></a></td></tr></tbody></table></div>\n</section>",
           "_customCSS": "@import url(https://fonts.googleapis.com/css?family=Oxygen:400,300,700);\nTABLE {\n  text-align: center;\n     \n}\nTD {\n  font-size: 24px;\n    \n  font-family: 'Oxygen', sans-serif;\n}\nB {\n  font-size: 36px;\n}\na:hover {\n    color: red;\n    text-decoration:none; \n   \n}\ntd:hover {border: 1px solid gray;}\n",
           "_customTemplate": true,
           "_anchor": "extTable1-2v",
@@ -1309,6 +1210,11 @@
         },
         {
           "_inherit": "social-buttons2",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
           "_params": {
             "paddingTop": "0",
             "paddingBottom": "0",
@@ -1316,7 +1222,7 @@
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000000",
             "overlay": false,
             "overlayColor": "#222",
             "overlayOpacity": 0.5
@@ -1325,14 +1231,14 @@
             "Theme"
           ],
           "text": "FOLLOW US",
-          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages//1616226671953247\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com//\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com//\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages//1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com//\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com//\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
           "_name": "social-buttons4",
-          "_anchor": "social-buttons4-2r",
-          "_customHTML": "<iframe width=\"100%\" height=\"600\" frameborder=\"0\" scrolling=\"yes\" marginheight=\"0\" marginwidth=\"0\" src=\"https://suppliers-app.azurewebsites.net/\"></iframe> \n<h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size: 20px;text-align: center; background-color:#2e2e2e; padding-top: 20px; padding-bottom: 20px;\" code-editable-id=\"389\"><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSc8QvzXoe5hGYvYhUM0UsOrURJ8XcpToInXDZ564OLiTuikKA/viewform\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Global Designers / Join Now</a></h3>",
+          "_customHTML": "<section class=\"mbr-section mbr-section-md-padding\" data-rv-view=\"2997\" style=\"background-color: rgb(0, 0, 0); padding-top: 0px; padding-bottom: 0px;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n              \n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size:36px;text-align: center; background-color:#000000; padding-top: 25px; padding-bottom: 5px;\" code-editable-id=\"55\"><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSc8QvzXoe5hGYvYhUM0UsOrURJ8XcpToInXDZ564OLiTuikKA/viewform\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Global Designers / Join Now</a></h3>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customCSS": ".mbr-section-title, .btn-social {\n  color: #fff;\n}\na:hover {\n    color: red;\n    text-decoration:none; }",
+          "_customTemplate": true,
+          "_anchor": "social-buttons4-40",
           "_PHPplaceholders": [],
-          "_JSplaceholders": [],
-          "_customCSS": "\na:hover {\n    color: white;\n    text-decoration:none; \n   \n}",
-          "_customTemplate": true
+          "_JSplaceholders": []
         },
         {
           "_params": {
@@ -1964,8 +1870,35 @@
               "font-size": "16px"
             }
           },
-          "_customCSS": ".mbr-gallery .mbr-gallery-item {\n  position: relative;\n  display: inline-block;\n  width: 20%; }\n  @media (max-width: 768px) {\n    .mbr-gallery .mbr-gallery-item {\n      width: 50%; } }\n  @media (max-width: 400px) {\n    .mbr-gallery .mbr-gallery-item {\n      width: 50%; } }",
+          "_customCSS": "",
           "_anchor": "gallery1-2n"
+        },
+        {
+          "_inherit": "social-buttons2",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "text": "FOLLOW US",
+          "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-cart-add mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages//1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-magic-stick mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+/posts\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><span class=\"mbri-like mbr-iconfont mbr-iconfont-btn\"></span></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com//\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com//\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> ",
+          "_name": "social-buttons4",
+          "_anchor": "social-buttons4-3z",
+          "_customHTML": "<section class=\"mbr-section mbr-section-md-padding\" data-rv-view=\"2997\" style=\"background-color: rgb(0, 0, 0); padding-top: 0px; padding-bottom: 0px;\">\n    \n    <div class=\"container\">\n        <div class=\"row\">\n            <div class=\"col-md-8 col-md-offset-2 text-xs-center\">\n              \n                <h3 class=\"mbr-section-title display-2 mbr-editable-content\" style=\"font-size:36px;text-align: center; background-color:#000000; padding-top: 25px; padding-bottom: 5px;\" code-editable-id=\"57\"><a href=\"https://docs.google.com/forms/d/e/1FAIpQLSc8QvzXoe5hGYvYhUM0UsOrURJ8XcpToInXDZ564OLiTuikKA/viewform\"><span class=\"mbri-touch mbr-iconfont mbr-iconfont-btn\"></span>Global Designers / Join Now</a></h3>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [],
+          "_customCSS": ".mbr-section-title, .btn-social {\n  color: #fff;\n}\na:hover {\n    color: red;\n    text-decoration:none; }",
+          "_customTemplate": true
         },
         {
           "_params": {
