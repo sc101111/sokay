@@ -22,12 +22,14 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 71,
+    "uniqCompNum": 70,
     "versionPublish": "4.2.4",
     "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "@PROJECT_PATH@"
   },
   "pages": {
     "index.html": {
@@ -199,30 +201,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/chapurin-356c98aa-600x799-600x799.jpg",
-                "image": "@PROJECT_PATH@/assets/images/chapurin-356c98aa-600x799.jpg",
-                "caption": "Type caption here",
-                "active": true,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dyncontent-cmsobject-2014-12-23-857049212451525945536.jpg-960-540-960x540-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-dyncontent-cmsobject-2014-12-23-857049212451525945536.jpg-960-540-960x540.jpg",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2016-timati-base-730x438-730x438.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2016-timati-base-730x438.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2016_timati_base-730x438.jpg",
                 "caption": "Type caption here",
                 "active": false,
                 "alt": ""
@@ -233,7 +213,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/alexandra-vanushina-539x707-539x707.jpg",
-                "image": "@PROJECT_PATH@/assets/images/alexandra-vanushina-539x707.jpg",
+                "image": "@PROJECT_PATH@/assets/images/alexandra_vanushina-539x707.jpg",
                 "caption": "Type caption here",
                 "active": false,
                 "alt": ""
@@ -376,7 +356,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/0918-shiatzy-chen-interview-portrait-606x441-606x441.jpg",
-                "image": "@PROJECT_PATH@/assets/images/0918-shiatzy-chen-interview-portrait-606x441.jpg",
+                "image": "@PROJECT_PATH@/assets/images/0918-shiatzy_chen_interview-portrait-606x441.jpg",
                 "caption": "Type caption here",
                 "active": false,
                 "alt": ""
@@ -1025,7 +1005,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/angel-chen-1140x641-800x449.jpg",
-                "image": "@PROJECT_PATH@/assets/images/angel-chen-1140x641.jpg",
+                "image": "@PROJECT_PATH@/assets/images/angel_chen-1140x641.jpg",
                 "caption": "Type caption here",
                 "active": false,
                 "alt": ""
@@ -1047,7 +1027,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/640-5ba4bf4b180337559de2474dab5f2385-640x1138-640x1138.jpg",
-                "image": "@PROJECT_PATH@/assets/images/640-5ba4bf4b180337559de2474dab5f2385-640x1138.jpg",
+                "image": "@PROJECT_PATH@/assets/images/640_5ba4bf4b180337559de2474dab5f2385-640x1138.jpg",
                 "caption": "Type caption here",
                 "active": false,
                 "alt": ""
@@ -1071,7 +1051,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/jenn-lee-460x460-460x460.jpg",
                 "image": "@PROJECT_PATH@/assets/images/jenn-lee-460x460.jpg",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "alt": ""
               }
             ]
@@ -1085,54 +1065,54 @@
           "_params": {
             "autoplay": false,
             "animType": "fade",
-            "theme": "absent",
+            "theme": "angular",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/shokay2017collection-1593x900.jpg",
+                "image": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-1593x900.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "file:///D:/wamp/www/taiwan/tw-shokay/assets/images/shokay2017collection-850x480.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/shokay2017collection-85x48.png",
+                "src": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-850x480.jpg",
+                "tooltip": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-85x48.png",
                 "title": "title 2",
                 "text": "text 2",
                 "active": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/shokay2017collection-1-1593x900.jpg",
+                "image": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-1592x900.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "file:///D:/wamp/www/taiwan/tw-shokay/assets/images/shokay2017collection-15-850x480.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/shokay2017collection-1-85x48.png",
+                "src": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-846x478.jpg",
+                "tooltip": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-84x48.png",
                 "title": "title 2",
                 "text": "text 2",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/shokay2017collection-2-1593x900.jpg",
+                "image": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-1600x898.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "file:///D:/wamp/www/taiwan/tw-shokay/assets/images/shokay2017collection-10-850x480.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/shokay2017collection-2-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
+                "src": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-849x477.jpg",
+                "tooltip": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-85x47.png",
+                "title": "title 3",
+                "text": "text 3",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/shokay2017collection-3-1593x900.jpg",
+                "image": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-1595x900.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "file:///D:/wamp/www/taiwan/tw-shokay/assets/images/shokay2017collection-25-850x480.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/shokay2017collection-3-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
+                "src": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-851x480.jpg",
+                "tooltip": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-1-85x47.png",
+                "title": "title 1",
+                "text": "text 1",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/shokay2017collection-4-1593x900.jpg",
+                "image": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-1600x899.jpg",
                 "linkUrl": "http://google.com",
                 "link": false,
-                "src": "file:///D:/wamp/www/taiwan/tw-shokay/assets/images/shokay2017collection-1-850x480.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/shokay2017collection-4-85x48.png",
+                "src": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-2-850x478.jpg",
+                "tooltip": "file:///D:/git/fw-tw/tw-shokay/assets/images/shokay2017collection-2-85x47.png",
                 "title": "title 2",
                 "text": "text 2",
                 "active": false
@@ -1162,7 +1142,7 @@
             "Extension"
           ],
           "_name": "wowslider",
-          "_anchor": "wowslider-1y"
+          "_anchor": "wowslider-1x"
         },
         {
           "_params": {

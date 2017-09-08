@@ -22,12 +22,14 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 71,
-    "versionPublish": "4.2.4",
+    "uniqCompNum": 69,
+    "versionPublish": "4.2.3",
     "path": "@PROJECT_PATH@",
     "favicon": "",
     "noImageResize": "",
-    "screenshot": "screenshot.png"
+    "screenshot": "screenshot.png",
+    "publishType": "local",
+    "publishPath": "file:///D:/wamp/www/hm-6"
   },
   "pages": {
     "index.html": {
@@ -174,6 +176,89 @@
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
         {
+          "_params": {
+            "autoplay": false,
+            "animType": "fade",
+            "theme": "angular",
+            "slides": [
+              {
+                "image": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/22xx-1024x800.jpg",
+                "linkUrl": "#",
+                "link": true,
+                "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/22xx-1200x800.png",
+                "tooltip": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/22xx-85x800.png",
+                "title": "title 2",
+                "text": "text 2",
+                "active": false
+              },
+              {
+                "image": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/ah-egypt-1024x800.jpg",
+                "linkUrl": "#",
+                "link": true,
+                "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/ah-egypt-1200x800.png",
+                "tooltip": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/ah-egypt-85x800.png",
+                "title": "title 2",
+                "text": "text 2",
+                "active": false
+              },
+              {
+                "image": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/norine-farah-egypt-1024x800.jpg",
+                "linkUrl": "#",
+                "link": true,
+                "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/norine%20farah-egypt-1200x800.png",
+                "tooltip": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/norine-farah-egypt-85x800.png",
+                "title": "title 3",
+                "text": "text 3",
+                "active": true
+              },
+              {
+                "image": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/2-1024x800.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/2-1200x800.png",
+                "tooltip": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/2-85x800.png",
+                "title": "title 1",
+                "text": "text 1",
+                "active": false
+              },
+              {
+                "image": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/22xxx-1024x800.jpg",
+                "linkUrl": "http://google.com",
+                "link": false,
+                "src": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/22xxx-1200x800.png",
+                "tooltip": "file:///C:/Users/User/AppData/Local/Mobirise.com/Mobirise/projectData/22xxx-85x800.png",
+                "title": "title 3",
+                "text": "text 3",
+                "active": false
+              }
+            ],
+            "fullScreen": true,
+            "showCaptions": false,
+            "hideControls": false,
+            "responsive": "2",
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "captionsEffect": "slide",
+            "showBullets": false,
+            "bgColor": "#ffffff",
+            "timeout": "1",
+            "duration": "0.5",
+            "customSize": false,
+            "customWidth": "1600",
+            "customHeight": "1080",
+            "size": "1024x576",
+            "width": "1024",
+            "height": "576"
+          },
+          "articleLayout": false,
+          "alias": "wowslider",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "wowslider",
+          "_anchor": "wowslider-1w"
+        },
+        {
           "_tags": [
             "Theme"
           ],
@@ -199,30 +284,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/chapurin-356c98aa-600x799-600x799.jpg",
-                "image": "@PROJECT_PATH@/assets/images/chapurin-356c98aa-600x799.jpg",
-                "caption": "Type caption here",
-                "active": true,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/dyncontent-cmsobject-2014-12-23-857049212451525945536.jpg-960-540-960x540-800x450.jpg",
-                "image": "@PROJECT_PATH@/assets/images/-dyncontent-cmsobject-2014-12-23-857049212451525945536.jpg-960-540-960x540.jpg",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/2016-timati-base-730x438-730x438.jpg",
-                "image": "@PROJECT_PATH@/assets/images/2016-timati-base-730x438.jpg",
+                "image": "@PROJECT_PATH@/assets/images/2016_timati_base-730x438.jpg",
                 "caption": "Type caption here",
                 "active": false,
                 "alt": ""
@@ -233,7 +296,7 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/alexandra-vanushina-539x707-539x707.jpg",
-                "image": "@PROJECT_PATH@/assets/images/alexandra-vanushina-539x707.jpg",
+                "image": "@PROJECT_PATH@/assets/images/alexandra_vanushina-539x707.jpg",
                 "caption": "Type caption here",
                 "active": false,
                 "alt": ""
@@ -376,9 +439,9 @@
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/0918-shiatzy-chen-interview-portrait-606x441-606x441.jpg",
-                "image": "@PROJECT_PATH@/assets/images/0918-shiatzy-chen-interview-portrait-606x441.jpg",
+                "image": "@PROJECT_PATH@/assets/images/0918-shiatzy_chen_interview-portrait-606x441.jpg",
                 "caption": "Type caption here",
-                "active": false,
+                "active": true,
                 "alt": ""
               },
               {
@@ -1018,61 +1081,6 @@
                 "caption": "Type caption here",
                 "active": false,
                 "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/angel-chen-1140x641-800x449.jpg",
-                "image": "@PROJECT_PATH@/assets/images/angel-chen-1140x641.jpg",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/founders-339x421-339x421.jpg",
-                "image": "@PROJECT_PATH@/assets/images/founders-339x421.jpg",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/640-5ba4bf4b180337559de2474dab5f2385-640x1138-640x1138.jpg",
-                "image": "@PROJECT_PATH@/assets/images/640-5ba4bf4b180337559de2474dab5f2385-640x1138.jpg",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/just-in-case-headshot-360x500-360x500.jpg",
-                "image": "@PROJECT_PATH@/assets/images/just-in-case-headshot-360x500.jpg",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jenn-lee-460x460-460x460.jpg",
-                "image": "@PROJECT_PATH@/assets/images/jenn-lee-460x460.jpg",
-                "caption": "Type caption here",
-                "active": false,
-                "alt": ""
               }
             ]
           },
@@ -1080,89 +1088,6 @@
           "articleLayout": false,
           "allItem": "All",
           "_customCSS": ".mbr-gallery .mbr-gallery-item {\n  position: relative;\n  display: inline-block;\n  width: 20%; }\n  @media (max-width: 768px) {\n    .mbr-gallery .mbr-gallery-item {\n      width: 50%; } }\n  @media (max-width: 400px) {\n    .mbr-gallery .mbr-gallery-item {\n      width: 50%; } }"
-        },
-        {
-          "_params": {
-            "autoplay": false,
-            "animType": "fade",
-            "theme": "absent",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/shokay2017collection-1593x900.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "file:///D:/wamp/www/taiwan/tw-shokay/assets/images/shokay2017collection-850x480.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/shokay2017collection-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/shokay2017collection-1-1593x900.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "file:///D:/wamp/www/taiwan/tw-shokay/assets/images/shokay2017collection-15-850x480.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/shokay2017collection-1-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/shokay2017collection-2-1593x900.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "file:///D:/wamp/www/taiwan/tw-shokay/assets/images/shokay2017collection-10-850x480.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/shokay2017collection-2-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/shokay2017collection-3-1593x900.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "file:///D:/wamp/www/taiwan/tw-shokay/assets/images/shokay2017collection-25-850x480.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/shokay2017collection-3-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/shokay2017collection-4-1593x900.jpg",
-                "linkUrl": "http://google.com",
-                "link": false,
-                "src": "file:///D:/wamp/www/taiwan/tw-shokay/assets/images/shokay2017collection-1-850x480.jpg",
-                "tooltip": "@PROJECT_PATH@/assets/images/shokay2017collection-4-85x48.png",
-                "title": "title 2",
-                "text": "text 2",
-                "active": false
-              }
-            ],
-            "fullScreen": true,
-            "showCaptions": false,
-            "hideControls": false,
-            "responsive": "2",
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "captionsEffect": "slide",
-            "showBullets": false,
-            "bgColor": "#ffffff",
-            "timeout": "1",
-            "duration": "0.5",
-            "customSize": false,
-            "customWidth": "1600",
-            "customHeight": "1080",
-            "size": "1024x576",
-            "width": "1024",
-            "height": "576"
-          },
-          "articleLayout": false,
-          "alias": "wowslider",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "wowslider",
-          "_anchor": "wowslider-1y"
         },
         {
           "_params": {
