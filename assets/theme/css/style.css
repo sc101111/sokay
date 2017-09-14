@@ -1211,8 +1211,8 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
       padding-top: 60px;
       padding-bottom: 60px; } }
 .mbr-cards .striped .card {
-  padding-left: 10%;
-  padding-right: 10%; }
+  padding-left: 0%;
+  padding-right: 0%; }
 .mbr-cards .striped .mbr-cards-col:nth-child(2n+1) {
   background: #2e2e2e;
   color: #fff; }
@@ -1225,6 +1225,36 @@ input:-webkit-autofill, input:-webkit-autofill:hover, input:-webkit-autofill:foc
   padding-left: 0;
   padding-right: 0;
   margin-bottom: 0; }
+ @media (min-width: 400px) {
+  .mbr-cards-row {
+    display: table;
+    table-layout: fixed;
+    width: 300%; }
+    .mbr-cards-row::after {
+      display: none; }
+  .mbr-cards-col {
+    display: table-cell;
+    float: none; }
+  .mbr-cards > .container {
+    margin: 0;
+    max-width: none;
+    padding: 0;
+    width: 100%; } } 
+	@media (min-width: 600px) {
+  .mbr-cards-row {
+    display: table;
+    table-layout: fixed;
+    width: 200%; }
+    .mbr-cards-row::after {
+      display: none; }
+  .mbr-cards-col {
+    display: table-cell;
+    float: none; }
+  .mbr-cards > .container {
+    margin: 0;
+    max-width: none;
+    padding: 0;
+    width: 100%; } } 
   @media (max-width: 991px) {
     .mbr-cards .card {
       padding-left: 0;
